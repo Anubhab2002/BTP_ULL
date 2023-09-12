@@ -1,0 +1,4 @@
+coloredlogs
+transformers
+pytorch-lightning
+accelerate
