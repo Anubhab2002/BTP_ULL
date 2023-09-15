@@ -20,10 +20,14 @@ train_dataset = TRLWrapper(train_dataset)
 # print(train_dataset[100])
 
 data = []
+x = 0
 for example in train_dataset:
     if(example["query"]==[] or example["response"]==[]):
       continue
     data.append(example)
+    if(x==52):
+      break
+    x = x+1 
 
 
 class CustomDataset(Dataset):
@@ -72,7 +76,7 @@ class CustomDataset(Dataset):
         }
 
 custom_dataset = CustomDataset(data, tokenizer)
-# print("CUSTOM DATASET", custom_dataset[100])
+# print("CUSTOM DATASET", custom)
 
 class CustomTransformer(nn.Module):
     def __init__(self, vocab_size=100257, max_seq_length=1024, num_layers=8, num_heads=8, embed_dim=1024, ff_dim=4096, dropout=0.1):
@@ -196,11 +200,11 @@ seq_model.to(device)
 # config = AutoConfig.from_pretrained("t5-base")
 
 # Instantiate your custom Transformer model
-custom_model = CustomTransformer()
-custom_model.to(device)
+# custom_model = CustomTransformer()
+# custom_model.to(device)
 
-model = AutoregressiveTransformer()
-model.to(device)
+# model = AutoregressiveTransformer()
+# model.to(device)
 ## TRAIN PARAMS
 
 train_params = {
@@ -210,7 +214,7 @@ train_params = {
         }
 
 training_loader = DataLoader(custom_dataset, **train_params)
-optimizer = torch.optim.AdamW(params =  custom_model.parameters(), lr=1e-6)
+optimizer = torch.optim.Adam(params =  seq_model.parameters(), lr=1e-4)
 
 ## LOSSES
 
@@ -382,7 +386,7 @@ def ul_token_loss(model, batch, iteration):
   target = batch['target_ids'].cuda()
   output = model(input, trg=target)
   
-  if iteration%100==0:
+  if iteration%10==0:
     print("INPUT: ", tokenizer.decode(input[0]))
     print("TARGET: ", tokenizer.decode(target[0]))
     print("OUTPUT: ",  tokenizer.decode(output[0].argmax(dim=1, keepdim=True).view(-1)))
@@ -393,8 +397,9 @@ def ul_token_loss(model, batch, iteration):
   ntokens = target.numel()
   # print("LPROBS: ", lprobs.shape)
   loss_fn = nn.CrossEntropyLoss(reduction='mean', ignore_index=tokenizer.pad_token_id)
-  flattened_output = output.view(-1, output.size(-1))
-  flattened_target = target.view(-1)
+  l = output.shape[1]
+  flattened_output = output[:, :-1, :].reshape(output.shape[0]*(l-1), output.shape[2]) 
+  flattened_target = target[:, 1:].reshape(target.shape[0]*(l-1))
 
   mle_loss = loss_fn(flattened_output, flattened_target)
   
@@ -416,7 +421,7 @@ def ul_token_loss(model, batch, iteration):
 
   # loss = loss/ntokens
 
-  return loss
+  return mle_loss
 
 
 ## TRAINER
@@ -440,22 +445,16 @@ def train(epoch, tokenizer, model, device, loader, optimizer):
         
         loss = ul_token_loss(model, data, _)
         
-        if _%100==0:
+        if _%10==0:
           print(f'Loss:  {loss}')
         
-        optimizer.zero_grad()
         loss.backward()
+        
+        optimizer.zero_grad()
         optimizer.step()
 
 ## TRAIN LOOP
 print("TRAINING STARTED")
-for epoch in range(2):
+for epoch in range(20):
+    print("EPOCH: ", epoch)
     train(epoch, tokenizer, seq_model, device, training_loader, optimizer)
-
-
-
-
-
-
-
-
