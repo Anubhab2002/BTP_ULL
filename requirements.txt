@@ -1,4 +1,4 @@
 coloredlogs
 transformers
 pytorch-lightning
-accelerate
+accelerate  
