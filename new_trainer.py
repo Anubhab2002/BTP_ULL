@@ -10,10 +10,13 @@ from torch import cuda
 import math
 import numpy as np
 from model import LitS2S
+import wandb
 device = 'cuda' if cuda.is_available() else 'cpu'
 
+wandb.init(project="BTP_ULL_Training")
+
 tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased", use_fast=True, verbose=False)
-train_dataset = DialogData(os.path.join("/content/data", f'ijcnlp_dailydialog_cc/train/dialogues_train.txt'),
+train_dataset = DialogData(os.path.join("./data", 'ijcnlp_dailydialog_cc/train/dialogues_train.txt'),
                                tokenizer, neg_per_positive=10)
 train_dataset = TRLWrapper(train_dataset)
 
@@ -98,7 +101,7 @@ seq_model = LitS2S(vocab_size=len(tokenizer),
         batch_size=2,
         epochs=10,
         early_stopping_patience=5,
-        reddit_steps_per_epoch=500_000,
+        reddit_steps_per_epoch=500000,
         device_count=1,
         no_early_stopping=False,
         prob_positive=0.9,
@@ -156,6 +159,11 @@ def ul_token_loss(model, batch, iteration):
 
   loss = mle_loss + ul_loss
 
+  wandb.log({
+      "MLE LOSS: ": mle_loss,
+      "ULL LOSS: ": ul_loss,
+      "TOTAL LOSS:": loss
+      })
   # loss = loss/ntokens
 
   return loss
@@ -172,7 +180,7 @@ def train(epoch, tokenizer, model, device, loader, optimizer):
       loss = ul_token_loss(model, data, _)
       
       if _%500==0:
-        print(f'Loss:  {loss}')
+          print('Loss: ', loss)
       
       optimizer.zero_grad()
       loss.backward()
@@ -183,3 +191,5 @@ print("TRAINING STARTED")
 for epoch in range(20):
     print("EPOCH: ", epoch)
     train(epoch, tokenizer, seq_model, device, training_loader, optimizer)
+
+wandb.finish()

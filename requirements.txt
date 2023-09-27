@@ -1,4 +1,9 @@
+colorama
 coloredlogs
 transformers
 pytorch-lightning
-accelerate  
+wandb
+pandas
+matplotlib
+scikit-learn
+torchmetrics
