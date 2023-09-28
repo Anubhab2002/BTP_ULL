@@ -124,14 +124,19 @@ optimizer = torch.optim.Adam(params =  seq_model.parameters(), lr=1e-4)
 def ul_token_loss(model, batch, iteration):
   input = batch['input_ids'].cuda()
   target = batch['target_ids'].cuda()
-  output = model(input, trg=target)
+  # output = model(input, trg=target)
+  op = model(input, max_decode_len=1024, epsilon=-1)
+  output = op['logits']
+
+  # print(output.shape)
   
   if iteration%500==0:
     print("INPUT: ", tokenizer.decode(input[0]))
     print("TARGET: ", tokenizer.decode(target[0]))
     print("OUTPUT: ",  tokenizer.decode(output[0].argmax(dim=1, keepdim=True).view(-1)))
+    # print("OUTPUT: ", tokenizer.decode(output[0]))
 
-  lprobs = F.log_softmax(output, dim=-1)
+  # lprobs = F.log_softmax(output, dim=-1)
   # non_padding_indices = (target != tokenizer.pad_token_id).nonzero()
   # ntokens = len(target[non_padding_indices].squeeze(1))
   ntokens = target.numel()
@@ -143,30 +148,30 @@ def ul_token_loss(model, batch, iteration):
 
   mle_loss = loss_fn(flattened_output, flattened_target)
   
-  tar = target.view(-1)
-  # print("TAR: ", tar.shape)
-  ctx_cands = tar.unsqueeze(0).expand(tar.size(0), tar.size(0))
-  ctx_cands_ = (ctx_cands.tril(-1) + tokenizer.pad_token_id)
-  ctx_cands_ = ctx_cands_ * ctx_cands_.triu()
-  ctx_cands = ctx_cands.tril(-1) + ctx_cands_
+  # tar = target.view(-1)
+  # # print("TAR: ", tar.shape)
+  # ctx_cands = tar.unsqueeze(0).expand(tar.size(0), tar.size(0))
+  # ctx_cands_ = (ctx_cands.tril(-1) + tokenizer.pad_token_id)
+  # ctx_cands_ = ctx_cands_ * ctx_cands_.triu()
+  # ctx_cands = ctx_cands.tril(-1) + ctx_cands_
 
-  ctx_cands = ctx_cands.masked_fill(ctx_cands == tar.unsqueeze(1), tokenizer.pad_token_id)
-  negative_targets = torch.zeros_like(lprobs.view(-1, lprobs.size(-1))).scatter_(1, ctx_cands, 1)
+  # ctx_cands = ctx_cands.masked_fill(ctx_cands == tar.unsqueeze(1), tokenizer.pad_token_id)
+  # negative_targets = torch.zeros_like(lprobs.view(-1, lprobs.size(-1))).scatter_(1, ctx_cands, 1)
 
-  one_minus_probs = torch.clamp((1.0 - lprobs.view(-1, lprobs.size(-1)).exp()), min=1e-5)
-  ul_loss = -torch.log(one_minus_probs)*negative_targets
-  ul_loss = ul_loss.sum()
+  # one_minus_probs = torch.clamp((1.0 - lprobs.view(-1, lprobs.size(-1)).exp()), min=1e-5)
+  # ul_loss = -torch.log(one_minus_probs)*negative_targets
+  # ul_loss = ul_loss.sum()
 
-  loss = mle_loss + ul_loss
+  # loss = mle_loss + ul_loss
 
   wandb.log({
       "MLE LOSS: ": mle_loss,
-      "ULL LOSS: ": ul_loss,
-      "TOTAL LOSS:": loss
+      # "ULL LOSS: ": ul_loss,
+      # "TOTAL LOSS:": loss
       })
   # loss = loss/ntokens
 
-  return loss
+  return mle_loss
 
 def train(epoch, tokenizer, model, device, loader, optimizer):
   model.train()
