@@ -533,6 +533,40 @@ def resize_blenderbot_positional_embeddings(max_position, hf_blenderbot_instance
     #     hf_blenderbot_instance.model.encoder.embed_positions = BlenderbotLearnedPositionalEmbedding.from_pretrained(new_weights)
     return pe_enc, pe_dec
 
+def top_k_top_p_filtering(logits, top_k=0, top_p=0.0, filter_value=-float('Inf')):
+    """ Filter a distribution of logits using top-k and/or nucleus (top-p) filtering
+        Args:
+            logits: logits distribution shape (vocabulary size)
+            top_k >0: keep only top k tokens with highest probability (top-k filtering).
+            top_p >0.0: keep the top tokens with cumulative probability >= top_p (nucleus filtering).
+                Nucleus filtering is described in Holtzman et al. (http://arxiv.org/abs/1904.09751)
+        
+        Basic outline taken from https://gist.github.com/thomwolf/1a5a29f6962089e871b94cbd09daf317
+    """
+    assert logits.dim() == 2  # [BATCH_SIZE, VOCAB_SIZE]
+    top_k = min(top_k, logits.size(-1))  # Safety check
+    if top_k > 0:
+        # Remove all tokens with a probability less than the last token of the top-k
+        indices_to_remove = logits < torch.topk(logits, top_k, dim=1)[0][..., -1, None]
+        logits[indices_to_remove] = filter_value
+    
+    sorted_logits, sorted_indices = torch.sort(logits, descending=True)
+    
+    cumulative_probs = torch.cumsum(F.softmax(sorted_logits, dim=-1), dim=-1)
+    # Remove tokens with cumulative probability above the threshold
+    sorted_indices_to_remove = cumulative_probs > top_p
+    # Shift the indices to the right to keep also the first token above the threshold
+    sorted_indices_to_remove[..., 1:] = sorted_indices_to_remove[..., :-1].clone()
+    sorted_indices_to_remove[..., 0] = 0
+    
+    # Replace logits to be removed with -inf in the sorted_logits
+    sorted_logits[sorted_indices_to_remove] = filter_value
+    # Then reverse the sorting process by mapping back sorted_logits to their original position
+    logits = torch.gather(sorted_logits, 1, sorted_indices.argsort(-1))
+    
+    pred_token = torch.multinomial(F.softmax(logits, -1), 1) # [BATCH_SIZE, 1]
+    return pred_token
+
 
 class LitS2S(pl.LightningModule):
     @staticmethod
@@ -781,6 +815,7 @@ class LitS2S(pl.LightningModule):
             # output['sequence'] = torch.LongTensor(trg_indexes[1:]).unsqueeze(0).to(device)
             output['scores'] = F.log_softmax(out_logits, dim=-1)
             output['logits'] = out_logits
+            print("SHAPE: ", out_logits.shape)
         else: # sequence level loss calculation part (We are doing THIS)
             # Greedy/Sampling/Top-k/Top-p decoding
             # Configuration
@@ -794,6 +829,7 @@ class LitS2S(pl.LightningModule):
             trg_indexes = [self.bos_idx]*current_batch_size # initialise the target 
 
             # INIT
+            logits_list = []
             trg_tensor = torch.LongTensor(trg_indexes).unsqueeze(1).to(src.device) # convert them to tensors
             decreasing_series = torch.arange(max_decode_len, 0, -1).unsqueeze(0).to(src.device) # IDK
             # BOS already added, so max_decode_len - 1
@@ -802,12 +838,14 @@ class LitS2S(pl.LightningModule):
 
                 out_logits, _ = self.decoder(trg_tensor, enc_src, trg_mask, src_mask) # decode the sequence
                 out_logits = out_logits[:, -1] / (temperature) # normalise based on temperature
-                print("SHAPE: ", out_logits.shape)
+                # print("SHAPE: ", out_logits.shape)
                 if i < min_length:
                     out_logits[:, 0] = -float('Inf')
                     out_logits[:, self.eos_idx] = -float('Inf')
                 if i >= 0:
                     out_logits[:, self.bos_idx] = -float('Inf')
+
+                logits_list.append(out_logits.unsqueeze(1))
                 
                 if (np.random.rand() < epsilon and epsilon > 0):
                     pred_token = out_logits.argmax(-1).unsqueeze(1)
@@ -819,11 +857,12 @@ class LitS2S(pl.LightningModule):
                 trg_tensor = torch.cat([trg_tensor, pred_token], dim=1) # add the predicted token to the generated sequence
 
             
+            out_logits = torch.cat(logits_list, dim=1)
             # TODO: Should we remove BOS tokens? I think not, ESIM uses them.
             # trg_tensor = trg_tensor[:, 1:] # Remove BOS
             
             trg_tensor[:, -1] = self.eos_idx # Force atleast one EOS # add EOS token to the end of the sequence generated
-            print(trg_tensor.shape)
+            # print(trg_tensor.shape)
             trg_lengths_tensor = torch.argmax(decreasing_series*(trg_tensor == self.eos_idx), dim=1)
             trg_lengths = [1+l for l in trg_lengths_tensor.tolist()] # since argmax is 0 indexed
             gen_max_len = max(trg_lengths)
@@ -833,10 +872,12 @@ class LitS2S(pl.LightningModule):
             trg_tensor[(max_decode_len - decreasing_series[:, :gen_max_len]) > trg_lengths_tensor.unsqueeze(1)] = self.pad_idx # add padding at the end
 
             output['sequence'] = trg_tensor # output sequence contains the target_tensor
+            # print("output sequence shape", output['sequence'].shape)
             output['sequence_len'] = torch.LongTensor(trg_lengths)
             output['logits'] = out_logits
+            print("OUTPUT LOGITS SHAPE: ", output['logits'])
 
-        return output['logits']
+        return output
     
 
     def training_step(self, batch, batch_idx):
@@ -1045,10 +1086,3 @@ class LitS2S(pl.LightningModule):
             }
         ]
         return [optimizer], lr_schedulers
-        
-
-
-
-
-
-
