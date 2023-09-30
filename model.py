@@ -875,7 +875,7 @@ class LitS2S(pl.LightningModule):
             # print("output sequence shape", output['sequence'].shape)
             output['sequence_len'] = torch.LongTensor(trg_lengths)
             output['logits'] = out_logits
-            print("OUTPUT LOGITS SHAPE: ", output['logits'])
+            # print("OUTPUT LOGITS SHAPE: ", output['logits'].shape)
 
         return output
     
