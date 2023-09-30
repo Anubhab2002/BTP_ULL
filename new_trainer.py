@@ -125,7 +125,7 @@ def ul_token_loss(model, batch, iteration):
   input = batch['input_ids'].cuda()
   target = batch['target_ids'].cuda()
   # output = model(input, trg=target)
-  op = model(input, max_decode_len=1024, epsilon=-1)
+  op = model(input, max_decode_len=64, epsilon=-1)
   output = op['logits']
 
   # print(output.shape)
@@ -143,8 +143,10 @@ def ul_token_loss(model, batch, iteration):
   # print("LPROBS: ", lprobs.shape)
   loss_fn = nn.CrossEntropyLoss(reduction='mean', ignore_index=tokenizer.pad_token_id)
   l = output.shape[1]
-  flattened_output = output[:, :-1, :].reshape(output.shape[0]*(l-1), output.shape[2]) 
-  flattened_target = target[:, 1:].reshape(target.shape[0]*(l-1))
+  sliced_target = target[:, :64]
+  # print(l, output.shape, target.shape, sliced_target.shape)
+  flattened_output = output[:, :, :].reshape(output.shape[0]*(l), output.shape[2]) 
+  flattened_target = sliced_target[:, 1:].reshape(sliced_target.shape[0]*(l))
 
   mle_loss = loss_fn(flattened_output, flattened_target)
   
