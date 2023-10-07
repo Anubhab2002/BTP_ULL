@@ -157,49 +157,24 @@ def _count_n_grams(token_lst, n):
 
 def compute_loss(model, batch, iteration):
 	input = batch['input_ids'].cuda()
-  	target = batch['target_ids'].cuda()
-  	
-  	'''
-	if (torch.rand(1).item() >= 0.5):
-	    total_loss, model_output = super().compute_loss(batch, return_output=True) # Return MLE Loss
-	    # No sequence level unlikelihood
-	    if return_output:
-		return total_loss, model_output
-	    else:
-		return total_loss
-	'''
 	# Generate
 	clamp_min = 1e-6 # at fp16 since using gpu
 	maxlen = 64
-	
-	################################################
-	'''
-	with torch.no_grad():
-	    beam_pred_scores, _ = self._generate(batch, self.beam_size, maxlen) # put model generation here (LitS2S here)
 
-	# forward pass to create graph for beam search case
-	generations = [g[1:] for (g, s, _) in beam_pred_scores] # get the predicted sequences for each input sequence in the minibatch
-	pred_toks = torch.nn.utils.rnn.pad_sequence(generations, batch_first=True) # pad the generated sequences to get the true labels ( consider them as true labels now)
-	model_output = self.model(*self._model_input(batch), ys=pred_toks) # pass the true labels and the model input to the model to decode and generate outputs
-	logits, preds, _ = model_output # get the logits for the model decoing token wise
-	'''
 	################################################
-	
-	
 	beam_pred_scores = model(input, max_decode_len=maxlen, epsilon=1)['sequence']
 	print("SHAPE OF PREDICTED BEAMS: ", beam_pred_scores.shape) # should be [bs, max_len]
-	
+
 	generations = [g[1:] for g in beam_pred_scores] # should be [bs, max_len-1]
 	pred_toks = torch.nn.utils.rnn.pad_sequence(generations, batch_first=True)
 	model_output = model(input, trg=pred_toks)
 	logits = model_outputs['logits']
 	print("SHAPE OF LOGITS: ", logits.shape)
-	
+
 	if iteration%200==0:
-        print("INPUT: ", tokenizer.decode(input[0]))
-        print("TARGET: ", tokenizer.decode(target[0]))
-        print("OUTPUT: ",  tokenizer.decode(logits[0].argmax(dim=1, keepdim=True).view(-1)))	
-	
+       		print("INPUT: ", tokenizer.decode(input[0]))
+        	print("TARGET: ", tokenizer.decode(target[0]))
+        	print("OUTPUT: ",  tokenizer.decode(logits[0].argmax(dim=1, keepdim=True).view(-1)))
 
 	# construct mask marking repeats
 	n = 4  # label n-grams
@@ -219,12 +194,12 @@ def compute_loss(model, batch, iteration):
 	    # penalize if there is a context repeat
 	    for j, n_gram in enumerate(NGramIterator(gen_i, n)):
 		if context_n_grams[n_gram] > 0:
-		    crep_mask[i, j : j + n] = 1
+			crep_mask[i, j : j + n] = 1
 
 	    # penalize if there is a label repeat
 	    for j, n_gram in enumerate(NGramIterator(gen_i, n)):
 		if seen_n_grams[n_gram] > 0:
-		    lrep_mask[i, j : j + n] = 1
+			lrep_mask[i, j : j + n] = 1
 		seen_n_grams[n_gram] += 1
 
 	# Compute unlikelihood loss - we can keep this part entirely same ig
@@ -261,8 +236,7 @@ def ul_token_loss(model, batch, iteration):
   op = model(input, max_decode_len=64, epsilon=-1)
   output = op['logits']
 
-  # print(output.shape)
-  
+  # print(output.shape) 
   if iteration%500==0:
     print("INPUT: ", tokenizer.decode(input[0]))
     print("TARGET: ", tokenizer.decode(target[0]))
