@@ -150,83 +150,84 @@ class NGramIterator:
         return tuple(self.lst[self.counter : self.counter + self.n])
         
 def _count_n_grams(token_lst, n):
-	n_grams = defaultdict(int)
-	for n_gram in NGramIterator(token_lst, n):
-	    n_grams[n_gram] += 1
-	return n_grams
+  n_grams = defaultdict(int)
+  for n_gram in NGramIterator(token_lst, n):
+      n_grams[n_gram] += 1
+  return n_grams
 
 def compute_loss(model, batch, iteration):
-	input = batch['input_ids'].cuda()
-	# Generate
-	clamp_min = 1e-6 # at fp16 since using gpu
-	maxlen = 64
+  input = batch['input_ids'].cuda()
+  target = batch['target_ids'].cuda()
+  # Generate
+  clamp_min = 1e-6 # at fp16 since using gpu
+  maxlen = 64
 
-	################################################
-	beam_pred_scores = model(input, max_decode_len=maxlen, epsilon=1)['sequence']
-	print("SHAPE OF PREDICTED BEAMS: ", beam_pred_scores.shape) # should be [bs, max_len]
+  ################################################
+  beam_pred_scores = model(input, max_decode_len=maxlen, epsilon=1)['sequence']
+  print("SHAPE OF PREDICTED BEAMS: ", beam_pred_scores.shape) # should be [bs, max_len]
 
-	generations = [g[1:] for g in beam_pred_scores] # should be [bs, max_len-1]
-	pred_toks = torch.nn.utils.rnn.pad_sequence(generations, batch_first=True)
-	model_output = model(input, trg=pred_toks)
-	logits = model_outputs['logits']
-	print("SHAPE OF LOGITS: ", logits.shape)
+  generations = [g[1:] for g in beam_pred_scores] # should be [bs, max_len-1]
+  pred_toks = torch.nn.utils.rnn.pad_sequence(generations, batch_first=True)
+  model_output = model(input, trg=pred_toks)
+  logits = model_output['logits']
+  print("SHAPE OF LOGITS: ", logits.shape)
 
-	if iteration%200==0:
-       		print("INPUT: ", tokenizer.decode(input[0]))
-        	print("TARGET: ", tokenizer.decode(target[0]))
-        	print("OUTPUT: ",  tokenizer.decode(logits[0].argmax(dim=1, keepdim=True).view(-1)))
+  if iteration%200==0:
+    print("INPUT: ", tokenizer.decode(input[0]))
+    print("TARGET: ", tokenizer.decode(target[0]))
+    print("OUTPUT: ",  tokenizer.decode(logits[0].argmax(dim=1, keepdim=True).view(-1)))
 
-	# construct mask marking repeats
-	n = 4  # label n-grams
-	crep_mask = torch.zeros_like(pred_toks).type_as(logits) # create mask for context repititions
-	lrep_mask = torch.zeros_like(pred_toks).type_as(logits) # create mask for responce repititions
+  # construct mask marking repeats
+  n = 4  # label n-grams
+  crep_mask = torch.zeros_like(pred_toks).type_as(logits) # create mask for context repititions
+  lrep_mask = torch.zeros_like(pred_toks).type_as(logits) # create mask for responce repititions
 
-	for i, gen in enumerate(generations):
-	    gen_i = gen.tolist() # generation was a single dimensional tensor
+  for i, gen in enumerate(generations):
+    gen_i = gen.tolist() # generation was a single dimensional tensor
 
-	    # Collect context ngrams
-	    # batch - dictionary {input, output}
-	    context_i = batch.input_ids[i].tolist()
-	    context_n_grams = _count_n_grams(context_i, n)
+    # Collect context ngrams
+    # batch - dictionary {input, output}
+    context_i = batch.input_ids[i].tolist()
+    context_n_grams = _count_n_grams(context_i, n)
 
-	    seen_n_grams = defaultdict(int)
+    seen_n_grams = defaultdict(int)
 
-	    # penalize if there is a context repeat
-	    for j, n_gram in enumerate(NGramIterator(gen_i, n)):
-		if context_n_grams[n_gram] > 0:
-			crep_mask[i, j : j + n] = 1
+    # penalize if there is a context repeat
+    for j, n_gram in enumerate(NGramIterator(gen_i, n)):
+      if context_n_grams[n_gram] > 0:
+        crep_mask[i, j : j + n] = 1
 
-	    # penalize if there is a label repeat
-	    for j, n_gram in enumerate(NGramIterator(gen_i, n)):
-		if seen_n_grams[n_gram] > 0:
-			lrep_mask[i, j : j + n] = 1
-		seen_n_grams[n_gram] += 1
+    # penalize if there is a label repeat
+    for j, n_gram in enumerate(NGramIterator(gen_i, n)):
+      if seen_n_grams[n_gram] > 0:
+        lrep_mask[i, j : j + n] = 1
+    seen_n_grams[n_gram] += 1
 
-	# Compute unlikelihood loss - we can keep this part entirely same ig
-	pred_logsoftmax = torch.nn.LogSoftmax(dim=2)
-	lprobs = pred_logsoftmax(logits)
-	pred_lprobs = lprobs.view(-1, lprobs.size(2)).gather(1, pred_toks.view(-1, 1))
-	one_minus_probs = torch.clamp((1.0 - pred_lprobs.exp()), min=clamp_min).view(
-	    pred_toks.size(0), pred_toks.size(1)
-	)
+  # Compute unlikelihood loss - we can keep this part entirely same ig
+  pred_logsoftmax = torch.nn.LogSoftmax(dim=2)
+  lprobs = pred_logsoftmax(logits)
+  pred_lprobs = lprobs.view(-1, lprobs.size(2)).gather(1, pred_toks.view(-1, 1))
+  one_minus_probs = torch.clamp((1.0 - pred_lprobs.exp()), min=clamp_min).view(
+  pred_toks.size(0), pred_toks.size(1)
+  )
 
-	mask = (0.5 * lrep_mask) + (
-	    0.5 * crep_mask
-	)
+  mask = (0.5 * lrep_mask) + (
+  0.5 * crep_mask
+  )
 
-	ul_loss = -(torch.log(one_minus_probs)) * mask
-	total_loss = div(ul_loss.sum(), mask.sum())
-	#self.record_local_metric(
-	#    'ul_loss', AverageMetric.many(ul_loss.sum(dim=-1), mask.sum(dim=-1))
-	#)
+  ul_loss = -(torch.log(one_minus_probs)) * mask
+  total_loss = div(ul_loss.sum(), mask.sum())
+  #self.record_local_metric(
+  #    'ul_loss', AverageMetric.many(ul_loss.sum(dim=-1), mask.sum(dim=-1))
+  #)
 
-	#if not self.is_training:
-	#    # in eval mode, we want metrics (e.g. PPL) provided by tga's compute_loss
-	#    _, _ = super().compute_loss(batch, return_output=True)
+  #if not self.is_training:
+  #    # in eval mode, we want metrics (e.g. PPL) provided by tga's compute_loss
+  #    _, _ = super().compute_loss(batch, return_output=True)
 
-	# if return_output:
-	#    return total_loss, model_output
-	return total_loss
+  # if return_output:
+  #    return total_loss, model_output
+  return total_loss
 ####################################################
 
 def ul_token_loss(model, batch, iteration):
