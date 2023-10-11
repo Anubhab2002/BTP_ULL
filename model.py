@@ -815,7 +815,6 @@ class LitS2S(pl.LightningModule):
             # output['sequence'] = torch.LongTensor(trg_indexes[1:]).unsqueeze(0).to(device)
             output['scores'] = F.log_softmax(out_logits, dim=-1)
             output['logits'] = out_logits
-            print("SHAPE: ", out_logits.shape)
         else: # sequence level loss calculation part (We are doing THIS)
             # Greedy/Sampling/Top-k/Top-p decoding
             # Configuration
@@ -829,7 +828,7 @@ class LitS2S(pl.LightningModule):
             trg_indexes = [self.bos_idx]*current_batch_size # initialise the target 
 
             # INIT
-            logits_list = []
+            # logits_list = []
             trg_tensor = torch.LongTensor(trg_indexes).unsqueeze(1).to(src.device) # convert them to tensors
             decreasing_series = torch.arange(max_decode_len, 0, -1).unsqueeze(0).to(src.device) # IDK
             # BOS already added, so max_decode_len - 1
@@ -845,7 +844,7 @@ class LitS2S(pl.LightningModule):
                 if i >= 0:
                     out_logits[:, self.bos_idx] = -float('Inf')
 
-                logits_list.append(out_logits.unsqueeze(1))
+                # logits_list.append(out_logits.unsqueeze(1))
                 
                 if (np.random.rand() < epsilon and epsilon > 0):
                     pred_token = out_logits.argmax(-1).unsqueeze(1)
@@ -857,7 +856,7 @@ class LitS2S(pl.LightningModule):
                 trg_tensor = torch.cat([trg_tensor, pred_token], dim=1) # add the predicted token to the generated sequence
 
             
-            out_logits = torch.cat(logits_list, dim=1)
+            # out_logits = torch.cat(logits_list, dim=1)
             # TODO: Should we remove BOS tokens? I think not, ESIM uses them.
             # trg_tensor = trg_tensor[:, 1:] # Remove BOS
             

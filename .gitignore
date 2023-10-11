@@ -1,4 +1,5 @@
 wandb/
 btp/
 data/
+models/
 __pycache__/

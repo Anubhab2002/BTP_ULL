@@ -122,6 +122,55 @@ train_params = {
 training_loader = DataLoader(custom_dataset, **train_params)
 optimizer = torch.optim.Adam(params=seq_model.parameters(), lr=1e-4)
 
+def token_loss(model, batch, iteration):
+  input = batch['input_ids'].cuda()
+  target = batch['target_ids'].cuda()
+  output = model(input, trg=target)
+  output = output['logits']
+
+  ntokens = target.numel()
+  loss_fn = nn.CrossEntropyLoss(reduction='mean', ignore_index=tokenizer.pad_token_id)
+  l = output.shape[1]
+  flattened_output = output[:, :-1, :].reshape(output.shape[0]*(l-1), output.shape[2]) 
+  flattened_target = target[:, 1:].reshape(target.shape[0]*(l-1))
+
+  mle_loss = loss_fn(flattened_output, flattened_target)
+  
+  # tar = target.view(-1)
+  # # print("TAR: ", tar.shape)
+  # ctx_cands = tar.unsqueeze(0).expand(tar.size(0), tar.size(0))
+  # ctx_cands_ = (ctx_cands.tril(-1) + tokenizer.pad_token_id)
+  # ctx_cands_ = ctx_cands_ * ctx_cands_.triu()
+  # ctx_cands = ctx_cands.tril(-1) + ctx_cands_
+
+  # ctx_cands = ctx_cands.masked_fill(ctx_cands == tar.unsqueeze(1), tokenizer.pad_token_id)
+  # negative_targets = torch.zeros_like(lprobs.view(-1, lprobs.size(-1))).scatter_(1, ctx_cands, 1)
+
+  # one_minus_probs = torch.clamp((1.0 - lprobs.view(-1, lprobs.size(-1)).exp()), min=1e-5)
+  # ul_loss = -torch.log(one_minus_probs)*negative_targets
+  # ul_loss = ul_loss.sum()
+
+  # loss = mle_loss + ul_loss
+  # loss = loss/ntokens
+
+  if iteration%100==0:
+    wandb.log({
+        "INPUT: ": str(tokenizer.decode(input[0][:64])),
+        "TARGET: ": str(tokenizer.decode(target[0][:64])),
+        "OUTPUT: ": str(tokenizer.decode(output[0][:64].argmax(dim=1, keepdim=True).view(-1)))
+        })
+  
+  wandb.log({
+    "MLE LOSS: ": mle_loss,
+  })
+  
+  if iteration%1000==0:
+    print("Iteration: ", iteration)
+    print("INPUT: ", tokenizer.decode(input[0]))
+    print("TARGET: ", tokenizer.decode(target[0]))
+    print("OUTPUT: ",  tokenizer.decode(output[0].argmax(dim=1, keepdim=True).view(-1)))
+  return mle_loss
+
 ####################################################
 def div(x, y):
     if y == 0:
@@ -155,27 +204,25 @@ def _count_n_grams(token_lst, n):
       n_grams[n_gram] += 1
   return n_grams
 
-def compute_loss(model, batch, iteration):
+def sequence_loss(model, batch, iteration, epoch):
+  if (epoch==0 and iteration<=1000) or torch.rand(1).item() >= 0.5:
+    total_loss = token_loss(model, batch, iteration)
+    return total_loss
+  
   input = batch['input_ids'].cuda()
   target = batch['target_ids'].cuda()
+  
   # Generate
   clamp_min = 1e-6 # at fp16 since using gpu
   maxlen = 64
 
-  ################################################
-  beam_pred_scores = model(input, max_decode_len=maxlen, epsilon=1)['sequence']
-  print("SHAPE OF PREDICTED BEAMS: ", beam_pred_scores.shape) # should be [bs, max_len]
+  with torch.no_grad():
+    beam_pred_scores = model(input, max_decode_len=maxlen, epsilon=1)['sequence']
 
   generations = [g[1:] for g in beam_pred_scores] # should be [bs, max_len-1]
   pred_toks = torch.nn.utils.rnn.pad_sequence(generations, batch_first=True)
   model_output = model(input, trg=pred_toks)
   logits = model_output['logits']
-  print("SHAPE OF LOGITS: ", logits.shape)
-
-  if iteration%200==0:
-    print("INPUT: ", tokenizer.decode(input[0]))
-    print("TARGET: ", tokenizer.decode(target[0]))
-    print("OUTPUT: ",  tokenizer.decode(logits[0].argmax(dim=1, keepdim=True).view(-1)))
 
   # construct mask marking repeats
   n = 4  # label n-grams
@@ -187,7 +234,7 @@ def compute_loss(model, batch, iteration):
 
     # Collect context ngrams
     # batch - dictionary {input, output}
-    context_i = batch.input_ids[i].tolist()
+    context_i = batch['input_ids'][i].tolist()
     context_n_grams = _count_n_grams(context_i, n)
 
     seen_n_grams = defaultdict(int)
@@ -216,7 +263,25 @@ def compute_loss(model, batch, iteration):
   )
 
   ul_loss = -(torch.log(one_minus_probs)) * mask
-  total_loss = div(ul_loss.sum(), mask.sum())
+  total_loss = ul_loss.sum()
+  
+  if iteration%100==0: 
+    wandb.log({
+        "INPUT: ": str(tokenizer.decode(input[0][:64])),
+        "TARGET: ": str(tokenizer.decode(target[0][:64])),
+        "OUTPUT: ": str(tokenizer.decode(logits[0][:64].argmax(dim=1, keepdim=True).view(-1)))
+        })
+    
+  wandb.log({
+    "ULL LOSS: ": total_loss,
+  })
+  
+  if iteration%1000==0:
+    print("Iteration: ", iteration)
+    print("INPUT: ", tokenizer.decode(input[0]))
+    print("TARGET: ", tokenizer.decode(target[0]))
+    print("OUTPUT: ",  tokenizer.decode(logits[0].argmax(dim=1, keepdim=True).view(-1)))
+  
   #self.record_local_metric(
   #    'ul_loss', AverageMetric.many(ul_loss.sum(dim=-1), mask.sum(dim=-1))
   #)
@@ -233,8 +298,7 @@ def compute_loss(model, batch, iteration):
 def ul_token_loss(model, batch, iteration):
   input = batch['input_ids'].cuda()
   target = batch['target_ids'].cuda()
-  # output = model(input, trg=target)
-  op = model(input, max_decode_len=64, epsilon=-1)
+  output = model(input, trg=target)
   output = op['logits']
 
   # print(output.shape) 
@@ -244,15 +308,10 @@ def ul_token_loss(model, batch, iteration):
     print("OUTPUT: ",  tokenizer.decode(output[0].argmax(dim=1, keepdim=True).view(-1)))
     # print("OUTPUT: ", tokenizer.decode(output[0]))
 
-  # lprobs = F.log_softmax(output, dim=-1)
-  # non_padding_indices = (target != tokenizer.pad_token_id).nonzero()
-  # ntokens = len(target[non_padding_indices].squeeze(1))
   ntokens = target.numel()
-  # print("LPROBS: ", lprobs.shape)
   loss_fn = nn.CrossEntropyLoss(reduction='mean', ignore_index=tokenizer.pad_token_id)
   l = output.shape[1]
   sliced_target = target[:, :64]
-  # print(l, output.shape, target.shape, sliced_target.shape)
   flattened_output = output[:, :, :].reshape(output.shape[0]*(l), output.shape[2]) 
   flattened_target = sliced_target[:, 1:].reshape(sliced_target.shape[0]*(l))
 
@@ -286,16 +345,17 @@ def ul_token_loss(model, batch, iteration):
 def train(epoch, tokenizer, model, device, loader, optimizer):
   model.train()
   for _,data in enumerate(loader, 0):
+    
       ## MLE Loss
       
       # loss = mle_loss(model, data, mask)
       
       ## UL Loss
       
-      loss = compute_loss(model, data, _)
+      loss = sequence_loss(model, data, _, epoch)
       
       if _%200==0:
-          print('Loss: ', loss)
+          print("Iteration: ", _, ' Loss: ', loss)
       
       optimizer.zero_grad()
       loss.backward()
@@ -306,5 +366,8 @@ print("TRAINING STARTED")
 for epoch in range(20):
     print("EPOCH: ", epoch)
     train(epoch, tokenizer, seq_model, device, training_loader, optimizer)
+    
+## SAVING MODEL
+torch.save(seq_model.state_dict(), "./models/ull_dialogue_model_20.pth")
 
 wandb.finish()
