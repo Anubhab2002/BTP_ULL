@@ -799,7 +799,8 @@ class LitS2S(pl.LightningModule):
         # If trg is NOT None -> teacher forcing -> trg is input to the decoder
         # trg is None for inference
         # If trg is None, we do a greedy/topk/top-p decoding
-
+        # print("SRC: ", src)
+        # src = src['input_ids']
         src_mask = self.make_src_mask(src) # function to create attention mask for source sequence
         enc_src = self.encoder(src, src_mask) # pass the seq and the attention mask to the encoder
 

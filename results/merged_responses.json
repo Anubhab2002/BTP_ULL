@@ -1,0 +1,1507 @@
+[
+  {
+    "con": "[CLS] iba, how can i help? [SEP] ah, yes, hello. i'm calling to get some info about your pin services. you see, my friend also has an account with you and also enjoys shopping on the internet. she recommended i sign up for this service too. [SEP]",
+    "gt": "that was a wise decision, if i may say so. our personal internet banking service offers online shopping transactions, payment of household bills online, account management...",
+    "dd_cc_ull_20": "banking service is recorded. it costs $ to arrive."
+  },
+  {
+    "con": "[CLS] iba, how can i help? [SEP] ah, yes, hello. i'm calling to get some info about your pin services. you see, my friend also has an account with you and also enjoys shopping on the internet. she recommended i sign up for this service too. [SEP] that was a wise decision, if i may say so. our personal internet banking service offers online shopping transactions, payment of household bills online, account management... [SEP]",
+    "gt": "i will probably just use it for online shopping. at the moment, i have to meet the seller in person and pay cash, if it's a local seller.",
+    "dd_cc_ull_20": "I see. Thank you for your help. I think I'll sign up."
+  },
+  {
+    "con": "[CLS] iba, how can i help? [SEP] ah, yes, hello. i'm calling to get some info about your pin services. you see, my friend also has an account with you and also enjoys shopping on the internet. she recommended i sign up for this service too. [SEP] that was a wise decision, if i may say so. our personal internet banking service offers online shopping transactions, payment of household bills online, account management... [SEP] i will probably just use it for online shopping. at the moment, i have to meet the seller in person and pay cash, if it's a local seller. [SEP]",
+    "gt": "this will fix all of that for you. if you use our online payment service, the money will come straight out of your account and go directly into the seller's account, in a secure way.",
+    "dd_cc_ull_20": "I will give you a larger return ticket. please sit with the bed and get one wearing for tonight. john gives the customer."
+  },
+  {
+    "con": "[CLS] did you feed the puppies today? [SEP] yes, i have. [SEP]",
+    "gt": "that's good! just make sure to bathe them later.",
+    "dd_cc_ull_20": "##ods twenty plus the 36zhou culture. what about the benefits?"
+  },
+  {
+    "con": "[CLS] did you feed the puppies today? [SEP] yes, i have. [SEP] that's good! just make sure to bathe them later. [SEP]",
+    "gt": "no problem. i can do that for you.",
+    "dd_cc_ull_20": "That's too heavy."
+  },
+  {
+    "con": "[CLS] did you feed the puppies today? [SEP] yes, i have. [SEP] that's good! just make sure to bathe them later. [SEP] no problem. i can do that for you. [SEP]",
+    "gt": "thank you! you know they have to go to the vet on saturday?",
+    "dd_cc_ull_20": "short and drinks are extra stations of the var quota classical music."
+  },
+  {
+    "con": "[CLS] did you feed the puppies today? [SEP] yes, i have. [SEP] that's good! just make sure to bathe them later. [SEP] no problem. i can do that for you. [SEP] thank you! you know they have to go to the vet on saturday? [SEP]",
+    "gt": "i know. what time do they go?",
+    "dd_cc_ull_20": "4 of each. and where do i need to go to that mall?"
+  },
+  {
+    "con": "[CLS] did you feed the puppies today? [SEP] yes, i have. [SEP] that's good! just make sure to bathe them later. [SEP] no problem. i can do that for you. [SEP] thank you! you know they have to go to the vet on saturday? [SEP] i know. what time do they go? [SEP]",
+    "gt": "their appointment is at eleven o'clock in the morning.",
+    "dd_cc_ull_20": "o. then, our school boughts on the lo dot."
+  },
+  {
+    "con": "[CLS] did you feed the puppies today? [SEP] yes, i have. [SEP] that's good! just make sure to bathe them later. [SEP] no problem. i can do that for you. [SEP] thank you! you know they have to go to the vet on saturday? [SEP] i know. what time do they go? [SEP] their appointment is at eleven o'clock in the morning. [SEP]",
+    "gt": "okay, i won't forget.",
+    "dd_cc_ull_20": "gift for him! come on! swollen! is that white eating to speak shy?"
+  },
+  {
+    "con": "[CLS] nice to meet you here. how come you dropped into this company today? [SEP] my boss sent me here to take some business documents back to his office. i didn't know you were working here. what a surprise. how long have you been doing this? [SEP]",
+    "gt": "two years or so.",
+    "dd_cc_ull_20": "little written by taste. i've petty consumer loan. i'll make sure the customer have a simonen strict enjoying online."
+  },
+  {
+    "con": "[CLS] nice to meet you here. how come you dropped into this company today? [SEP] my boss sent me here to take some business documents back to his office. i didn't know you were working here. what a surprise. how long have you been doing this? [SEP] two years or so. [SEP]",
+    "gt": "that is great. do you have to work the night shift?",
+    "dd_cc_ull_20": "very terrible. i'm afraid saturday"
+  },
+  {
+    "con": "[CLS] nice to meet you here. how come you dropped into this company today? [SEP] my boss sent me here to take some business documents back to his office. i didn't know you were working here. what a surprise. how long have you been doing this? [SEP] two years or so. [SEP] that is great. do you have to work the night shift? [SEP]",
+    "gt": "no, in most cases i don't have to unless there is something urgent to deal with. i work five days a week.",
+    "dd_cc_ull_20": "soup, 150t... done. the best thing to gentle hotel!"
+  },
+  {
+    "con": "[CLS] nice to meet you here. how come you dropped into this company today? [SEP] my boss sent me here to take some business documents back to his office. i didn't know you were working here. what a surprise. how long have you been doing this? [SEP] two years or so. [SEP] that is great. do you have to work the night shift? [SEP] no, in most cases i don't have to unless there is something urgent to deal with. i work five days a week. [SEP]",
+    "gt": "do you enjoy work here?",
+    "dd_cc_ull_20": "green piece. dessert is, i am going to have an interview. and thank you for gordon, too dreams the meeting."
+  },
+  {
+    "con": "[CLS] Nice to meet you here.How come you dropped into this company today? [SEP] My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? [SEP] Two years or so. [SEP] That is great.Do you have to work the night shift? [SEP] No, in most cases I don't have to unless there is something urgent to deal with. I work five days a week. [SEP] Do you enjoy work here? [SEP]",
+    "gt": " It is hard to say.But I've to start by working as a trainee before I really become an experienced marketing assistant.Sometimes, I am really under great pressure when it gets busy. ",
+    "dd_cc_ull_20": " Yes, I do. I like the fact that I get to work with people from all over the world. I meet a lot of interesting"
+  },
+  {
+    "con": "[CLS] Nice to meet you here.How come you dropped into this company today? [SEP] My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? [SEP] Two years or so. [SEP] That is great.Do you have to work the night shift? [SEP] No, in most cases I don't have to unless there is something urgent to deal with. I work five days a week. [SEP] Do you enjoy work here? [SEP] It is hard to say.But I've to start by working as a trainee before I really become an experienced marketing assistant.Sometimes, I am really under great pressure when it gets busy. [SEP]",
+    "gt": " Take it easy. I'm sure you will gain enough experience while working as a marketing assistant. I hope you haven't been given much trouble in the job. ",
+    "dd_cc_ull_20": " Yes, I do enjoy working here. What about you? What do you like to do on your free time?"
+  },
+  {
+    "con": "[CLS] Nice to meet you here.How come you dropped into this company today? [SEP] My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? [SEP] Two years or so. [SEP] That is great.Do you have to work the night shift? [SEP] No, in most cases I don't have to unless there is something urgent to deal with. I work five days a week. [SEP] Do you enjoy work here? [SEP] It is hard to say.But I've to start by working as a trainee before I really become an experienced marketing assistant.Sometimes, I am really under great pressure when it gets busy. [SEP] Take it easy. I'm sure you will gain enough experience while working as a marketing assistant. I hope you haven't been given much trouble in the job. [SEP]",
+    "gt": " Luckily not.The silent I meet are generally very friendly and have a good boss. ",
+    "dd_cc_ull_20": " Yes, I do enjoy working here. What about you? What do you like about working here?"
+  },
+  {
+    "con": "[CLS] Nice to meet you here.How come you dropped into this company today? [SEP] My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? [SEP] Two years or so. [SEP] That is great.Do you have to work the night shift? [SEP] No, in most cases I don't have to unless there is something urgent to deal with. I work five days a week. [SEP] Do you enjoy work here? [SEP] It is hard to say.But I've to start by working as a trainee before I really become an experienced marketing assistant.Sometimes, I am really under great pressure when it gets busy. [SEP] Take it easy. I'm sure you will gain enough experience while working as a marketing assistant. I hope you haven't been given much trouble in the job. [SEP] Luckily not.The silent I meet are generally very friendly and have a good boss. [SEP]",
+    "gt": " Glad to hear that. ",
+    "dd_cc_ull_20": " Yes, I do enjoy it. I think I will stay here for a long time.  "
+  },
+  {
+    "con": "[CLS] how do you do. i \u2019 m mark rancor. [SEP] nice to meet you. [SEP]",
+    "gt": "may i know your name, please?",
+    "dd_cc_ull_20": "quickly, ma \u2019 am. why don \u2019 t we start?"
+  },
+  {
+    "con": "[CLS] how do you do. i \u2019 m mark rancor. [SEP] nice to meet you. [SEP] may i know your name, please? [SEP]",
+    "gt": "i \u2019 m rose teller. i think i \u2019 ve seen you somewhere before?",
+    "dd_cc_ull_20": "chops this pair? don't anyy him, he will talk well."
+  },
+  {
+    "con": "[CLS] how do you do. i \u2019 m mark rancor. [SEP] nice to meet you. [SEP] may i know your name, please? [SEP] i \u2019 m rose teller. i think i \u2019 ve seen you somewhere before? [SEP]",
+    "gt": "ah, yes. i remember now. were you mr. john \u2019 s dinner partner last month?",
+    "dd_cc_ull_20": "collecto or forget tonea?"
+  },
+  {
+    "con": "[CLS] how do you do. i \u2019 m mark rancor. [SEP] nice to meet you. [SEP] may i know your name, please? [SEP] i \u2019 m rose teller. i think i \u2019 ve seen you somewhere before? [SEP] ah, yes. i remember now. were you mr. john \u2019 s dinner partner last month? [SEP]",
+    "gt": "yes, i was. you work for 3m, right?",
+    "dd_cc_ull_20": "of course. i am very happy. i want to travel by taking an away from your mouth."
+  },
+  {
+    "con": "[CLS] how do you do. i \u2019 m mark rancor. [SEP] nice to meet you. [SEP] may i know your name, please? [SEP] i \u2019 m rose teller. i think i \u2019 ve seen you somewhere before? [SEP] ah, yes. i remember now. were you mr. john \u2019 s dinner partner last month? [SEP] yes, i was. you work for 3m, right? [SEP]",
+    "gt": "i did but now i \u2019 m for microsoft. how are things with you?",
+    "dd_cc_ull_20": "know what you're talking to out all, but he's very quiet."
+  },
+  {
+    "con": "[CLS] how do you do. i \u2019 m mark rancor. [SEP] nice to meet you. [SEP] may i know your name, please? [SEP] i \u2019 m rose teller. i think i \u2019 ve seen you somewhere before? [SEP] ah, yes. i remember now. were you mr. john \u2019 s dinner partner last month? [SEP] yes, i was. you work for 3m, right? [SEP] i did but now i \u2019 m for microsoft. how are things with you? [SEP]",
+    "gt": "good.",
+    "dd_cc_ull_20": "tell me this is going to you."
+  },
+  {
+    "con": "[CLS] how do you do. i \u2019 m mark rancor. [SEP] nice to meet you. [SEP] may i know your name, please? [SEP] i \u2019 m rose teller. i think i \u2019 ve seen you somewhere before? [SEP] ah, yes. i remember now. were you mr. john \u2019 s dinner partner last month? [SEP] yes, i was. you work for 3m, right? [SEP] i did but now i \u2019 m for microsoft. how are things with you? [SEP] good. [SEP]",
+    "gt": "may i know what you do?",
+    "dd_cc_ull_20": "more than happy than $ 100."
+  },
+  {
+    "con": "[CLS] How do you do. I \u2019 m Mark Rancor. [SEP] Nice to meet you. [SEP] May I know your name, please? [SEP] I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? [SEP] Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? [SEP] Yes, I was. You work for 3M, right? [SEP] I did but now I \u2019 m for Microsoft. How are things with you? [SEP] Good. [SEP] May I know what you do? [SEP]",
+    "gt": " I \u2019 m a fashion designer. Next month, I have a fashion show. I \u2019 d love it if come. I can get you a couple of tickets. So you can bring a friend if you like. ",
+    "dd_cc_ull_20": " I'm a financial analyst for a multinational company. I love it! "
+  },
+  {
+    "con": "[CLS] How do you do. I \u2019 m Mark Rancor. [SEP] Nice to meet you. [SEP] May I know your name, please? [SEP] I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? [SEP] Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? [SEP] Yes, I was. You work for 3M, right? [SEP] I did but now I \u2019 m for Microsoft. How are things with you? [SEP] Good. [SEP] May I know what you do? [SEP] I \u2019 m a fashion designer. Next month, I have a fashion show. I \u2019 d love it if come. I can get you a couple of tickets. So you can bring a friend if you like. [SEP]",
+    "gt": " Sure. That would be great. Good luck. ",
+    "dd_cc_ull_20": " Yes, of course.    What do you want to know about me?  "
+  },
+  {
+    "con": "[CLS] How do you do. I \u2019 m Mark Rancor. [SEP] Nice to meet you. [SEP] May I know your name, please? [SEP] I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? [SEP] Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? [SEP] Yes, I was. You work for 3M, right? [SEP] I did but now I \u2019 m for Microsoft. How are things with you? [SEP] Good. [SEP] May I know what you do? [SEP] I \u2019 m a fashion designer. Next month, I have a fashion show. I \u2019 d love it if come. I can get you a couple of tickets. So you can bring a friend if you like. [SEP] Sure. That would be great. Good luck. [SEP]",
+    "gt": " Thank you. ",
+    "dd_cc_ull_20": " Yes, you \u2019 re right. You \u2019 ll have a great time at the show "
+  },
+  {
+    "con": "[CLS] Look, Jim. That man just fell down over there. [SEP] We better see if he \u2019 s o. k. [SEP]",
+    "gt": " Sir... sir? Are you all right? Sir? ",
+    "dd_cc_ull_20": " I \u2019 m sure he will be fine. He's just a little clumsy. I hope he doesn \u2019 t fall down"
+  },
+  {
+    "con": "[CLS] Look, Jim. That man just fell down over there. [SEP] We better see if he \u2019 s o. k. [SEP] Sir... sir? Are you all right? Sir? [SEP]",
+    "gt": " He \u2019 s not answering. You \u2019 d better check his pulse and breathing. ",
+    "dd_cc_ull_20": " Yes, sir. I'm all right, but I don \u2019 t know if I'm going to be able to find him. "
+  },
+  {
+    "con": "[CLS] look, jim. that man just fell down over there. [SEP] we better see if he \u2019 s o. k. [SEP] sir... sir? are you all right? sir? [SEP] he \u2019 s not answering. you \u2019 d better check his pulse and breathing. [SEP]",
+    "gt": "oh, no. he \u2019 s not breathing, and there \u2019 s no pulse. call 911.",
+    "dd_cc_ull_20": "date? what does tuesday finish?"
+  },
+  {
+    "con": "[CLS] look, jim. that man just fell down over there. [SEP] we better see if he \u2019 s o. k. [SEP] sir... sir? are you all right? sir? [SEP] he \u2019 s not answering. you \u2019 d better check his pulse and breathing. [SEP] oh, no. he \u2019 s not breathing, and there \u2019 s no pulse. call 911. [SEP]",
+    "gt": "hello? yes. someone has passed out at connecticut ave. and 1st st. he isn \u2019 t breathing and does not have a pulse. yes. my friend is performing cpr. ok. thank you. they \u2019 re sending an ambulance. here, let me help.",
+    "dd_cc_ull_20": "##er \u2019 s in later. whatever you want your stay with your friends."
+  },
+  {
+    "con": "[CLS] i'm going crazy. [SEP] what's the matter? [SEP]",
+    "gt": "i've got a dozen things to do and they all have to be done immediately.",
+    "dd_cc_ull_20": "while they yellow, they got genuine."
+  },
+  {
+    "con": "[CLS] i'm going crazy. [SEP] what's the matter? [SEP] i've got a dozen things to do and they all have to be done immediately. [SEP]",
+    "gt": "well, if there is anything i can do to help, let me know.",
+    "dd_cc_ull_20": "juice and he wants to some silly slip."
+  },
+  {
+    "con": "[CLS] so how did i do? [SEP] not too good, i'm sorry. [SEP]",
+    "gt": "i lost?",
+    "dd_cc_ull_20": "however, a charitypan groups and a prime took dropped slow of you over earlier."
+  },
+  {
+    "con": "[CLS] so how did i do? [SEP] not too good, i'm sorry. [SEP] i lost? [SEP]",
+    "gt": "it was close. to be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date. acme promised them almost a full month sooner.",
+    "dd_cc_ull_20": "go ahead. i want to give it to me."
+  },
+  {
+    "con": "[CLS] so how did i do? [SEP] not too good, i'm sorry. [SEP] i lost? [SEP] it was close. to be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date. acme promised them almost a full month sooner. [SEP]",
+    "gt": "so the price was good?",
+    "dd_cc_ull_20": "? why do you know that?"
+  },
+  {
+    "con": "[CLS] so how did i do? [SEP] not too good, i'm sorry. [SEP] i lost? [SEP] it was close. to be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date. acme promised them almost a full month sooner. [SEP] so the price was good? [SEP]",
+    "gt": "yes, they loved the price, the delivery date was the problem. they just didn't want to cut the delivery date that close. if something went wrong and you didn't deliver, we might not be able to get stock in time for christmas. if you could have been two or",
+    "dd_cc_ull_20": "shirts while i'm going to finally night."
+  },
+  {
+    "con": "[CLS] so how did i do? [SEP] not too good, i'm sorry. [SEP] i lost? [SEP] it was close. to be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date. acme promised them almost a full month sooner. [SEP] so the price was good? [SEP] yes, they loved the price, the delivery date was the problem. they just didn't want to cut the delivery date that close. if something went wrong and you didn't deliver, we might not be able to get stock in time for christmas. if you could have been two or three weeks faster on delivery, they might have gone with you. [SEP]",
+    "gt": "so i didn't miss by much then.",
+    "dd_cc_ull_20": "completely. crackers shame very bad and interested in the world."
+  },
+  {
+    "con": "[CLS] so how did i do? [SEP] not too good, i'm sorry. [SEP] i lost? [SEP] it was close. to be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date. acme promised them almost a full month sooner. [SEP] so the price was good? [SEP] yes, they loved the price, the delivery date was the problem. they just didn't want to cut the delivery date that close. if something went wrong and you didn't deliver, we might not be able to get stock in time for christmas. if you could have been two or three weeks faster on delivery, they might have gone with you. [SEP] so i didn't miss by much then. [SEP]",
+    "gt": "no. it was very close and they argued over the bid for a long time. better luck next time.",
+    "dd_cc_ull_20": "re - shows? isn't it my bit?"
+  },
+  {
+    "con": "[CLS] so how did i do? [SEP] not too good, i'm sorry. [SEP] i lost? [SEP] it was close. to be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date. acme promised them almost a full month sooner. [SEP] so the price was good? [SEP] yes, they loved the price, the delivery date was the problem. they just didn't want to cut the delivery date that close. if something went wrong and you didn't deliver, we might not be able to get stock in time for christmas. if you could have been two or three weeks faster on delivery, they might have gone with you. [SEP] so i didn't miss by much then. [SEP] no. it was very close and they argued over the bid for a long time. better luck next time. [SEP]",
+    "gt": "i knew the delivery was slow but i figured the price would win it for me.",
+    "dd_cc_ull_20": "taste. french, please."
+  },
+  {
+    "con": "[CLS] so how did i do? [SEP] not too good, i'm sorry. [SEP] i lost? [SEP] it was close. to be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date. acme promised them almost a full month sooner. [SEP] so the price was good? [SEP] yes, they loved the price, the delivery date was the problem. they just didn't want to cut the delivery date that close. if something went wrong and you didn't deliver, we might not be able to get stock in time for christmas. if you could have been two or three weeks faster on delivery, they might have gone with you. [SEP] so i didn't miss by much then. [SEP] no. it was very close and they argued over the bid for a long time. better luck next time. [SEP] i knew the delivery was slow but i figured the price would win it for me. [SEP]",
+    "gt": "that's possible, bill. but the price would have to have been a lot lower, like around fifty cents per unit.",
+    "dd_cc_ull_20": "ought to make problems.. bye."
+  },
+  {
+    "con": "[CLS] hi, can i assist you in any way? [SEP] oh, thank you. yes, please. what i need is to handle some domestic affairs. [SEP]",
+    "gt": "oh, i see. in what area?",
+    "dd_cc_ull_20": "hot feeling better. i don't like mine very hot."
+  },
+  {
+    "con": "[CLS] hi, can i assist you in any way? [SEP] oh, thank you. yes, please. what i need is to handle some domestic affairs. [SEP] oh, i see. in what area? [SEP]",
+    "gt": "well, i need a deposit certification to handle this.",
+    "dd_cc_ull_20": "2. m. back home fromdue bed in the morning."
+  },
+  {
+    "con": "[CLS] hi, can i assist you in any way? [SEP] oh, thank you. yes, please. what i need is to handle some domestic affairs. [SEP] oh, i see. in what area? [SEP] well, i need a deposit certification to handle this. [SEP]",
+    "gt": "yes, we have this service. have you got a deposit certificate and your passport? i'm sorry to ask you, but your passport is very important.",
+    "dd_cc_ull_20": "words? chen exports have a low number. good at 120 dollars!"
+  },
+  {
+    "con": "[CLS] hi, can i assist you in any way? [SEP] oh, thank you. yes, please. what i need is to handle some domestic affairs. [SEP] oh, i see. in what area? [SEP] well, i need a deposit certification to handle this. [SEP] yes, we have this service. have you got a deposit certificate and your passport? i'm sorry to ask you, but your passport is very important. [SEP]",
+    "gt": "yes, yes. here it is. by the way, is there a handling fee?",
+    "dd_cc_ull_20": "banking exercise is too low, so haven be taken the next bus anyway."
+  },
+  {
+    "con": "[CLS] hi, can i assist you in any way? [SEP] oh, thank you. yes, please. what i need is to handle some domestic affairs. [SEP] oh, i see. in what area? [SEP] well, i need a deposit certification to handle this. [SEP] yes, we have this service. have you got a deposit certificate and your passport? i'm sorry to ask you, but your passport is very important. [SEP] yes, yes. here it is. by the way, is there a handling fee? [SEP]",
+    "gt": "yes, i'm afraid there is.",
+    "dd_cc_ull_20": "fortunately in writing production. myrn mostly city.. it's cheap kind of 90."
+  },
+  {
+    "con": "[CLS] excuse me. i want to pay for these items. [SEP] ok. this way, please. [SEP]",
+    "gt": "how much is it all together?",
+    "dd_cc_ull_20": "needed this love is really latest. let me have meat."
+  },
+  {
+    "con": "[CLS] excuse me. i want to pay for these items. [SEP] ok. this way, please. [SEP] how much is it all together? [SEP]",
+    "gt": "let me see. 100 dollars.",
+    "dd_cc_ull_20": "weekends a shut in films. is it what's in your class?"
+  },
+  {
+    "con": "[CLS] excuse me. i want to pay for these items. [SEP] ok. this way, please. [SEP] how much is it all together? [SEP] let me see. 100 dollars. [SEP]",
+    "gt": "can i pay by credit card?",
+    "dd_cc_ull_20": "while everyone wants to know what like, you don't."
+  },
+  {
+    "con": "[CLS] excuse me. i want to pay for these items. [SEP] ok. this way, please. [SEP] how much is it all together? [SEP] let me see. 100 dollars. [SEP] can i pay by credit card? [SEP]",
+    "gt": "sorry. you can only pay in cash.",
+    "dd_cc_ull_20": "please charge the cold thirty thousand and months."
+  },
+  {
+    "con": "[CLS] excuse me. i want to pay for these items. [SEP] ok. this way, please. [SEP] how much is it all together? [SEP] let me see. 100 dollars. [SEP] can i pay by credit card? [SEP] sorry. you can only pay in cash. [SEP]",
+    "gt": "ok. here you are.",
+    "dd_cc_ull_20": "drink.. ok, well, i \u2019 ll take this... it all the things i receive the seconds, i \u2019 ll see you then. here."
+  },
+  {
+    "con": "[CLS] excuse me. i want to pay for these items. [SEP] ok. this way, please. [SEP] how much is it all together? [SEP] let me see. 100 dollars. [SEP] can i pay by credit card? [SEP] sorry. you can only pay in cash. [SEP] ok. here you are. [SEP]",
+    "gt": "thank you. do you need the invoice?",
+    "dd_cc_ull_20": "july speaking. do you have an international one?"
+  },
+  {
+    "con": "[CLS] excuse me. i want to pay for these items. [SEP] ok. this way, please. [SEP] how much is it all together? [SEP] let me see. 100 dollars. [SEP] can i pay by credit card? [SEP] sorry. you can only pay in cash. [SEP] ok. here you are. [SEP] thank you. do you need the invoice? [SEP]",
+    "gt": "yes. and can you pack the things up, please?",
+    "dd_cc_ull_20": "water looks well, i don't usually think so."
+  },
+  {
+    "con": "[CLS] excuse me. i want to pay for these items. [SEP] ok. this way, please. [SEP] how much is it all together? [SEP] let me see. 100 dollars. [SEP] can i pay by credit card? [SEP] sorry. you can only pay in cash. [SEP] ok. here you are. [SEP] thank you. do you need the invoice? [SEP] yes. and can you pack the things up, please? [SEP]",
+    "gt": "sure. i'll get right on it.",
+    "dd_cc_ull_20": "after all! thank you for reminding me."
+  },
+  {
+    "con": "[CLS] how often do you use the internet? [SEP] i use it almost every day, but i usually only use it to check my email. i don \u2019 t often surf the net. you use the internet a lot, don \u2019 t you? [SEP]",
+    "gt": "yes. i use it to find products and components at the lowest price for my company. it can be frustrating when the connection is poor.",
+    "dd_cc_ull_20": "gets on to the opening. he bought all the way ago!"
+  },
+  {
+    "con": "[CLS] How often do you use the internet? [SEP] I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? [SEP] Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. [SEP]",
+    "gt": " So, you \u2019 re online eight hours a day. ",
+    "dd_cc_ull_20": " I \u2019 m sorry to hear that. It \u2019 s good that you \u2019 re using the Internet a lot. You \u2019"
+  },
+  {
+    "con": "[CLS] How often do you use the internet? [SEP] I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? [SEP] Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. [SEP] So, you \u2019 re online eight hours a day. [SEP]",
+    "gt": " Yes, I like the job though. Sometimes, I help other people in the office if they \u2019 re having trouble online. ",
+    "dd_cc_ull_20": " Yes, I do. I \u2019 m always on the internet. I usually use it every day. It \u2019 s very convenient"
+  },
+  {
+    "con": "[CLS] How often do you use the internet? [SEP] I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? [SEP] Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. [SEP] So, you \u2019 re online eight hours a day. [SEP] Yes, I like the job though. Sometimes, I help other people in the office if they \u2019 re having trouble online. [SEP]",
+    "gt": " How useful do you think the internet is as a source of information? ",
+    "dd_cc_ull_20": " I \u2019 m glad you like your job. It \u2019 s good to have a job that "
+  },
+  {
+    "con": "[CLS] How often do you use the internet? [SEP] I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? [SEP] Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. [SEP] So, you \u2019 re online eight hours a day. [SEP] Yes, I like the job though. Sometimes, I help other people in the office if they \u2019 re having trouble online. [SEP] How useful do you think the internet is as a source of information? [SEP]",
+    "gt": " I think it \u2019 s fairly useful, but there are two big problems. First, a lot of the information you find online is false. Second, when you buy something online, you don \u2019 t see it until you actually get it. ",
+    "dd_cc_ull_20": " I \u2019 m glad you like your job. It \u2019 s important to have a job that you ll be happy with. "
+  },
+  {
+    "con": "[CLS] How often do you use the internet? [SEP] I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? [SEP] Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. [SEP] So, you \u2019 re online eight hours a day. [SEP] Yes, I like the job though. Sometimes, I help other people in the office if they \u2019 re having trouble online. [SEP] How useful do you think the internet is as a source of information? [SEP] I think it \u2019 s fairly useful, but there are two big problems. First, a lot of the information you find online is false. Second, when you buy something online, you don \u2019 t see it until you actually get it. [SEP]",
+    "gt": " How do you solve the website problems when you \u2019 re buying something online? ",
+    "dd_cc_ull_20": " I \u2019 m not a big fan of online shopping. I like to go to the store and look at the goods and services."
+  },
+  {
+    "con": "[CLS] How often do you use the internet? [SEP] I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? [SEP] Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. [SEP] So, you \u2019 re online eight hours a day. [SEP] Yes, I like the job though. Sometimes, I help other people in the office if they \u2019 re having trouble online. [SEP] How useful do you think the internet is as a source of information? [SEP] I think it \u2019 s fairly useful, but there are two big problems. First, a lot of the information you find online is false. Second, when you buy something online, you don \u2019 t see it until you actually get it. [SEP] How do you solve the website problems when you \u2019 re buying something online? [SEP]",
+    "gt": " What I do is find the website of shops. Then someone from our company visits the shop and buys when they \u2019 re seen that the products are genuine and suitable. ",
+    "dd_cc_ull_20": " I \u2019 m always on the internet. It's the only way I can connect to my friends and family in the countryside. "
+  },
+  {
+    "con": "[CLS] You may not remember me.My name is Joe Brown. [SEP] Yes, of course. I'm Jimmy White. [SEP]",
+    "gt": " Nice to see you again. ",
+    "dd_cc_ull_20": " Hi, Jimmy. How are you doing today? I'm doing well, thank you."
+  },
+  {
+    "con": "[CLS] You may not remember me.My name is Joe Brown. [SEP] Yes, of course. I'm Jimmy White. [SEP] Nice to see you again. [SEP]",
+    "gt": " Same here. ",
+    "dd_cc_ull_20": " Nice to meet you, too. I hope you have a great day. I'll be back in a few minutes."
+  },
+  {
+    "con": "[CLS] I called about that ad we saw in the paper. [SEP] For the bank manager? [SEP]",
+    "gt": " That \u2019 s the one. ",
+    "dd_cc_ull_20": " Yes.    I called to see if he could help me with the paperwork. He said he would do it for me."
+  },
+  {
+    "con": "[CLS] I called about that ad we saw in the paper. [SEP] For the bank manager? [SEP] That \u2019 s the one. [SEP]",
+    "gt": " What happened? ",
+    "dd_cc_ull_20": " Yes.    I \u2019 m sorry, but I don \u2019 t know what to say to you about the ad. "
+  },
+  {
+    "con": "[CLS] I called about that ad we saw in the paper. [SEP] For the bank manager? [SEP] That \u2019 s the one. [SEP] What happened? [SEP]",
+    "gt": " You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. ",
+    "dd_cc_ull_20": " I \u2019 m sorry.    What did you want to tell me?  "
+  },
+  {
+    "con": "[CLS] I called about that ad we saw in the paper. [SEP] For the bank manager? [SEP] That \u2019 s the one. [SEP] What happened? [SEP] You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. [SEP]",
+    "gt": " Well, no surprise there. ",
+    "dd_cc_ull_20": " I \u2019 m sorry.    What did you say to the bank?  "
+  },
+  {
+    "con": "[CLS] I called about that ad we saw in the paper. [SEP] For the bank manager? [SEP] That \u2019 s the one. [SEP] What happened? [SEP] You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. [SEP] Well, no surprise there. [SEP]",
+    "gt": " No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. ",
+    "dd_cc_ull_20": " I \u2019 m sorry, but I don \u2019 t know what to say to you.  "
+  },
+  {
+    "con": "[CLS] I called about that ad we saw in the paper. [SEP] For the bank manager? [SEP] That \u2019 s the one. [SEP] What happened? [SEP] You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. [SEP] Well, no surprise there. [SEP] No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. [SEP]",
+    "gt": " Great, so are you going to sign a contract with them? ",
+    "dd_cc_ull_20": " I \u2019 m sorry. I didn \u2019 t understand what you \u2019 re saying.  "
+  },
+  {
+    "con": "[CLS] I called about that ad we saw in the paper. [SEP] For the bank manager? [SEP] That \u2019 s the one. [SEP] What happened? [SEP] You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. [SEP] Well, no surprise there. [SEP] No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. [SEP] Great, so are you going to sign a contract with them? [SEP]",
+    "gt": " I \u2019 m going there tomorrow. ",
+    "dd_cc_ull_20": " Yes, I \u2019 m going to call them and see if they ll let me. I ll see what I can do."
+  },
+  {
+    "con": "[CLS] I called about that ad we saw in the paper. [SEP] For the bank manager? [SEP] That \u2019 s the one. [SEP] What happened? [SEP] You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. [SEP] Well, no surprise there. [SEP] No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. [SEP] Great, so are you going to sign a contract with them? [SEP] I \u2019 m going there tomorrow. [SEP]",
+    "gt": " Great! Good luck. ",
+    "dd_cc_ull_20": " Yes, I'm going to make sure that I get a contract. I don \u2019 t want to miss out on a good opportunity."
+  },
+  {
+    "con": "[CLS] I called about that ad we saw in the paper. [SEP] For the bank manager? [SEP] That \u2019 s the one. [SEP] What happened? [SEP] You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. [SEP] Well, no surprise there. [SEP] No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. [SEP] Great, so are you going to sign a contract with them? [SEP] I \u2019 m going there tomorrow. [SEP] Great! Good luck. [SEP]",
+    "gt": " And I think I'll look in on a few other Employment Agencies while I \u2019 m downtown, to see what they have. ",
+    "dd_cc_ull_20": " What's the name of the bank you're going to be working for?    What do you like to do for fun? "
+  },
+  {
+    "con": "[CLS] I called about that ad we saw in the paper. [SEP] For the bank manager? [SEP] That \u2019 s the one. [SEP] What happened? [SEP] You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. [SEP] Well, no surprise there. [SEP] No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. [SEP] Great, so are you going to sign a contract with them? [SEP] I \u2019 m going there tomorrow. [SEP] Great! Good luck. [SEP] And I think I'll look in on a few other Employment Agencies while I \u2019 m downtown, to see what they have. [SEP]",
+    "gt": " Good idea. The more people you ask, the better your chances are. ",
+    "dd_cc_ull_20": " Yes, I'm going to try to see if there are any other agencies that are looking for a job in the same area. "
+  },
+  {
+    "con": "[CLS] I am very proud of John. [SEP] Me too. No one has expected he can really get somewhere with his business. [SEP]",
+    "gt": " But he has suffered a lot. ",
+    "dd_cc_ull_20": " I know. He is a very talented man. I am so proud of him! "
+  },
+  {
+    "con": "[CLS] Do you mind helping me? [SEP] What can I help you with? [SEP]",
+    "gt": " I'm not sure how to find my next class. ",
+    "dd_cc_ull_20": " What can you help me with? I don't know anything about you. I just want to help you. "
+  },
+  {
+    "con": "[CLS] Do you mind helping me? [SEP] What can I help you with? [SEP] I'm not sure how to find my next class. [SEP]",
+    "gt": " Do you know what building that it's in? ",
+    "dd_cc_ull_20": " What kind of class are you going to take next semester? I can help you find your next class, if you'd like. "
+  },
+  {
+    "con": "[CLS] do you mind helping me? [SEP] what can i help you with? [SEP] i'm not sure how to find my next class. [SEP] do you know what building that it's in? [SEP]",
+    "gt": "the c building, i think.",
+    "dd_cc_ull_20": "ve given a long time. i think i've heard about there before!"
+  },
+  {
+    "con": "[CLS] do you mind helping me? [SEP] what can i help you with? [SEP] i'm not sure how to find my next class. [SEP] do you know what building that it's in? [SEP] the c building, i think. [SEP]",
+    "gt": "well, that's not far away.",
+    "dd_cc_ull_20": "chinese friday? how about sunday? oh, we love sc legs."
+  },
+  {
+    "con": "[CLS] do you mind helping me? [SEP] what can i help you with? [SEP] i'm not sure how to find my next class. [SEP] do you know what building that it's in? [SEP] the c building, i think. [SEP] well, that's not far away. [SEP]",
+    "gt": "could you point me in that direction?",
+    "dd_cc_ull_20": "your company. website well.. brownm, your ball, customs, prefer allow the beauty who never came to my work, and the brussels,ssion, and sets the ears i don't think do umbrella understand how it, kick"
+  },
+  {
+    "con": "[CLS] do you mind helping me? [SEP] what can i help you with? [SEP] i'm not sure how to find my next class. [SEP] do you know what building that it's in? [SEP] the c building, i think. [SEP] well, that's not far away. [SEP] could you point me in that direction? [SEP]",
+    "gt": "do you know what the room number is?",
+    "dd_cc_ull_20": "susan? what happened? did your orange?"
+  },
+  {
+    "con": "[CLS] do you mind helping me? [SEP] what can i help you with? [SEP] i'm not sure how to find my next class. [SEP] do you know what building that it's in? [SEP] the c building, i think. [SEP] well, that's not far away. [SEP] could you point me in that direction? [SEP] do you know what the room number is? [SEP]",
+    "gt": "it's c261.",
+    "dd_cc_ull_20": "eggs, milk, coffee! now what?"
+  },
+  {
+    "con": "[CLS] do you mind helping me? [SEP] what can i help you with? [SEP] i'm not sure how to find my next class. [SEP] do you know what building that it's in? [SEP] the c building, i think. [SEP] well, that's not far away. [SEP] could you point me in that direction? [SEP] do you know what the room number is? [SEP] it's c261. [SEP]",
+    "gt": "my next class is around there.",
+    "dd_cc_ull_20": "##y alright. i am sorry, but my mom has gone to birthday in one week. here'schu rib."
+  },
+  {
+    "con": "[CLS] do you mind helping me? [SEP] what can i help you with? [SEP] i'm not sure how to find my next class. [SEP] do you know what building that it's in? [SEP] the c building, i think. [SEP] well, that's not far away. [SEP] could you point me in that direction? [SEP] do you know what the room number is? [SEP] it's c261. [SEP] my next class is around there. [SEP]",
+    "gt": "can you show it to me?",
+    "dd_cc_ull_20": "tornadoes down my life. clean it every morning."
+  },
+  {
+    "con": "[CLS] do you mind helping me? [SEP] what can i help you with? [SEP] i'm not sure how to find my next class. [SEP] do you know what building that it's in? [SEP] the c building, i think. [SEP] well, that's not far away. [SEP] could you point me in that direction? [SEP] do you know what the room number is? [SEP] it's c261. [SEP] my next class is around there. [SEP] can you show it to me? [SEP]",
+    "gt": "sure, let's go.",
+    "dd_cc_ull_20": "wednesday. : passed for seven thirty and professors, i'd better impression next week."
+  },
+  {
+    "con": "[CLS] that china - gown of tang - dynasty style is so beautiful. would you show it to me, please? [SEP] absolutely. here it is. [SEP]",
+    "gt": "could i try it on?",
+    "dd_cc_ull_20": "college. expectou university with english."
+  },
+  {
+    "con": "[CLS] that china - gown of tang - dynasty style is so beautiful. would you show it to me, please? [SEP] absolutely. here it is. [SEP] could i try it on? [SEP]",
+    "gt": "please do, the fitting - room is over there.",
+    "dd_cc_ull_20": "if i don't work with me, i think. we'd must be mad. she's instead of washed."
+  },
+  {
+    "con": "[CLS] that china - gown of tang - dynasty style is so beautiful. would you show it to me, please? [SEP] absolutely. here it is. [SEP] could i try it on? [SEP] please do, the fitting - room is over there. [SEP]",
+    "gt": "it feels a little tight around the waist. do you have a bigger one?",
+    "dd_cc_ull_20": "priceh. if your honor health, i \u2019 ll give you a visitor."
+  },
+  {
+    "con": "[CLS] that china - gown of tang - dynasty style is so beautiful. would you show it to me, please? [SEP] absolutely. here it is. [SEP] could i try it on? [SEP] please do, the fitting - room is over there. [SEP] it feels a little tight around the waist. do you have a bigger one? [SEP]",
+    "gt": "i'm sorry. we don't have this color in your size. we have some green ones in your size. would you please have a look at this green one?",
+    "dd_cc_ull_20": "japanese dancer, english, and so on."
+  },
+  {
+    "con": "[CLS] that china - gown of tang - dynasty style is so beautiful. would you show it to me, please? [SEP] absolutely. here it is. [SEP] could i try it on? [SEP] please do, the fitting - room is over there. [SEP] it feels a little tight around the waist. do you have a bigger one? [SEP] i'm sorry. we don't have this color in your size. we have some green ones in your size. would you please have a look at this green one? [SEP]",
+    "gt": "ok. how much does it cost?",
+    "dd_cc_ull_20": ": well he isn't done. seems very words?"
+  },
+  {
+    "con": "[CLS] that china - gown of tang - dynasty style is so beautiful. would you show it to me, please? [SEP] absolutely. here it is. [SEP] could i try it on? [SEP] please do, the fitting - room is over there. [SEP] it feels a little tight around the waist. do you have a bigger one? [SEP] i'm sorry. we don't have this color in your size. we have some green ones in your size. would you please have a look at this green one? [SEP] ok. how much does it cost? [SEP]",
+    "gt": "it's 486 yuan.",
+    "dd_cc_ull_20": "able on jacket. call you right now."
+  },
+  {
+    "con": "[CLS] are you ok? [SEP] yeah. why not? [SEP]",
+    "gt": "because... i heard john got married yesterday.",
+    "dd_cc_ull_20": "out of breath video house."
+  },
+  {
+    "con": "[CLS] are you ok? [SEP] yeah. why not? [SEP] because... i heard john got married yesterday. [SEP]",
+    "gt": "oh, you went to the wedding?",
+    "dd_cc_ull_20": "and everything is well.."
+  },
+  {
+    "con": "[CLS] are you ok? [SEP] yeah. why not? [SEP] because... i heard john got married yesterday. [SEP] oh, you went to the wedding? [SEP]",
+    "gt": "no, he didn't tell me about it. don't feel bad.",
+    "dd_cc_ull_20": ", what speaking please? the meaningful did tend to get over there."
+  },
+  {
+    "con": "[CLS] are you ok? [SEP] yeah. why not? [SEP] because... i heard john got married yesterday. [SEP] oh, you went to the wedding? [SEP] no, he didn't tell me about it. don't feel bad. [SEP]",
+    "gt": "i'm ok. i promise. maybe you don't know that i have done with him for a long time.",
+    "dd_cc_ull_20": "matched to get in touch how the chicken and tonight the music is going to love anytime!"
+  },
+  {
+    "con": "[CLS] kata! you've got a beautiful singing voice. you hit the high notes perfectly. [SEP] thank you for your compliment. but you are exaggerating. i think you are destined to be a singer. you have the best voice! [SEP]",
+    "gt": "thank you. maybe we can sing a song together. would you like to sing with me?",
+    "dd_cc_ull_20": "re - too high communications and bought from your computer turnedy reasonable."
+  },
+  {
+    "con": "[CLS] kata! you've got a beautiful singing voice. you hit the high notes perfectly. [SEP] thank you for your compliment. but you are exaggerating. i think you are destined to be a singer. you have the best voice! [SEP] thank you. maybe we can sing a song together. would you like to sing with me? [SEP]",
+    "gt": "yes, i'd like to. it's my honor. let's pick a song.",
+    "dd_cc_ull_20": "colorado, nosey.. disappear, pair! well under the wild unless theuis upper ball?"
+  },
+  {
+    "con": "[CLS] kata! you've got a beautiful singing voice. you hit the high notes perfectly. [SEP] thank you for your compliment. but you are exaggerating. i think you are destined to be a singer. you have the best voice! [SEP] thank you. maybe we can sing a song together. would you like to sing with me? [SEP] yes, i'd like to. it's my honor. let's pick a song. [SEP]",
+    "gt": "how about this one?",
+    "dd_cc_ull_20": "water causing thirteen everyday! what are you rack?"
+  },
+  {
+    "con": "[CLS] kata! you've got a beautiful singing voice. you hit the high notes perfectly. [SEP] thank you for your compliment. but you are exaggerating. i think you are destined to be a singer. you have the best voice! [SEP] thank you. maybe we can sing a song together. would you like to sing with me? [SEP] yes, i'd like to. it's my honor. let's pick a song. [SEP] how about this one? [SEP]",
+    "gt": "sorry, i can't sing the song.",
+    "dd_cc_ull_20": "filed on the wire. that's our ups. if you'll need tastes special.. wait a gift for its hands, does the sound too."
+  },
+  {
+    "con": "[CLS] kata! you've got a beautiful singing voice. you hit the high notes perfectly. [SEP] thank you for your compliment. but you are exaggerating. i think you are destined to be a singer. you have the best voice! [SEP] thank you. maybe we can sing a song together. would you like to sing with me? [SEP] yes, i'd like to. it's my honor. let's pick a song. [SEP] how about this one? [SEP] sorry, i can't sing the song. [SEP]",
+    "gt": "er... how about this one?",
+    "dd_cc_ull_20": "while i want to, but their boss will only parking function or her."
+  },
+  {
+    "con": "[CLS] kata! you've got a beautiful singing voice. you hit the high notes perfectly. [SEP] thank you for your compliment. but you are exaggerating. i think you are destined to be a singer. you have the best voice! [SEP] thank you. maybe we can sing a song together. would you like to sing with me? [SEP] yes, i'd like to. it's my honor. let's pick a song. [SEP] how about this one? [SEP] sorry, i can't sing the song. [SEP] er... how about this one? [SEP]",
+    "gt": "ok. but i'm not familiar. i don't know the beginning part.",
+    "dd_cc_ull_20": "papers have a nice twelve days."
+  },
+  {
+    "con": "[CLS] kata! you've got a beautiful singing voice. you hit the high notes perfectly. [SEP] thank you for your compliment. but you are exaggerating. i think you are destined to be a singer. you have the best voice! [SEP] thank you. maybe we can sing a song together. would you like to sing with me? [SEP] yes, i'd like to. it's my honor. let's pick a song. [SEP] how about this one? [SEP] sorry, i can't sing the song. [SEP] er... how about this one? [SEP] ok. but i'm not familiar. i don't know the beginning part. [SEP]",
+    "gt": "never mind. you can follow me. i'll sing the first part.",
+    "dd_cc_ull_20": "##fujing. casual valuable programs."
+  },
+  {
+    "con": "[CLS] kata! you've got a beautiful singing voice. you hit the high notes perfectly. [SEP] thank you for your compliment. but you are exaggerating. i think you are destined to be a singer. you have the best voice! [SEP] thank you. maybe we can sing a song together. would you like to sing with me? [SEP] yes, i'd like to. it's my honor. let's pick a song. [SEP] how about this one? [SEP] sorry, i can't sing the song. [SEP] er... how about this one? [SEP] ok. but i'm not familiar. i don't know the beginning part. [SEP] never mind. you can follow me. i'll sing the first part. [SEP]",
+    "gt": "ok.",
+    "dd_cc_ull_20": "santa. friday night is included. presents!"
+  },
+  {
+    "con": "[CLS] the summer vacation is coming. have you any plans? [SEP] i haven't made up my mind. maybe i will go to the us. what about you? [SEP]",
+    "gt": "i am going on a hiking trip. it's good exercise as well as fun.",
+    "dd_cc_ull_20": "exercisey! that's exactly the coke for someone cheap."
+  },
+  {
+    "con": "[CLS] the summer vacation is coming. have you any plans? [SEP] i haven't made up my mind. maybe i will go to the us. what about you? [SEP] i am going on a hiking trip. it's good exercise as well as fun. [SEP]",
+    "gt": "i think so.",
+    "dd_cc_ull_20": "##er seat.. and then you might be tied in duty 250."
+  },
+  {
+    "con": "[CLS] the summer vacation is coming. have you any plans? [SEP] i haven't made up my mind. maybe i will go to the us. what about you? [SEP] i am going on a hiking trip. it's good exercise as well as fun. [SEP] i think so. [SEP]",
+    "gt": "so why not come and join us? lee will come as well.",
+    "dd_cc_ull_20": "dispute a lowest weight are brand degree and mike we are pain different nearest."
+  },
+  {
+    "con": "[CLS] the summer vacation is coming. have you any plans? [SEP] i haven't made up my mind. maybe i will go to the us. what about you? [SEP] i am going on a hiking trip. it's good exercise as well as fun. [SEP] i think so. [SEP] so why not come and join us? lee will come as well. [SEP]",
+    "gt": "that's great. i will go hiking with you.",
+    "dd_cc_ull_20": "smell yourself, particularly! this is your compensation."
+  },
+  {
+    "con": "[CLS] good evening. [SEP] good evening. could you let us have a double room? [SEP]",
+    "gt": "how long will you be staying?",
+    "dd_cc_ull_20": "in the wearing the problems, it's only one of the alt."
+  },
+  {
+    "con": "[CLS] good evening. [SEP] good evening. could you let us have a double room? [SEP] how long will you be staying? [SEP]",
+    "gt": "a week or ten days. we'd like to have a quiet room, if possible - not too near the street.",
+    "dd_cc_ull_20": "if i fix money, please write down your name a cab, for a three voc order, a visa with white, open?"
+  },
+  {
+    "con": "[CLS] good evening. [SEP] good evening. could you let us have a double room? [SEP] how long will you be staying? [SEP] a week or ten days. we'd like to have a quiet room, if possible - not too near the street. [SEP]",
+    "gt": "let me see. yes, you can have room 313. it's at the back.",
+    "dd_cc_ull_20": "promise you. bye! flight back off gross7 against del 16 conference room!"
+  },
+  {
+    "con": "[CLS] good evening. [SEP] good evening. could you let us have a double room? [SEP] how long will you be staying? [SEP] a week or ten days. we'd like to have a quiet room, if possible - not too near the street. [SEP] let me see. yes, you can have room 313. it's at the back. [SEP]",
+    "gt": "what's the price per day '? and are the meals included or extra?",
+    "dd_cc_ull_20": "sleepy corporation. and keep going.."
+  },
+  {
+    "con": "[CLS] good evening. [SEP] good evening. could you let us have a double room? [SEP] how long will you be staying? [SEP] a week or ten days. we'd like to have a quiet room, if possible - not too near the street. [SEP] let me see. yes, you can have room 313. it's at the back. [SEP] what's the price per day '? and are the meals included or extra? [SEP]",
+    "gt": "20 pounds per day, including breakfast.",
+    "dd_cc_ull_20": "beauty. how do you use this evening?"
+  },
+  {
+    "con": "[CLS] good evening. [SEP] good evening. could you let us have a double room? [SEP] how long will you be staying? [SEP] a week or ten days. we'd like to have a quiet room, if possible - not too near the street. [SEP] let me see. yes, you can have room 313. it's at the back. [SEP] what's the price per day '? and are the meals included or extra? [SEP] 20 pounds per day, including breakfast. [SEP]",
+    "gt": "all right, we'll take it.",
+    "dd_cc_ull_20": "silly, mark, very good, and they're playing that your ads."
+  },
+  {
+    "con": "[CLS] good evening. [SEP] good evening. could you let us have a double room? [SEP] how long will you be staying? [SEP] a week or ten days. we'd like to have a quiet room, if possible - not too near the street. [SEP] let me see. yes, you can have room 313. it's at the back. [SEP] what's the price per day '? and are the meals included or extra? [SEP] 20 pounds per day, including breakfast. [SEP] all right, we'll take it. [SEP]",
+    "gt": "very good, sir. will you register, please?",
+    "dd_cc_ull_20": "kate conrad diner to her look for wear neither, message, and mike'srmable during all. i think she found it the best thing is going to make good thailand."
+  },
+  {
+    "con": "[CLS] good evening. [SEP] good evening. could you let us have a double room? [SEP] how long will you be staying? [SEP] a week or ten days. we'd like to have a quiet room, if possible - not too near the street. [SEP] let me see. yes, you can have room 313. it's at the back. [SEP] what's the price per day '? and are the meals included or extra? [SEP] 20 pounds per day, including breakfast. [SEP] all right, we'll take it. [SEP] very good, sir. will you register, please? [SEP]",
+    "gt": "ok.",
+    "dd_cc_ull_20": "woodo fda hilton once c"
+  },
+  {
+    "con": "[CLS] good evening. [SEP] good evening. could you let us have a double room? [SEP] how long will you be staying? [SEP] a week or ten days. we'd like to have a quiet room, if possible - not too near the street. [SEP] let me see. yes, you can have room 313. it's at the back. [SEP] what's the price per day '? and are the meals included or extra? [SEP] 20 pounds per day, including breakfast. [SEP] all right, we'll take it. [SEP] very good, sir. will you register, please? [SEP] ok. [SEP]",
+    "gt": "thank you. the porter will show you to your room",
+    "dd_cc_ull_20": "taste for your health and style."
+  },
+  {
+    "con": "[CLS] television is undoubtedly a great invention, but one of the main criticisms of it is that people just aren't selective enough. lesley, got a television. how do you pick out the sorts ofprogrammes you want to watch? [SEP] i try and look at the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half - past eleven when the programmes finish. [SEP]",
+    "gt": "do you think of television though as a great time - waster?",
+    "dd_cc_ull_20": "continuous! we never have the smoking tydena! i usually visit shopping with some people!"
+  },
+  {
+    "con": "[CLS] television is undoubtedly a great invention, but one of the main criticisms of it is that people just aren't selective enough. lesley, got a television. how do you pick out the sorts ofprogrammes you want to watch? [SEP] i try and look at the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half - past eleven when the programmes finish. [SEP] do you think of television though as a great time - waster? [SEP]",
+    "gt": "un... i think it can be a time - waster and it depends on how particular people are about what they want to see... mm, it can just be a sort total amusement for someone and totally consuming without reallyconsidering what it is they're watching.",
+    "dd_cc_ull_20": "spend a cars on the keeps exactly the weather. as for away.."
+  },
+  {
+    "con": "[CLS] television is undoubtedly a great invention, but one of the main criticisms of it is that people just aren't selective enough. lesley, got a television. how do you pick out the sorts ofprogrammes you want to watch? [SEP] i try and look at the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half - past eleven when the programmes finish. [SEP] do you think of television though as a great time - waster? [SEP] un... i think it can be a time - waster and it depends on how particular people are about what they want to see... mm, it can just be a sort total amusement for someone and totally consuming without reallyconsidering what it is they're watching. [SEP]",
+    "gt": "aha, but how do you prevent it coming into your life and taking oversour evenings and at the same time perhaps get... get out of thetelevision some of the sort of best things... best programmes that... that undoubtedly are on television?",
+    "dd_cc_ull_20": "clive is keeping as many as i can as being finally find stand - up."
+  },
+  {
+    "con": "[CLS] television is undoubtedly a great invention, but one of the main criticisms of it is that people just aren't selective enough. lesley, got a television. how do you pick out the sorts ofprogrammes you want to watch? [SEP] i try and look at the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half - past eleven when the programmes finish. [SEP] do you think of television though as a great time - waster? [SEP] un... i think it can be a time - waster and it depends on how particular people are about what they want to see... mm, it can just be a sort total amusement for someone and totally consuming without reallyconsidering what it is they're watching. [SEP] aha, but how do you prevent it coming into your life and taking oversour evenings and at the same time perhaps get... get out of thetelevision some of the sort of best things... best programmes that... that undoubtedly are on television? [SEP]",
+    "gt": "well, i suppose one of the problems is... will depend on what a person's life style is, and that if he has other outside interests which are equally important to him as television, he will then, you know, hmm. be more careful about which programme she wants to",
+    "dd_cc_ull_20": "checking inch charged to them?"
+  },
+  {
+    "con": "[CLS] is undoubtedly a great invention, but one of the main criticisms of it is that people just aren't selective enough. lesley, got a television. how do you pick out the sorts ofprogrammes you want to watch? [SEP] i try and look at the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half - past eleven when the programmes finish. [SEP] do you think of television though as a great time - waster? [SEP] un... i think it can be a time - waster and it depends on how particular people are about what they want to see... mm, it can just be a sort total amusement for someone and totally consuming without reallyconsidering what it is they're watching. [SEP] aha, but how do you prevent it coming into your life and taking oversour evenings and at the same time perhaps get... get out of thetelevision some of the sort of best things... best programmes that... that undoubtedly are on television? [SEP] well, i suppose one of the problems is... will depend on what a person's life style is, and that if he has other outside interests which are equally important to him as television, he will then, you know, hmm. be more careful about which programme she wants to watch because he has time which he wants to use for other things. [SEP]",
+    "gt": "do you think though that... that in... in a sense television skilled people's own er... sort of, creativity or their ability entertain themselves because if they're bored all they do is justturn on the television?",
+    "dd_cc_ull_20": "december airlines. him over it. he \u2019 s been weird all reading the claim beat newss."
+  },
+  {
+    "con": "[CLS] the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half - past eleven when the programmes finish. [SEP] do you think of television though as a great time - waster? [SEP] un... i think it can be a time - waster and it depends on how particular people are about what they want to see... mm, it can just be a sort total amusement for someone and totally consuming without reallyconsidering what it is they're watching. [SEP] aha, but how do you prevent it coming into your life and taking oversour evenings and at the same time perhaps get... get out of thetelevision some of the sort of best things... best programmes that... that undoubtedly are on television? [SEP] well, i suppose one of the problems is... will depend on what a person's life style is, and that if he has other outside interests which are equally important to him as television, he will then, you know, hmm. be more careful about which programme she wants to watch because he has time which he wants to use for other things. [SEP] do you think though that... that in... in a sense television skilled people's own er... sort of, creativity or their ability entertain themselves because if they're bored all they do is justturn on the television? [SEP]",
+    "gt": "yes, i think that is a danger, and i think that.. in fact is what mishappening to a lot of people who use it as their... their main... um field of amusement and... because they don't have other outside interests and",
+    "dd_cc_ull_20": "won't give you additional article, sir."
+  },
+  {
+    "con": "[CLS] look over there. that is what i am looking for. let's go! [SEP] i want to see you play. be quick! [SEP]",
+    "gt": "don \u2019 t chicken out! come on!",
+    "dd_cc_ull_20": "? what? er, i finished you find anate in!"
+  },
+  {
+    "con": "[CLS] do you take reservations? [SEP] of course. reservations aren't necessary, but we recommend them as our restaurant can get quite busy. [SEP]",
+    "gt": "i need a table for two for tonight.",
+    "dd_cc_ull_20": "performance in a few minutes. an m25 - eager. i negative group at exquisite started. i took a week ago millions of record every hour. it was sunny two calendar, mechanicaln tennis. the beach was limited near bar serious lives in the murder, high sailing. c."
+  },
+  {
+    "con": "[CLS] do you take reservations? [SEP] of course. reservations aren't necessary, but we recommend them as our restaurant can get quite busy. [SEP] i need a table for two for tonight. [SEP]",
+    "gt": "what time?",
+    "dd_cc_ull_20": "and for some silly? it's foster, one new card status'eric."
+  },
+  {
+    "con": "[CLS] do you take reservations? [SEP] of course. reservations aren't necessary, but we recommend them as our restaurant can get quite busy. [SEP] i need a table for two for tonight. [SEP] what time? [SEP]",
+    "gt": "we'd like to be seated at 8p m.",
+    "dd_cc_ull_20": "needed to check the door. is there any gift?"
+  },
+  {
+    "con": "[CLS] do you take reservations? [SEP] of course. reservations aren't necessary, but we recommend them as our restaurant can get quite busy. [SEP] i need a table for two for tonight. [SEP] what time? [SEP] we'd like to be seated at 8p m. [SEP]",
+    "gt": "smoking or non?",
+    "dd_cc_ull_20": "but it would be cartful with chinese men. and how nice to tell joining us these things?"
+  },
+  {
+    "con": "[CLS] do you take reservations? [SEP] of course. reservations aren't necessary, but we recommend them as our restaurant can get quite busy. [SEP] i need a table for two for tonight. [SEP] what time? [SEP] we'd like to be seated at 8p m. [SEP] smoking or non? [SEP]",
+    "gt": "non - smoking.",
+    "dd_cc_ull_20": "hmm.. i, 5 cash.. yes. what have you?"
+  },
+  {
+    "con": "[CLS] do you take reservations? [SEP] of course. reservations aren't necessary, but we recommend them as our restaurant can get quite busy. [SEP] i need a table for two for tonight. [SEP] what time? [SEP] we'd like to be seated at 8p m. [SEP] smoking or non? [SEP] non - smoking. [SEP]",
+    "gt": "what name is the reservation under?",
+    "dd_cc_ull_20": "time i hope i like flying."
+  },
+  {
+    "con": "[CLS] do you take reservations? [SEP] of course. reservations aren't necessary, but we recommend them as our restaurant can get quite busy. [SEP] i need a table for two for tonight. [SEP] what time? [SEP] we'd like to be seated at 8p m. [SEP] smoking or non? [SEP] non - smoking. [SEP] what name is the reservation under? [SEP]",
+    "gt": "my name is paul.",
+    "dd_cc_ull_20": "cut the light in particular, also a eco coke of chances."
+  },
+  {
+    "con": "[CLS] do you take reservations? [SEP] of course. reservations aren't necessary, but we recommend them as our restaurant can get quite busy. [SEP] i need a table for two for tonight. [SEP] what time? [SEP] we'd like to be seated at 8p m. [SEP] smoking or non? [SEP] non - smoking. [SEP] what name is the reservation under? [SEP] my name is paul. [SEP]",
+    "gt": "ok. please arrive at seven forty - five. we can only hold the table until 8, 15.",
+    "dd_cc_ull_20": "slowly? are they? oh, no music to get you to your home before that?"
+  },
+  {
+    "con": "[CLS] quite a few times, i had my back to the wall. [SEP] really? generally they will turn out to be a good thing. [SEP]",
+    "gt": "that \u2019 s right.",
+    "dd_cc_ull_20": "able to your last position."
+  },
+  {
+    "con": "[CLS] quite a few times, i had my back to the wall. [SEP] really? generally they will turn out to be a good thing. [SEP] that \u2019 s right. [SEP]",
+    "gt": "you \u2019 ll exert all your energy and get out of it.",
+    "dd_cc_ull_20": "if you like, ask you \u2019 re wrote most advertisement, the party is surely cost them."
+  },
+  {
+    "con": "[CLS] what do you usually have for breakfast? pancakes or waffles? [SEP] i usually have cereal for breakfast. [SEP]",
+    "gt": "but isn't it served with cold milk?",
+    "dd_cc_ull_20": "go ahead. there are hadn that room in question. i like this one here."
+  },
+  {
+    "con": "[CLS] what do you usually have for breakfast? pancakes or waffles? [SEP] i usually have cereal for breakfast. [SEP] but isn't it served with cold milk? [SEP]",
+    "gt": "yeah. cold milk wakes me up.",
+    "dd_cc_ull_20": "food is going to notchan to you know."
+  },
+  {
+    "con": "[CLS] what do you usually have for breakfast? pancakes or waffles? [SEP] i usually have cereal for breakfast. [SEP] but isn't it served with cold milk? [SEP] yeah. cold milk wakes me up. [SEP]",
+    "gt": "chinese people don't like to eat cold food.",
+    "dd_cc_ull_20": "whether you have received at your diet or yours."
+  },
+  {
+    "con": "[CLS] what do you usually have for breakfast? pancakes or waffles? [SEP] i usually have cereal for breakfast. [SEP] but isn't it served with cold milk? [SEP] yeah. cold milk wakes me up. [SEP] chinese people don't like to eat cold food. [SEP]",
+    "gt": "is that right?",
+    "dd_cc_ull_20": "language or doors? interview down french? ah, where glass? tell you?"
+  },
+  {
+    "con": "[CLS] what do you usually have for breakfast? pancakes or waffles? [SEP] i usually have cereal for breakfast. [SEP] but isn't it served with cold milk? [SEP] yeah. cold milk wakes me up. [SEP] chinese people don't like to eat cold food. [SEP] is that right? [SEP]",
+    "gt": "but i'm open to new things. i'll have a bowl of cereal, too.",
+    "dd_cc_ull_20": "promise never science understand. let me look up. restaurant is ground wrong?"
+  },
+  {
+    "con": "[CLS] what do you usually have for breakfast? pancakes or waffles? [SEP] i usually have cereal for breakfast. [SEP] but isn't it served with cold milk? [SEP] yeah. cold milk wakes me up. [SEP] chinese people don't like to eat cold food. [SEP] is that right? [SEP] but i'm open to new things. i'll have a bowl of cereal, too. [SEP]",
+    "gt": "with cold milk?",
+    "dd_cc_ull_20": "thirty.. yes. here's.."
+  },
+  {
+    "con": "[CLS] what do you usually have for breakfast? pancakes or waffles? [SEP] i usually have cereal for breakfast. [SEP] but isn't it served with cold milk? [SEP] yeah. cold milk wakes me up. [SEP] chinese people don't like to eat cold food. [SEP] is that right? [SEP] but i'm open to new things. i'll have a bowl of cereal, too. [SEP] with cold milk? [SEP]",
+    "gt": "with cold milk!",
+    "dd_cc_ull_20": "him on the line, i see.. did you see what the guy on?"
+  },
+  {
+    "con": "[CLS] i know why mr. fro didn't like our ad idea! he doesn't know the first thing about coffee. [SEP] true. i always see him drinking instant. [SEP]",
+    "gt": "let's take him some of kitty's best and make the pitch again.",
+    "dd_cc_ull_20": "##eries every game. it's just theders she biased."
+  },
+  {
+    "con": "[CLS] i know why mr. fro didn't like our ad idea! he doesn't know the first thing about coffee. [SEP] true. i always see him drinking instant. [SEP] let's take him some of kitty's best and make the pitch again. [SEP]",
+    "gt": "do you think that will be enough to make him have a change of heart?",
+    "dd_cc_ull_20": "said i feel receipt. i can recommend you next time."
+  },
+  {
+    "con": "[CLS] i know why mr. fro didn't like our ad idea! he doesn't know the first thing about coffee. [SEP] true. i always see him drinking instant. [SEP] let's take him some of kitty's best and make the pitch again. [SEP] do you think that will be enough to make him have a change of heart? [SEP]",
+    "gt": "it's worth a shot.",
+    "dd_cc_ull_20": "smooth, mary. and i'm afraid she's very responsible."
+  },
+  {
+    "con": "[CLS] did you hear about bob and mary? [SEP] no, what happened? [SEP]",
+    "gt": "they had an argument and split up.",
+    "dd_cc_ull_20": "well, china is of our id cheap. shallmit would you like to come with us?"
+  },
+  {
+    "con": "[CLS] did you hear about bob and mary? [SEP] no, what happened? [SEP] they had an argument and split up. [SEP]",
+    "gt": "really, what's going to happen now?",
+    "dd_cc_ull_20": "me. i haven't gone laughing for ages."
+  },
+  {
+    "con": "[CLS] what would you like? [SEP] we'd like to have western food today. could you tell us something about it? [SEP]",
+    "gt": "sure. the first food you have is appetizer, followed by a soup. then you will have the main course. the last dishes are desserts.",
+    "dd_cc_ull_20": "some restaurants mean more concentrate food. they are better."
+  },
+  {
+    "con": "[CLS] what would you like? [SEP] we'd like to have western food today. could you tell us something about it? [SEP] sure. the first food you have is appetizer, followed by a soup. then you will have the main course. the last dishes are desserts. [SEP]",
+    "gt": "well, it's quite different from the chinese food.",
+    "dd_cc_ull_20": "your feelings experience on offers to the international weeks that we're all doubt too. you should the fine with something i can quit."
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP]",
+    "gt": "when do you open the tender? and where?",
+    "dd_cc_ull_20": "\u201c the problem person i hope that these are crying ra meter their range of blond."
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP]",
+    "gt": "we intend to open the tender at first next month in beijing.",
+    "dd_cc_ull_20": "information will be a nearby."
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP] we intend to open the tender at first next month in beijing. [SEP]",
+    "gt": "and when is the closing date?",
+    "dd_cc_ull_20": "she's internet in watchh impossible."
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP] we intend to open the tender at first next month in beijing. [SEP] and when is the closing date? [SEP]",
+    "gt": "the time period is set on june 29th.",
+    "dd_cc_ull_20": "rid points a little dessert... super bo tie!"
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP] we intend to open the tender at first next month in beijing. [SEP] and when is the closing date? [SEP] the time period is set on june 29th. [SEP]",
+    "gt": "could you please tell me something more about the conditions for the tender?",
+    "dd_cc_ull_20": "if you don't tv our town, you gardening along, until you can show that over the world."
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP] we intend to open the tender at first next month in beijing. [SEP] and when is the closing date? [SEP] the time period is set on june 29th. [SEP] could you please tell me something more about the conditions for the tender? [SEP]",
+    "gt": "all right. the area of the factory buildings is around 8, 000 square meters. you can read the details in the invitations which will be sent tomorrow.",
+    "dd_cc_ull_20": "unfair and considered reputation for smith, and i need to get her because he is japanese."
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP] we intend to open the tender at first next month in beijing. [SEP] and when is the closing date? [SEP] the time period is set on june 29th. [SEP] could you please tell me something more about the conditions for the tender? [SEP] all right. the area of the factory buildings is around 8, 000 square meters. you can read the details in the invitations which will be sent tomorrow. [SEP]",
+    "gt": "thank you for your information.",
+    "dd_cc_ull_20": "fresh red, please. from here understand will view is less expensive."
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP] we intend to open the tender at first next month in beijing. [SEP] and when is the closing date? [SEP] the time period is set on june 29th. [SEP] could you please tell me something more about the conditions for the tender? [SEP] all right. the area of the factory buildings is around 8, 000 square meters. you can read the details in the invitations which will be sent tomorrow. [SEP] thank you for your information. [SEP]",
+    "gt": "you're welcome.",
+    "dd_cc_ull_20": "d better get her boyfriend've channel them."
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP] we intend to open the tender at first next month in beijing. [SEP] and when is the closing date? [SEP] the time period is set on june 29th. [SEP] could you please tell me something more about the conditions for the tender? [SEP] all right. the area of the factory buildings is around 8, 000 square meters. you can read the details in the invitations which will be sent tomorrow. [SEP] thank you for your information. [SEP] you're welcome. [SEP]",
+    "gt": "i'm sorry to have taken up too much of your time.",
+    "dd_cc_ull_20": "##mun sa booth. consider i want one for you."
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP] we intend to open the tender at first next month in beijing. [SEP] and when is the closing date? [SEP] the time period is set on june 29th. [SEP] could you please tell me something more about the conditions for the tender? [SEP] all right. the area of the factory buildings is around 8, 000 square meters. you can read the details in the invitations which will be sent tomorrow. [SEP] thank you for your information. [SEP] you're welcome. [SEP] i'm sorry to have taken up too much of your time. [SEP]",
+    "gt": "it doesn't matter. we'll be in touch.",
+    "dd_cc_ull_20": "(der ) hands wallets, a fits completely. compa psychology. let \u2019 s pairs dress."
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP] we intend to open the tender at first next month in beijing. [SEP] and when is the closing date? [SEP] the time period is set on june 29th. [SEP] could you please tell me something more about the conditions for the tender? [SEP] all right. the area of the factory buildings is around 8, 000 square meters. you can read the details in the invitations which will be sent tomorrow. [SEP] thank you for your information. [SEP] you're welcome. [SEP] i'm sorry to have taken up too much of your time. [SEP] it doesn't matter. we'll be in touch. [SEP]",
+    "gt": "okay, bye!",
+    "dd_cc_ull_20": "sense. any other administration?"
+  },
+  {
+    "con": "[CLS] i've heard that you are going to call for a tender. what kind of goods would you like to buy? [SEP] yes, we're ready to start the invitation to tender. you're well informed. we'd like to build new factory. [SEP] when do you open the tender? and where? [SEP] we intend to open the tender at first next month in beijing. [SEP] and when is the closing date? [SEP] the time period is set on june 29th. [SEP] could you please tell me something more about the conditions for the tender? [SEP] all right. the area of the factory buildings is around 8, 000 square meters. you can read the details in the invitations which will be sent tomorrow. [SEP] thank you for your information. [SEP] you're welcome. [SEP] i'm sorry to have taken up too much of your time. [SEP] it doesn't matter. we'll be in touch. [SEP] okay, bye! [SEP]",
+    "gt": "bye!",
+    "dd_cc_ull_20": "marks inside the bottom, too."
+  },
+  {
+    "con": "[CLS] great! i landed on classic movies. [SEP] i didn't know you liked old movies. [SEP]",
+    "gt": "i love them, especially the all - time greats like gone with the wind.",
+    "dd_cc_ull_20": "cannot mail the job posted yo large. you can meet it. your name here is to strengths itries."
+  },
+  {
+    "con": "[CLS] great! i landed on classic movies. [SEP] i didn't know you liked old movies. [SEP] i love them, especially the all - time greats like gone with the wind. [SEP]",
+    "gt": "you're so right! today's movies are just too commercial!",
+    "dd_cc_ull_20": "and his car. plans often bike me."
+  },
+  {
+    "con": "[CLS] great! i landed on classic movies. [SEP] i didn't know you liked old movies. [SEP] i love them, especially the all - time greats like gone with the wind. [SEP] you're so right! today's movies are just too commercial! [SEP]",
+    "gt": "sometimes i think oscars are only awarded to movies that make a lot of money.",
+    "dd_cc_ull_20": "with so dish ha! how about your scary decline!"
+  },
+  {
+    "con": "[CLS] what are you doing here? how about your resume now? [SEP] i still have no idea what to do now. [SEP]",
+    "gt": "don't act like this. please have good thoughts in your mind. what's behind you?",
+    "dd_cc_ull_20": "lines. jim afternoon. comes in please. this way."
+  },
+  {
+    "con": "[CLS] what are you doing here? how about your resume now? [SEP] i still have no idea what to do now. [SEP] don't act like this. please have good thoughts in your mind. what's behind you? [SEP]",
+    "gt": "i could not agree with you more. but i feel worried about what to do next as soon as i begin to write my resume.",
+    "dd_cc_ull_20": "40 dollars per week. how much room would you like to pay?"
+  },
+  {
+    "con": "[CLS] what are you doing here? how about your resume now? [SEP] i still have no idea what to do now. [SEP] don't act like this. please have good thoughts in your mind. what's behind you? [SEP] i could not agree with you more. but i feel worried about what to do next as soon as i begin to write my resume. [SEP]",
+    "gt": "there is no need to do like this. we can surf the net and find some templates for resume.",
+    "dd_cc_ull_20": "spare time.. registration. this note is the best we can get home now."
+  },
+  {
+    "con": "[CLS] what are you doing here? how about your resume now? [SEP] i still have no idea what to do now. [SEP] don't act like this. please have good thoughts in your mind. what's behind you? [SEP] i could not agree with you more. but i feel worried about what to do next as soon as i begin to write my resume. [SEP] there is no need to do like this. we can surf the net and find some templates for resume. [SEP]",
+    "gt": "sounds good. i will do it in a jiffy. ok! let's put our heads together.",
+    "dd_cc_ull_20": "forward to they write wonderful head."
+  },
+  {
+    "con": "[CLS] what are you doing here? how about your resume now? [SEP] i still have no idea what to do now. [SEP] don't act like this. please have good thoughts in your mind. what's behind you? [SEP] i could not agree with you more. but i feel worried about what to do next as soon as i begin to write my resume. [SEP] there is no need to do like this. we can surf the net and find some templates for resume. [SEP] sounds good. i will do it in a jiffy. ok! let's put our heads together. [SEP]",
+    "gt": "you said it. we can also find some helpful advice from some experts.",
+    "dd_cc_ull_20": "information are included, 12ease picture it 150 per zone. the rate is the chep so we use that can drink abusive."
+  },
+  {
+    "con": "[CLS] what are you doing here? how about your resume now? [SEP] i still have no idea what to do now. [SEP] don't act like this. please have good thoughts in your mind. what's behind you? [SEP] i could not agree with you more. but i feel worried about what to do next as soon as i begin to write my resume. [SEP] there is no need to do like this. we can surf the net and find some templates for resume. [SEP] sounds good. i will do it in a jiffy. ok! let's put our heads together. [SEP] you said it. we can also find some helpful advice from some experts. [SEP]",
+    "gt": "terrific!",
+    "dd_cc_ull_20": "abroad. nick? and bring them.. argue of apple. might forget better than the subjects?"
+  },
+  {
+    "con": "[CLS] hello. holiday inn. how can i help you? [SEP] yes. i booked a single room in your hotel for this friday. but i \u2019 m sorry to say that i have to cancel it. my wife is very sick now. i don \u2019 t think she \u2019 ll be able to travel by this friday. [SEP]",
+    "gt": "oh, i \u2019 m sorry to hear that.",
+    "dd_cc_ull_20": "of course i am. what should i get?"
+  },
+  {
+    "con": "[CLS] hello. holiday inn. how can i help you? [SEP] yes. i booked a single room in your hotel for this friday. but i \u2019 m sorry to say that i have to cancel it. my wife is very sick now. i don \u2019 t think she \u2019 ll be able to travel by this friday. [SEP] oh, i \u2019 m sorry to hear that. [SEP]",
+    "gt": "thank you. can i cancel my reservation?",
+    "dd_cc_ull_20": "child i thought he has forgotten to look at that house that."
+  },
+  {
+    "con": "[CLS] hello. holiday inn. how can i help you? [SEP] yes. i booked a single room in your hotel for this friday. but i \u2019 m sorry to say that i have to cancel it. my wife is very sick now. i don \u2019 t think she \u2019 ll be able to travel by this friday. [SEP] oh, i \u2019 m sorry to hear that. [SEP] thank you. can i cancel my reservation? [SEP]",
+    "gt": "certainly. may i have your name, please?",
+    "dd_cc_ull_20": "either?! we \u2019 re on drove legs!"
+  },
+  {
+    "con": "[CLS] hello. holiday inn. how can i help you? [SEP] yes. i booked a single room in your hotel for this friday. but i \u2019 m sorry to say that i have to cancel it. my wife is very sick now. i don \u2019 t think she \u2019 ll be able to travel by this friday. [SEP] oh, i \u2019 m sorry to hear that. [SEP] thank you. can i cancel my reservation? [SEP] certainly. may i have your name, please? [SEP]",
+    "gt": "my name is tom smith.",
+    "dd_cc_ull_20": "football thesis. look? i wear rain so much. anything else,?"
+  },
+  {
+    "con": "[CLS] hello. holiday inn. how can i help you? [SEP] yes. i booked a single room in your hotel for this friday. but i \u2019 m sorry to say that i have to cancel it. my wife is very sick now. i don \u2019 t think she \u2019 ll be able to travel by this friday. [SEP] oh, i \u2019 m sorry to hear that. [SEP] thank you. can i cancel my reservation? [SEP] certainly. may i have your name, please? [SEP] my name is tom smith. [SEP]",
+    "gt": "okay. i have canceled your reservation, mr. smith.",
+    "dd_cc_ull_20": "purchase price can for popular delivered."
+  },
+  {
+    "con": "[CLS] hello. holiday inn. how can i help you? [SEP] yes. i booked a single room in your hotel for this friday. but i \u2019 m sorry to say that i have to cancel it. my wife is very sick now. i don \u2019 t think she \u2019 ll be able to travel by this friday. [SEP] oh, i \u2019 m sorry to hear that. [SEP] thank you. can i cancel my reservation? [SEP] certainly. may i have your name, please? [SEP] my name is tom smith. [SEP] okay. i have canceled your reservation, mr. smith. [SEP]",
+    "gt": "thank you very much.",
+    "dd_cc_ull_20": "race sight. i guess i \u2019 m looking for it."
+  },
+  {
+    "con": "[CLS] hello. holiday inn. how can i help you? [SEP] yes. i booked a single room in your hotel for this friday. but i \u2019 m sorry to say that i have to cancel it. my wife is very sick now. i don \u2019 t think she \u2019 ll be able to travel by this friday. [SEP] oh, i \u2019 m sorry to hear that. [SEP] thank you. can i cancel my reservation? [SEP] certainly. may i have your name, please? [SEP] my name is tom smith. [SEP] okay. i have canceled your reservation, mr. smith. [SEP] thank you very much. [SEP]",
+    "gt": "you \u2019 re welcome. i hope your wife is feeling better soon.",
+    "dd_cc_ull_20": "steven. he wants fan.! i call him sometime to the beach."
+  },
+  {
+    "con": "[CLS] you should save some money on parking here. [SEP] yeah, i don \u2019 t have to pay for a space on the street. [SEP]",
+    "gt": "really? how long did it take you to find a spot yesterday?",
+    "dd_cc_ull_20": "set of five checks home, tomorrow."
+  },
+  {
+    "con": "[CLS] you should save some money on parking here. [SEP] yeah, i don \u2019 t have to pay for a space on the street. [SEP] really? how long did it take you to find a spot yesterday? [SEP]",
+    "gt": "well, last night it took me half an hour to find a spot when i came home from work.",
+    "dd_cc_ull_20": "whether i shouldkill fly to china."
+  },
+  {
+    "con": "[CLS] you should save some money on parking here. [SEP] yeah, i don \u2019 t have to pay for a space on the street. [SEP] really? how long did it take you to find a spot yesterday? [SEP] well, last night it took me half an hour to find a spot when i came home from work. [SEP]",
+    "gt": "you get home late, don \u2019 t you?",
+    "dd_cc_ull_20": "also, in pain reservation for one publicity, with a blurred.."
+  },
+  {
+    "con": "[CLS] you should save some money on parking here. [SEP] yeah, i don \u2019 t have to pay for a space on the street. [SEP] really? how long did it take you to find a spot yesterday? [SEP] well, last night it took me half an hour to find a spot when i came home from work. [SEP] you get home late, don \u2019 t you? [SEP]",
+    "gt": "yeah, around seven. most of the street parking is gone by then.",
+    "dd_cc_ull_20": "enjoy the bus, mr. brown. way to roll table back!"
+  },
+  {
+    "con": "[CLS] you should save some money on parking here. [SEP] yeah, i don \u2019 t have to pay for a space on the street. [SEP] really? how long did it take you to find a spot yesterday? [SEP] well, last night it took me half an hour to find a spot when i came home from work. [SEP] you get home late, don \u2019 t you? [SEP] yeah, around seven. most of the street parking is gone by then. [SEP]",
+    "gt": "ah, well. you can \u2019 t have everything.",
+    "dd_cc_ull_20": "can i start working on my bill?"
+  },
+  {
+    "con": "[CLS] you should save some money on parking here. [SEP] yeah, i don \u2019 t have to pay for a space on the street. [SEP] really? how long did it take you to find a spot yesterday? [SEP] well, last night it took me half an hour to find a spot when i came home from work. [SEP] you get home late, don \u2019 t you? [SEP] yeah, around seven. most of the street parking is gone by then. [SEP] ah, well. you can \u2019 t have everything. [SEP]",
+    "gt": "yeah. i can live with it. it \u2019 s great to be living alone.",
+    "dd_cc_ull_20": "boss behind duties. that \u2019 s what we need, lady.. will you let it be covered of service?"
+  },
+  {
+    "con": "[CLS] have you figured out where you want to transfer to? [SEP] i can \u2019 t think of where to go. [SEP]",
+    "gt": "where would you like to go to school?",
+    "dd_cc_ull_20": "things are coming the wedding years!"
+  },
+  {
+    "con": "[CLS] have you figured out where you want to transfer to? [SEP] i can \u2019 t think of where to go. [SEP] where would you like to go to school? [SEP]",
+    "gt": "i really don \u2019 t know.",
+    "dd_cc_ull_20": "don't make a lot of a program."
+  },
+  {
+    "con": "[CLS] have you figured out where you want to transfer to? [SEP] i can \u2019 t think of where to go. [SEP] where would you like to go to school? [SEP] i really don \u2019 t know. [SEP]",
+    "gt": "you can \u2019 t think of anything?",
+    "dd_cc_ull_20": "more than six news yellow and hostel."
+  },
+  {
+    "con": "[CLS] have you figured out where you want to transfer to? [SEP] i can \u2019 t think of where to go. [SEP] where would you like to go to school? [SEP] i really don \u2019 t know. [SEP] you can \u2019 t think of anything? [SEP]",
+    "gt": "i really like where i \u2019 m at now.",
+    "dd_cc_ull_20": "finished and office instructions. get a big one."
+  },
+  {
+    "con": "[CLS] have you figured out where you want to transfer to? [SEP] i can \u2019 t think of where to go. [SEP] where would you like to go to school? [SEP] i really don \u2019 t know. [SEP] you can \u2019 t think of anything? [SEP] i really like where i \u2019 m at now. [SEP]",
+    "gt": "so, why don \u2019 t you just stay here?",
+    "dd_cc_ull_20": "carpet. i wanted to have a look at my paper."
+  },
+  {
+    "con": "[CLS] have you figured out where you want to transfer to? [SEP] i can \u2019 t think of where to go. [SEP] where would you like to go to school? [SEP] i really don \u2019 t know. [SEP] you can \u2019 t think of anything? [SEP] i really like where i \u2019 m at now. [SEP] so, why don \u2019 t you just stay here? [SEP]",
+    "gt": "that may be what i \u2019 m going to do.",
+    "dd_cc_ull_20": "played with special. done faira in them."
+  },
+  {
+    "con": "[CLS] have you figured out where you want to transfer to? [SEP] i can \u2019 t think of where to go. [SEP] where would you like to go to school? [SEP] i really don \u2019 t know. [SEP] you can \u2019 t think of anything? [SEP] i really like where i \u2019 m at now. [SEP] so, why don \u2019 t you just stay here? [SEP] that may be what i \u2019 m going to do. [SEP]",
+    "gt": "it \u2019 s a perfectly good school.",
+    "dd_cc_ull_20": "forward to professor definite health insurance, water resident, president, when the reservation was 12 years then busted as shortly to honda, writing something impressive 8 dollars, luckily."
+  },
+  {
+    "con": "[CLS] have you figured out where you want to transfer to? [SEP] i can \u2019 t think of where to go. [SEP] where would you like to go to school? [SEP] i really don \u2019 t know. [SEP] you can \u2019 t think of anything? [SEP] i really like where i \u2019 m at now. [SEP] so, why don \u2019 t you just stay here? [SEP] that may be what i \u2019 m going to do. [SEP] it \u2019 s a perfectly good school. [SEP]",
+    "gt": "you \u2019 re absolutely right.",
+    "dd_cc_ull_20": "transfer over all the equipment.."
+  },
+  {
+    "con": "[CLS] have you figured out where you want to transfer to? [SEP] i can \u2019 t think of where to go. [SEP] where would you like to go to school? [SEP] i really don \u2019 t know. [SEP] you can \u2019 t think of anything? [SEP] i really like where i \u2019 m at now. [SEP] so, why don \u2019 t you just stay here? [SEP] that may be what i \u2019 m going to do. [SEP] it \u2019 s a perfectly good school. [SEP] you \u2019 re absolutely right. [SEP]",
+    "gt": "do you know what you \u2019 re going to do now?",
+    "dd_cc_ull_20": "activities. silk, whole month r, bridge president to borrow."
+  },
+  {
+    "con": "[CLS] have you figured out where you want to transfer to? [SEP] i can \u2019 t think of where to go. [SEP] where would you like to go to school? [SEP] i really don \u2019 t know. [SEP] you can \u2019 t think of anything? [SEP] i really like where i \u2019 m at now. [SEP] so, why don \u2019 t you just stay here? [SEP] that may be what i \u2019 m going to do. [SEP] it \u2019 s a perfectly good school. [SEP] you \u2019 re absolutely right. [SEP] do you know what you \u2019 re going to do now? [SEP]",
+    "gt": "i \u2019 m just going to stay at pcc.",
+    "dd_cc_ull_20": "300 yuan.. yeah, the pizza of depending on all the dishes."
+  },
+  {
+    "con": "[CLS] you like titanic? that movie is so cheesy. [SEP] it's not cheesy! it's romantic. when it first came out, i saw it in the theaters five times in one week. [SEP]",
+    "gt": "really? well the special effects might have been good in 1997, but when you watch it today they make the film seem really cheesy.",
+    "dd_cc_ull_20": "? what happened tomorrow? just a santa hair?"
+  },
+  {
+    "con": "[CLS] you like titanic? that movie is so cheesy. [SEP] it's not cheesy! it's romantic. when it first came out, i saw it in the theaters five times in one week. [SEP] really? well the special effects might have been good in 1997, but when you watch it today they make the film seem really cheesy. [SEP]",
+    "gt": "alright, maybe it's a little bit cheesy. but come on, isn't it fun to go to a cheap flick once in a while?",
+    "dd_cc_ull_20": "wall with him. would you like to leave something other ticket?"
+  },
+  {
+    "con": "[CLS] you like titanic? that movie is so cheesy. [SEP] it's not cheesy! it's romantic. when it first came out, i saw it in the theaters five times in one week. [SEP] really? well the special effects might have been good in 1997, but when you watch it today they make the film seem really cheesy. [SEP] alright, maybe it's a little bit cheesy. but come on, isn't it fun to go to a cheap flick once in a while? [SEP]",
+    "gt": "actually, i have to admit that you're right. i like some pretty cheesy movies too. i love arnold schwarzenegger action flicks, especially \" terminator. \"",
+    "dd_cc_ull_20": "reading colors. actually, a stereo fit word in comes."
+  },
+  {
+    "con": "[CLS] you like titanic? that movie is so cheesy. [SEP] it's not cheesy! it's romantic. when it first came out, i saw it in the theaters five times in one week. [SEP] really? well the special effects might have been good in 1997, but when you watch it today they make the film seem really cheesy. [SEP] alright, maybe it's a little bit cheesy. but come on, isn't it fun to go to a cheap flick once in a while? [SEP] actually, i have to admit that you're right. i like some pretty cheesy movies too. i love arnold schwarzenegger action flicks, especially \" terminator. \" [SEP]",
+    "gt": "haha, that's definitely a cheesy movie too. did you watch it over and over again?",
+    "dd_cc_ull_20": "? i am glad you like them!"
+  },
+  {
+    "con": "[CLS] you like titanic? that movie is so cheesy. [SEP] it's not cheesy! it's romantic. when it first came out, i saw it in the theaters five times in one week. [SEP] really? well the special effects might have been good in 1997, but when you watch it today they make the film seem really cheesy. [SEP] alright, maybe it's a little bit cheesy. but come on, isn't it fun to go to a cheap flick once in a while? [SEP] actually, i have to admit that you're right. i like some pretty cheesy movies too. i love arnold schwarzenegger action flicks, especially \" terminator. \" [SEP] haha, that's definitely a cheesy movie too. did you watch it over and over again? [SEP]",
+    "gt": "well... i saw it only once, but for the next two months when i talked to people, i pretended i was the terminator.",
+    "dd_cc_ull_20": "thought you had appreciated. i tried it out on needed. you often last night."
+  },
+  {
+    "con": "[CLS] thank you for joining us this evening at chez attitude. [SEP] i am mr. foster, and we have a 7 : 00 dinner reservation tonight for four people. [SEP]",
+    "gt": "welcome, mr. foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment.",
+    "dd_cc_ull_20": "ve been to several ibm only."
+  },
+  {
+    "con": "[CLS] thank you for joining us this evening at chez attitude. [SEP] i am mr. foster, and we have a 7 : 00 dinner reservation tonight for four people. [SEP] welcome, mr. foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. [SEP]",
+    "gt": "we are going to have a drink while we are waiting. please let the hostess know that she can find us there.",
+    "dd_cc_ull_20": "both of these tea, their economics are excellent now."
+  },
+  {
+    "con": "[CLS] thank you for joining us this evening at chez attitude. [SEP] i am mr. foster, and we have a 7 : 00 dinner reservation tonight for four people. [SEP] welcome, mr. foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. [SEP] we are going to have a drink while we are waiting. please let the hostess know that she can find us there. [SEP]",
+    "gt": "she will come and let you know when your table is prepared.",
+    "dd_cc_ull_20": "red we're all going out. have the stay! i'll be up.. wang you're kids all the added. the traffic went theater andbi the air - shirt. mary."
+  },
+  {
+    "con": "[CLS] thank you for joining us this evening at chez attitude. [SEP] i am mr. foster, and we have a 7 : 00 dinner reservation tonight for four people. [SEP] welcome, mr. foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. [SEP] we are going to have a drink while we are waiting. please let the hostess know that she can find us there. [SEP] she will come and let you know when your table is prepared. [SEP]",
+    "gt": "those patio tables are new, aren't they? would it be possible to be seated out there?",
+    "dd_cc_ull_20": "drinks and eighty monica. is that right?"
+  },
+  {
+    "con": "[CLS] thank you for joining us this evening at chez attitude. [SEP] i am mr. foster, and we have a 7 : 00 dinner reservation tonight for four people. [SEP] welcome, mr. foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. [SEP] we are going to have a drink while we are waiting. please let the hostess know that she can find us there. [SEP] she will come and let you know when your table is prepared. [SEP] those patio tables are new, aren't they? would it be possible to be seated out there? [SEP]",
+    "gt": "an outside table is available right now if you would like to be seated immediately.",
+    "dd_cc_ull_20": "christmas is always anything for you only need."
+  },
+  {
+    "con": "[CLS] thank you for joining us this evening at chez attitude. [SEP] i am mr. foster, and we have a 7 : 00 dinner reservation tonight for four people. [SEP] welcome, mr. foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. [SEP] we are going to have a drink while we are waiting. please let the hostess know that she can find us there. [SEP] she will come and let you know when your table is prepared. [SEP] those patio tables are new, aren't they? would it be possible to be seated out there? [SEP] an outside table is available right now if you would like to be seated immediately. [SEP]",
+    "gt": "we would love to sit outside. thanks for your help!",
+    "dd_cc_ull_20": "paid vacation. i will take care of my32."
+  },
+  {
+    "con": "[CLS] thank you for joining us this evening at chez attitude. [SEP] i am mr. foster, and we have a 7 : 00 dinner reservation tonight for four people. [SEP] welcome, mr. foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. [SEP] we are going to have a drink while we are waiting. please let the hostess know that she can find us there. [SEP] she will come and let you know when your table is prepared. [SEP] those patio tables are new, aren't they? would it be possible to be seated out there? [SEP] an outside table is available right now if you would like to be seated immediately. [SEP] we would love to sit outside. thanks for your help! [SEP]",
+    "gt": "here is your table, and now may i take your drink order while you are considering what to have for dinner?",
+    "dd_cc_ull_20": "little traps, quitting my own mid degree and i wonder you dance it very well."
+  },
+  {
+    "con": "[CLS] thank you for joining us this evening at chez attitude. [SEP] i am mr. foster, and we have a 7 : 00 dinner reservation tonight for four people. [SEP] welcome, mr. foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. [SEP] we are going to have a drink while we are waiting. please let the hostess know that she can find us there. [SEP] she will come and let you know when your table is prepared. [SEP] those patio tables are new, aren't they? would it be possible to be seated out there? [SEP] an outside table is available right now if you would like to be seated immediately. [SEP] we would love to sit outside. thanks for your help! [SEP] here is your table, and now may i take your drink order while you are considering what to have for dinner? [SEP]",
+    "gt": "yes, could you please bring us a pitcher of margaritas and four glasses while we are figuring out our dinner order?",
+    "dd_cc_ull_20": "re such a character or something like?"
+  },
+  {
+    "con": "[CLS] thank you for joining us this evening at chez attitude. [SEP] i am mr. foster, and we have a 7 : 00 dinner reservation tonight for four people. [SEP] welcome, mr. foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. [SEP] we are going to have a drink while we are waiting. please let the hostess know that she can find us there. [SEP] she will come and let you know when your table is prepared. [SEP] those patio tables are new, aren't they? would it be possible to be seated out there? [SEP] an outside table is available right now if you would like to be seated immediately. [SEP] we would love to sit outside. thanks for your help! [SEP] here is your table, and now may i take your drink order while you are considering what to have for dinner? [SEP] yes, could you please bring us a pitcher of margaritas and four glasses while we are figuring out our dinner order? [SEP]",
+    "gt": "i'll put your drink order in and be right back to get your dinner order.",
+    "dd_cc_ull_20": "late. usual? sounds nice."
+  },
+  {
+    "con": "[CLS] thank you for joining us this evening at chez attitude. [SEP] i am mr. foster, and we have a 7 : 00 dinner reservation tonight for four people. [SEP] welcome, mr. foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. [SEP] we are going to have a drink while we are waiting. please let the hostess know that she can find us there. [SEP] she will come and let you know when your table is prepared. [SEP] those patio tables are new, aren't they? would it be possible to be seated out there? [SEP] an outside table is available right now if you would like to be seated immediately. [SEP] we would love to sit outside. thanks for your help! [SEP] here is your table, and now may i take your drink order while you are considering what to have for dinner? [SEP] yes, could you please bring us a pitcher of margaritas and four glasses while we are figuring out our dinner order? [SEP] i'll put your drink order in and be right back to get your dinner order. [SEP]",
+    "gt": "we'll be ready to order by the time you get back!",
+    "dd_cc_ull_20": "perfume, facials. it is my pleasure tasted enter. i will change him with your goes. when you go themn?"
+  },
+  {
+    "con": "[CLS] my toothache started nearly a month ago. the pain's been keeping me awake. would you please have a look? [SEP] open your mouth, please. which one? [SEP]",
+    "gt": "the one right at the back.",
+    "dd_cc_ull_20": "called college because he's a henry who run eye. thank you.s, have a nice day, coming with mr. smith. fan. li. here, study?"
+  },
+  {
+    "con": "[CLS] my toothache started nearly a month ago. the pain's been keeping me awake. would you please have a look? [SEP] open your mouth, please. which one? [SEP] the one right at the back. [SEP]",
+    "gt": "i'm afraid we can \u2019 t save that one. it will have to come out.",
+    "dd_cc_ull_20": "18 yuan a month. here is my bill."
+  },
+  {
+    "con": "[CLS] my toothache started nearly a month ago. the pain's been keeping me awake. would you please have a look? [SEP] open your mouth, please. which one? [SEP] the one right at the back. [SEP] i'm afraid we can \u2019 t save that one. it will have to come out. [SEP]",
+    "gt": "will it hurt much?",
+    "dd_cc_ull_20": "janice, mary brown has his placed her."
+  },
+  {
+    "con": "[CLS] my toothache started nearly a month ago. the pain's been keeping me awake. would you please have a look? [SEP] open your mouth, please. which one? [SEP] the one right at the back. [SEP] i'm afraid we can \u2019 t save that one. it will have to come out. [SEP] will it hurt much? [SEP]",
+    "gt": "i'll give you an injection, then you won't feel pain.",
+    "dd_cc_ull_20": "need anything else? let \u2019 s go look."
+  },
+  {
+    "con": "[CLS] my toothache started nearly a month ago. the pain's been keeping me awake. would you please have a look? [SEP] open your mouth, please. which one? [SEP] the one right at the back. [SEP] i'm afraid we can \u2019 t save that one. it will have to come out. [SEP] will it hurt much? [SEP] i'll give you an injection, then you won't feel pain. [SEP]",
+    "gt": "( 5 minutes later ) ok, it's all over. spit there and bite the cotton ball tightly in place for half an hour.",
+    "dd_cc_ull_20": "finally he used to be the best department times. actually, he \u2019 s $ 36."
+  },
+  {
+    "con": "[CLS] Want to send out for some Chinese? [SEP] Some what? [SEP]",
+    "gt": " Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. ",
+    "dd_cc_ull_20": " What?    I want to send some Chinese food for you to eat.  "
+  },
+  {
+    "con": "[CLS] Want to send out for some Chinese? [SEP] Some what? [SEP] Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. [SEP]",
+    "gt": " No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center?",
+    "dd_cc_ull_20": " What kind of Chinese food do you like? I like Taiwanese and Thai food. "
+  },
+  {
+    "con": "[CLS] Want to send out for some Chinese? [SEP] Some what? [SEP] Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. [SEP] No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center? [SEP]",
+    "gt": " Okay. I could go for that. It \u2019 s called Al \u2019 s Steakhouse. They also have great fried fish, and I love their salad bar. You can go back to refill 1 your plate as often as you like. ",
+    "dd_cc_ull_20": " We \u2019 ll have to go to the one in the mall. I don \u2019 t like the Chinese food there. "
+  },
+  {
+    "con": "[CLS] Want to send out for some Chinese? [SEP] Some what? [SEP] Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. [SEP] No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center? [SEP] Okay. I could go for that. It \u2019 s called Al \u2019 s Steakhouse. They also have great fried fish, and I love their salad bar. You can go back to refill 1 your plate as often as you like. [SEP]",
+    "gt": " Is that the place that serves such large portions of meat? ",
+    "dd_cc_ull_20": " Yes, we \u2019 ll go to that place. We \u2019 re going to try the all you can eat chinese food."
+  },
+  {
+    "con": "[CLS] Want to send out for some Chinese? [SEP] Some what? [SEP] Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. [SEP] No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center? [SEP] Okay. I could go for that. It \u2019 s called Al \u2019 s Steakhouse. They also have great fried fish, and I love their salad bar. You can go back to refill 1 your plate as often as you like. [SEP] Is that the place that serves such large portions of meat? [SEP]",
+    "gt": " Yes, their steaks are enormous. Sometimes I can \u2019 t finish what I \u2019 Ve ordered. ",
+    "dd_cc_ull_20": " Yes, you \u2019 re right. We \u2019 ll have to go to the all you can \u2019 t restraint."
+  },
+  {
+    "con": "[CLS] Want to send out for some Chinese? [SEP] Some what? [SEP] Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. [SEP] No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center? [SEP] Okay. I could go for that. It \u2019 s called Al \u2019 s Steakhouse. They also have great fried fish, and I love their salad bar. You can go back to refill 1 your plate as often as you like. [SEP] Is that the place that serves such large portions of meat? [SEP] Yes, their steaks are enormous. Sometimes I can \u2019 t finish what I \u2019 Ve ordered. [SEP]",
+    "gt": " What if that happens to me? I hate to let food go to waste. ",
+    "dd_cc_ull_20": " Yes, we \u2019 ll go for it. What kind of food do you like?  "
+  },
+  {
+    "con": "[CLS] Want to send out for some Chinese? [SEP] Some what? [SEP] Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. [SEP] No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center? [SEP] Okay. I could go for that. It \u2019 s called Al \u2019 s Steakhouse. They also have great fried fish, and I love their salad bar. You can go back to refill 1 your plate as often as you like. [SEP] Is that the place that serves such large portions of meat? [SEP] Yes, their steaks are enormous. Sometimes I can \u2019 t finish what I \u2019 Ve ordered. [SEP] What if that happens to me? I hate to let food go to waste. [SEP]",
+    "gt": " Don \u2019 t worry. We \u2019 ll just get a doggie bag. ",
+    "dd_cc_ull_20": " Yes, we \u2019 re going to have steak and fried steak, and you can try the all you can eat chinese"
+  },
+  {
+    "con": "[CLS] Excuse me. I have booked one ticket on BN118 for tomorrow.But now I've changed my plan.Can you help me refund the ticket? [SEP] Sure. [SEP]",
+    "gt": " Here is the ticket. ",
+    "dd_cc_ull_20": " Thank you.    What can I do to make it up to you?  "
+  },
+  {
+    "con": "[CLS] Excuse me. I have booked one ticket on BN118 for tomorrow.But now I've changed my plan.Can you help me refund the ticket? [SEP] Sure. [SEP] Here is the ticket. [SEP]",
+    "gt": " OK.madam. I have refunded it.You have to pay $ 15 for it. ",
+    "dd_cc_ull_20": " Thank you.    How much do you want to pay for the ticket?  "
+  },
+  {
+    "con": "[CLS] What's up? You look depressed. [SEP] I just had a quarrel with him. [SEP]",
+    "gt": " Would you rather I taught him a lesson for you? ",
+    "dd_cc_ull_20": " I'm sorry to hear that. I hope you feel better. What's going on? "
+  },
+  {
+    "con": "[CLS] what's up? you look depressed. [SEP] i just had a quarrel with him. [SEP] would you rather i taught him a lesson for you? [SEP]",
+    "gt": "no, thanks.",
+    "dd_cc_ull_20": "about 3 miles. time to the interviewer hold of you, congratulations and your beds and fell back home and boeinging in the pension."
+  },
+  {
+    "con": "[CLS] what courses did you take in college? [SEP] i took a lot of courses, such as philosophy, logic, ethics, aesthetics, etc. [SEP]",
+    "gt": "which course did you like best?",
+    "dd_cc_ull_20": "scary. america? really? she said she's grocery in play games of the class."
+  },
+  {
+    "con": "[CLS] what courses did you take in college? [SEP] i took a lot of courses, such as philosophy, logic, ethics, aesthetics, etc. [SEP] which course did you like best? [SEP]",
+    "gt": "i liked aesthetics best. it is very impressive.",
+    "dd_cc_ull_20": "whom what makes you feel about?"
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP]",
+    "gt": "well, she's got a beautiful face and long curly red hair.",
+    "dd_cc_ull_20": "go ahead. i want to investment."
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP]",
+    "gt": "how tall is she?",
+    "dd_cc_ull_20": "stress and basketball.. mom! where are you going?"
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP]",
+    "gt": "she's fairly tall, maybe 2 inches taller than me.",
+    "dd_cc_ull_20": "set your grandmother? for begin with the lined.. thank you."
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP]",
+    "gt": "is she chubby?",
+    "dd_cc_ull_20": "basketball and parents. henry transport.. and i want to invite tonight."
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP]",
+    "gt": "not at all. she's actually very athletic.",
+    "dd_cc_ull_20": "? that's throat china. men went over her for the whole movie, man!"
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP]",
+    "gt": "it sounds like she's pretty good - looking. does she wear glasses?",
+    "dd_cc_ull_20": "copies of myhouse in management."
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP]",
+    "gt": "no, but she does wear contact lenses.",
+    "dd_cc_ull_20": "instead of succeedis folk song."
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP]",
+    "gt": "how's her skin?",
+    "dd_cc_ull_20": "m? you're right! what's website?"
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP] how's her skin? [SEP]",
+    "gt": "she's got a gorgeous complexion with a few freckles on her nose.",
+    "dd_cc_ull_20": "##er brazil. wash it! sign your violent! come back from the guy."
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP] how's her skin? [SEP] she's got a gorgeous complexion with a few freckles on her nose. [SEP]",
+    "gt": "does she have any piercings or tattoos?",
+    "dd_cc_ull_20": "exercise may is usually more crazy, my mother being noon, so i production, but i'd go down to read a lot of pressure.. who will cook the \u00a5? tell 35. i recently?s i mean \", she sent playing ice cream poor received ), i like"
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP] how's her skin? [SEP] she's got a gorgeous complexion with a few freckles on her nose. [SEP] does she have any piercings or tattoos? [SEP]",
+    "gt": "i think she has her ears pierced and she definitely has a few tattoos",
+    "dd_cc_ull_20": "and the reservation for two nights, \u2019 brother - child or four friends tv."
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP] how's her skin? [SEP] she's got a gorgeous complexion with a few freckles on her nose. [SEP] does she have any piercings or tattoos? [SEP] i think she has her ears pierced and she definitely has a few tattoos [SEP]",
+    "gt": "what's the tattoo on her foot like?",
+    "dd_cc_ull_20": "core in the pan..sano until you can see anything, you know. hello, j, perhaps you should review the sky?"
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP] how's her skin? [SEP] she's got a gorgeous complexion with a few freckles on her nose. [SEP] does she have any piercings or tattoos? [SEP] i think she has her ears pierced and she definitely has a few tattoos [SEP] what's the tattoo on her foot like? [SEP]",
+    "gt": "it's a butterfly - everyone in her family has one.",
+    "dd_cc_ull_20": "hammer. but things like best."
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP] how's her skin? [SEP] she's got a gorgeous complexion with a few freckles on her nose. [SEP] does she have any piercings or tattoos? [SEP] i think she has her ears pierced and she definitely has a few tattoos [SEP] what's the tattoo on her foot like? [SEP] it's a butterfly - everyone in her family has one. [SEP]",
+    "gt": "even her mom?",
+    "dd_cc_ull_20": "price is 4, 000 rib so i can claim with you."
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP] how's her skin? [SEP] she's got a gorgeous complexion with a few freckles on her nose. [SEP] does she have any piercings or tattoos? [SEP] i think she has her ears pierced and she definitely has a few tattoos [SEP] what's the tattoo on her foot like? [SEP] it's a butterfly - everyone in her family has one. [SEP] even her mom? [SEP]",
+    "gt": "yes, even her mom.",
+    "dd_cc_ull_20": "copy..ors of you. caught in the diet."
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP] how's her skin? [SEP] she's got a gorgeous complexion with a few freckles on her nose. [SEP] does she have any piercings or tattoos? [SEP] i think she has her ears pierced and she definitely has a few tattoos [SEP] what's the tattoo on her foot like? [SEP] it's a butterfly - everyone in her family has one. [SEP] even her mom? [SEP] yes, even her mom. [SEP]",
+    "gt": "what's her personality like?",
+    "dd_cc_ull_20": "involved as remembered piano. absolutely our couldn't be met before i helped them dress. look at practically, convenient and all the additional roll. if i remembered i exercise section, i want messed guys for t"
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP] how's her skin? [SEP] she's got a gorgeous complexion with a few freckles on her nose. [SEP] does she have any piercings or tattoos? [SEP] i think she has her ears pierced and she definitely has a few tattoos [SEP] what's the tattoo on her foot like? [SEP] it's a butterfly - everyone in her family has one. [SEP] even her mom? [SEP] yes, even her mom. [SEP] what's her personality like? [SEP]",
+    "gt": "she's a lot like me.",
+    "dd_cc_ull_20": "? what happened? speak a 78 woman?"
+  },
+  {
+    "con": "[CLS] jacob, are you interested in helping me out and going on a blind date with a friend of mine? [SEP] that depends. what does she look like? [SEP] well, she's got a beautiful face and long curly red hair. [SEP] how tall is she? [SEP] she's fairly tall, maybe 2 inches taller than me. [SEP] is she chubby? [SEP] not at all. she's actually very athletic. [SEP] it sounds like she's pretty good - looking. does she wear glasses? [SEP] no, but she does wear contact lenses. [SEP] how's her skin? [SEP] she's got a gorgeous complexion with a few freckles on her nose. [SEP] does she have any piercings or tattoos? [SEP] i think she has her ears pierced and she definitely has a few tattoos [SEP] what's the tattoo on her foot like? [SEP] it's a butterfly - everyone in her family has one. [SEP] even her mom? [SEP] yes, even her mom. [SEP] what's her personality like? [SEP] she's a lot like me. [SEP]",
+    "gt": "so there is something wrong with her! it was beginning to sound like she was too good to be true!",
+    "dd_cc_ull_20": "means he has a boy.."
+  },
+  {
+    "con": "[CLS] our house is too small. we had better have a big one. [SEP] how could we ever manage to buy a big house when we are always living beyond our means? [SEP]",
+    "gt": "shut up. you should think how to make fortunes, not look for a squabble.",
+    "dd_cc_ull_20": "special mind. 8 pm to architecture. would you like to go?"
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP]",
+    "gt": "don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress.",
+    "dd_cc_ull_20": "women just served spanish to disliked chop them or importance the particular way."
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP]",
+    "gt": "really? i thought you hated shopping?",
+    "dd_cc_ull_20": "##er dry. is that open?"
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP] really? i thought you hated shopping? [SEP]",
+    "gt": "i do, that \u2019 s why you should appreciate this gift!",
+    "dd_cc_ull_20": "turned the circulation. the parts, i \u2019 m inch wei."
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP] really? i thought you hated shopping? [SEP] i do, that \u2019 s why you should appreciate this gift! [SEP]",
+    "gt": "sure. that \u2019 s really nice of you. let \u2019 s go in and try some things on.",
+    "dd_cc_ull_20": "both sides are criminals until the visit came from the child with the sized yi hu wire and also a appliedp. then, there is a close kitchen dessert for his terrific. where do you know that the original?"
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP] really? i thought you hated shopping? [SEP] i do, that \u2019 s why you should appreciate this gift! [SEP] sure. that \u2019 s really nice of you. let \u2019 s go in and try some things on. [SEP]",
+    "gt": "how about this red dress? i think it would really suit you.",
+    "dd_cc_ull_20": "workshops is very common on them. they will make perfectly easier.. the hole remember just made the baby done and else eat. what do you did?"
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP] really? i thought you hated shopping? [SEP] i do, that \u2019 s why you should appreciate this gift! [SEP] sure. that \u2019 s really nice of you. let \u2019 s go in and try some things on. [SEP] how about this red dress? i think it would really suit you. [SEP]",
+    "gt": "that \u2019 s gorgeous! do they have it in a size 8?",
+    "dd_cc_ull_20": "people at thecheck that... supportive you allow care her or previous birthday cake."
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP] really? i thought you hated shopping? [SEP] i do, that \u2019 s why you should appreciate this gift! [SEP] sure. that \u2019 s really nice of you. let \u2019 s go in and try some things on. [SEP] how about this red dress? i think it would really suit you. [SEP] that \u2019 s gorgeous! do they have it in a size 8? [SEP]",
+    "gt": "here you go. on any other day, it would cost me a fortune, but it \u2019 s on special offer today.",
+    "dd_cc_ull_20": "deadline, he just got it. where's loans,?"
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP] really? i thought you hated shopping? [SEP] i do, that \u2019 s why you should appreciate this gift! [SEP] sure. that \u2019 s really nice of you. let \u2019 s go in and try some things on. [SEP] how about this red dress? i think it would really suit you. [SEP] that \u2019 s gorgeous! do they have it in a size 8? [SEP] here you go. on any other day, it would cost me a fortune, but it \u2019 s on special offer today. [SEP]",
+    "gt": "i think this color isn \u2019 t quite right for me. do they have the same dress in white?",
+    "dd_cc_ull_20": "emergency point and take questions packs.."
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP] really? i thought you hated shopping? [SEP] i do, that \u2019 s why you should appreciate this gift! [SEP] sure. that \u2019 s really nice of you. let \u2019 s go in and try some things on. [SEP] how about this red dress? i think it would really suit you. [SEP] that \u2019 s gorgeous! do they have it in a size 8? [SEP] here you go. on any other day, it would cost me a fortune, but it \u2019 s on special offer today. [SEP] i think this color isn \u2019 t quite right for me. do they have the same dress in white? [SEP]",
+    "gt": "let me look. let \u2019 s see... they \u2019 ve got one in blue, green, pink, black... and white. here you are.",
+    "dd_cc_ull_20": "forget about the weather, hotel and play meal.. sweat, the weather keeps the trouble promotion comes tonight, since the wanting that often has found"
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP] really? i thought you hated shopping? [SEP] i do, that \u2019 s why you should appreciate this gift! [SEP] sure. that \u2019 s really nice of you. let \u2019 s go in and try some things on. [SEP] how about this red dress? i think it would really suit you. [SEP] that \u2019 s gorgeous! do they have it in a size 8? [SEP] here you go. on any other day, it would cost me a fortune, but it \u2019 s on special offer today. [SEP] i think this color isn \u2019 t quite right for me. do they have the same dress in white? [SEP] let me look. let \u2019 s see... they \u2019 ve got one in blue, green, pink, black... and white. here you are. [SEP]",
+    "gt": "this is perfect! what do you think?",
+    "dd_cc_ull_20": "food and many employees are ingredients?"
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP] really? i thought you hated shopping? [SEP] i do, that \u2019 s why you should appreciate this gift! [SEP] sure. that \u2019 s really nice of you. let \u2019 s go in and try some things on. [SEP] how about this red dress? i think it would really suit you. [SEP] that \u2019 s gorgeous! do they have it in a size 8? [SEP] here you go. on any other day, it would cost me a fortune, but it \u2019 s on special offer today. [SEP] i think this color isn \u2019 t quite right for me. do they have the same dress in white? [SEP] let me look. let \u2019 s see... they \u2019 ve got one in blue, green, pink, black... and white. here you are. [SEP] this is perfect! what do you think? [SEP]",
+    "gt": "i think you look fantastic. happy birthday!",
+    "dd_cc_ull_20": "##er.. come on! i \u2019 ll see you then!"
+  },
+  {
+    "con": "[CLS] what do you think about this store? i heard it \u2019 s a posh store that \u2019 s only got branches in big cities. [SEP] i love this store. the only problem is that it \u2019 s extremely expensive. [SEP] don \u2019 t worry. i \u2019 ve decided that for your birthday i \u2019 m going to take you shopping for a new dress. [SEP] really? i thought you hated shopping? [SEP] i do, that \u2019 s why you should appreciate this gift! [SEP] sure. that \u2019 s really nice of you. let \u2019 s go in and try some things on. [SEP] how about this red dress? i think it would really suit you. [SEP] that \u2019 s gorgeous! do they have it in a size 8? [SEP] here you go. on any other day, it would cost me a fortune, but it \u2019 s on special offer today. [SEP] i think this color isn \u2019 t quite right for me. do they have the same dress in white? [SEP] let me look. let \u2019 s see... they \u2019 ve got one in blue, green, pink, black... and white. here you are. [SEP] this is perfect! what do you think? [SEP] i think you look fantastic. happy birthday! [SEP]",
+    "gt": "i \u2019 m so lucky. you only get a chance like this once in a blue moon! thanks honey!",
+    "dd_cc_ull_20": "water because four flyer of toys in june."
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP]",
+    "gt": "of course, you can. please put your articles in this bag and seal it.",
+    "dd_cc_ull_20": "and you, too church. john, beer, american, workshops and co"
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP] of course, you can. please put your articles in this bag and seal it. [SEP]",
+    "gt": "ok.",
+    "dd_cc_ull_20": "training after i use medicals."
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP] of course, you can. please put your articles in this bag and seal it. [SEP] ok. [SEP]",
+    "gt": "thank you. here is your tag.",
+    "dd_cc_ull_20": "littleffin. things are less sir. your company has a fairly unemployment days of honestly. unfortunately, does your wife?"
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP] of course, you can. please put your articles in this bag and seal it. [SEP] ok. [SEP] thank you. here is your tag. [SEP]",
+    "gt": "would you tell me the rate per day for depositing my bag?",
+    "dd_cc_ull_20": "lightetizer and taken some drinks."
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP] of course, you can. please put your articles in this bag and seal it. [SEP] ok. [SEP] thank you. here is your tag. [SEP] would you tell me the rate per day for depositing my bag? [SEP]",
+    "gt": "sure, madam. only one dollar.",
+    "dd_cc_ull_20": "of course, as long as the noticed is i can find a color too tall in the store but i need them."
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP] of course, you can. please put your articles in this bag and seal it. [SEP] ok. [SEP] thank you. here is your tag. [SEP] would you tell me the rate per day for depositing my bag? [SEP] sure, madam. only one dollar. [SEP]",
+    "gt": "when does the cloakroom close?",
+    "dd_cc_ull_20": "supposed to come it! you will like all day."
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP] of course, you can. please put your articles in this bag and seal it. [SEP] ok. [SEP] thank you. here is your tag. [SEP] would you tell me the rate per day for depositing my bag? [SEP] sure, madam. only one dollar. [SEP] when does the cloakroom close? [SEP]",
+    "gt": "this cloakroom is open until 10 p. m.",
+    "dd_cc_ull_20": "days? does it rain cred festival from all day?"
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP] of course, you can. please put your articles in this bag and seal it. [SEP] ok. [SEP] thank you. here is your tag. [SEP] would you tell me the rate per day for depositing my bag? [SEP] sure, madam. only one dollar. [SEP] when does the cloakroom close? [SEP] this cloakroom is open until 10 p. m. [SEP]",
+    "gt": "oh, dear! i won't be back until about 11 : 30 tonight. where can i pick up my bag?",
+    "dd_cc_ull_20": "please give them ; easierng, am i covered there. you can fill all direction at the"
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP] of course, you can. please put your articles in this bag and seal it. [SEP] ok. [SEP] thank you. here is your tag. [SEP] would you tell me the rate per day for depositing my bag? [SEP] sure, madam. only one dollar. [SEP] when does the cloakroom close? [SEP] this cloakroom is open until 10 p. m. [SEP] oh, dear! i won't be back until about 11 : 30 tonight. where can i pick up my bag? [SEP]",
+    "gt": "we will transfer your bag to the lobby floor cloakroom. you may collect it there, madam.",
+    "dd_cc_ull_20": "raises this smart one and i don't feel any fur co - written."
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP] of course, you can. please put your articles in this bag and seal it. [SEP] ok. [SEP] thank you. here is your tag. [SEP] would you tell me the rate per day for depositing my bag? [SEP] sure, madam. only one dollar. [SEP] when does the cloakroom close? [SEP] this cloakroom is open until 10 p. m. [SEP] oh, dear! i won't be back until about 11 : 30 tonight. where can i pick up my bag? [SEP] we will transfer your bag to the lobby floor cloakroom. you may collect it there, madam. [SEP]",
+    "gt": "i see. thanks a lot.",
+    "dd_cc_ull_20": "forecast when we can take notes.. types the best street on or breaks add."
+  },
+  {
+    "con": "[CLS] good afternoon, ma'am. may i help you? [SEP] yes. can i deposit valuables here? [SEP] of course, you can. please put your articles in this bag and seal it. [SEP] ok. [SEP] thank you. here is your tag. [SEP] would you tell me the rate per day for depositing my bag? [SEP] sure, madam. only one dollar. [SEP] when does the cloakroom close? [SEP] this cloakroom is open until 10 p. m. [SEP] oh, dear! i won't be back until about 11 : 30 tonight. where can i pick up my bag? [SEP] we will transfer your bag to the lobby floor cloakroom. you may collect it there, madam. [SEP] i see. thanks a lot. [SEP]",
+    "gt": "you're welcome.",
+    "dd_cc_ull_20": "taste. normal to london."
+  },
+  {
+    "con": "[CLS] how can i help you this afternoon? [SEP] i want to take out some money, but there's a massive queue for the atm so i thought i'd do it over the counter. [SEP]",
+    "gt": "unfortunately, an atm is being refilled because it ran out of money. that's what's causing the hold up.",
+    "dd_cc_ull_20": "frank? care to be more ipod."
+  },
+  {
+    "con": "[CLS] how can i help you this afternoon? [SEP] i want to take out some money, but there's a massive queue for the atm so i thought i'd do it over the counter. [SEP] unfortunately, an atm is being refilled because it ran out of money. that's what's causing the hold up. [SEP]",
+    "gt": "oh, i see. i thought maybe it was just the time of the day, although it isn't usually busy at 2 : 30 in the afternoon.",
+    "dd_cc_ull_20": "\u2019 s missed'control?"
+  },
+  {
+    "con": "[CLS] how can i help you this afternoon? [SEP] i want to take out some money, but there's a massive queue for the atm so i thought i'd do it over the counter. [SEP] unfortunately, an atm is being refilled because it ran out of money. that's what's causing the hold up. [SEP] oh, i see. i thought maybe it was just the time of the day, although it isn't usually busy at 2 : 30 in the afternoon. [SEP]",
+    "gt": "you are right, you've just missed the lunchtime rush. could you fill out a withdrawal slip, please?",
+    "dd_cc_ull_20": "and how do you feel from byees while you want open?"
+  },
+  {
+    "con": "[CLS] how can i help you this afternoon? [SEP] i want to take out some money, but there's a massive queue for the atm so i thought i'd do it over the counter. [SEP] unfortunately, an atm is being refilled because it ran out of money. that's what's causing the hold up. [SEP] oh, i see. i thought maybe it was just the time of the day, although it isn't usually busy at 2 : 30 in the afternoon. [SEP] you are right, you've just missed the lunchtime rush. could you fill out a withdrawal slip, please? [SEP]",
+    "gt": "i did that already, while i was waiting. also, here's my card.",
+    "dd_cc_ull_20": "written cool. bye. bye for sure for all we're here!"
+  },
+  {
+    "con": "[CLS] how can i help you this afternoon? [SEP] i want to take out some money, but there's a massive queue for the atm so i thought i'd do it over the counter. [SEP] unfortunately, an atm is being refilled because it ran out of money. that's what's causing the hold up. [SEP] oh, i see. i thought maybe it was just the time of the day, although it isn't usually busy at 2 : 30 in the afternoon. [SEP] you are right, you've just missed the lunchtime rush. could you fill out a withdrawal slip, please? [SEP] i did that already, while i was waiting. also, here's my card. [SEP]",
+    "gt": "thank you. and you require...",
+    "dd_cc_ull_20": "said i had to check out? i do the word are pipe. what can i do for you."
+  },
+  {
+    "con": "[CLS] how can i help you this afternoon? [SEP] i want to take out some money, but there's a massive queue for the atm so i thought i'd do it over the counter. [SEP] unfortunately, an atm is being refilled because it ran out of money. that's what's causing the hold up. [SEP] oh, i see. i thought maybe it was just the time of the day, although it isn't usually busy at 2 : 30 in the afternoon. [SEP] you are right, you've just missed the lunchtime rush. could you fill out a withdrawal slip, please? [SEP] i did that already, while i was waiting. also, here's my card. [SEP] thank you. and you require... [SEP]",
+    "gt": "800 rib, please.",
+    "dd_cc_ull_20": "could i get a discount, please?"
+  },
+  {
+    "con": "[CLS] how can i help you this afternoon? [SEP] i want to take out some money, but there's a massive queue for the atm so i thought i'd do it over the counter. [SEP] unfortunately, an atm is being refilled because it ran out of money. that's what's causing the hold up. [SEP] oh, i see. i thought maybe it was just the time of the day, although it isn't usually busy at 2 : 30 in the afternoon. [SEP] you are right, you've just missed the lunchtime rush. could you fill out a withdrawal slip, please? [SEP] i did that already, while i was waiting. also, here's my card. [SEP] thank you. and you require... [SEP] 800 rib, please. [SEP]",
+    "gt": "please enter your personal code right here, on the key pad. and sign here, please.",
+    "dd_cc_ull_20": "push the button over there. please return me on the meant you in this reunions. that dad tariff is one brand."
+  },
+  {
+    "con": "[CLS] how can i help you this afternoon? [SEP] i want to take out some money, but there's a massive queue for the atm so i thought i'd do it over the counter. [SEP] unfortunately, an atm is being refilled because it ran out of money. that's what's causing the hold up. [SEP] oh, i see. i thought maybe it was just the time of the day, although it isn't usually busy at 2 : 30 in the afternoon. [SEP] you are right, you've just missed the lunchtime rush. could you fill out a withdrawal slip, please? [SEP] i did that already, while i was waiting. also, here's my card. [SEP] thank you. and you require... [SEP] 800 rib, please. [SEP] please enter your personal code right here, on the key pad. and sign here, please. [SEP]",
+    "gt": "ok...",
+    "dd_cc_ull_20": "magazines and delicious food. come on, i have my claim form."
+  },
+  {
+    "con": "[CLS] how can i help you this afternoon? [SEP] i want to take out some money, but there's a massive queue for the atm so i thought i'd do it over the counter. [SEP] unfortunately, an atm is being refilled because it ran out of money. that's what's causing the hold up. [SEP] oh, i see. i thought maybe it was just the time of the day, although it isn't usually busy at 2 : 30 in the afternoon. [SEP] you are right, you've just missed the lunchtime rush. could you fill out a withdrawal slip, please? [SEP] i did that already, while i was waiting. also, here's my card. [SEP] thank you. and you require... [SEP] 800 rib, please. [SEP] please enter your personal code right here, on the key pad. and sign here, please. [SEP] ok... [SEP]",
+    "gt": "thank you. here's your card back and your money. please double check it for me.",
+    "dd_cc_ull_20": "talk to me. i think i will be up soon."
+  },
+  {
+    "con": "[CLS] how can i help you this afternoon? [SEP] i want to take out some money, but there's a massive queue for the atm so i thought i'd do it over the counter. [SEP] unfortunately, an atm is being refilled because it ran out of money. that's what's causing the hold up. [SEP] oh, i see. i thought maybe it was just the time of the day, although it isn't usually busy at 2 : 30 in the afternoon. [SEP] you are right, you've just missed the lunchtime rush. could you fill out a withdrawal slip, please? [SEP] i did that already, while i was waiting. also, here's my card. [SEP] thank you. and you require... [SEP] 800 rib, please. [SEP] please enter your personal code right here, on the key pad. and sign here, please. [SEP] ok... [SEP] thank you. here's your card back and your money. please double check it for me. [SEP]",
+    "gt": "yes, that's great. thanks.",
+    "dd_cc_ull_20": "\u201d you plan for jobs about an outside company?"
+  },
+  {
+    "con": "[CLS] what are you doing, steven? [SEP] i'm going to beijing tomorrow. i'm packing my luggage. [SEP]",
+    "gt": "what will you bring along when traveling?",
+    "dd_cc_ull_20": "4 began. 500 rib. free for almost 10 minutes."
+  },
+  {
+    "con": "[CLS] what are you doing, steven? [SEP] i'm going to beijing tomorrow. i'm packing my luggage. [SEP] what will you bring along when traveling? [SEP]",
+    "gt": "i will take some clothes to change and cleaning items.",
+    "dd_cc_ull_20": "appreciate your part. have you had any current job?"
+  },
+  {
+    "con": "[CLS] what are you doing, steven? [SEP] i'm going to beijing tomorrow. i'm packing my luggage. [SEP] what will you bring along when traveling? [SEP] i will take some clothes to change and cleaning items. [SEP]",
+    "gt": "have you packed the camera yet?",
+    "dd_cc_ull_20": "highly guest to you. anything else?"
+  },
+  {
+    "con": "[CLS] what are you doing, steven? [SEP] i'm going to beijing tomorrow. i'm packing my luggage. [SEP] what will you bring along when traveling? [SEP] i will take some clothes to change and cleaning items. [SEP] have you packed the camera yet? [SEP]",
+    "gt": "yes. i've already put it in my suitcase.",
+    "dd_cc_ull_20": "- can tell you what your wanted means word last, order it 50 conclusion reading."
+  },
+  {
+    "con": "[CLS] what are you doing, steven? [SEP] i'm going to beijing tomorrow. i'm packing my luggage. [SEP] what will you bring along when traveling? [SEP] i will take some clothes to change and cleaning items. [SEP] have you packed the camera yet? [SEP] yes. i've already put it in my suitcase. [SEP]",
+    "gt": "pack some necessary medicine in your carry - on.",
+    "dd_cc_ull_20": "if you dance often, wouldn't receipt with flowers arm! juice daddy sundayverted, attendance all worrying."
+  },
+  {
+    "con": "[CLS] what are you doing, steven? [SEP] i'm going to beijing tomorrow. i'm packing my luggage. [SEP] what will you bring along when traveling? [SEP] i will take some clothes to change and cleaning items. [SEP] have you packed the camera yet? [SEP] yes. i've already put it in my suitcase. [SEP] pack some necessary medicine in your carry - on. [SEP]",
+    "gt": "i almost forget it. thank you!",
+    "dd_cc_ull_20": "whether i would like to work faster."
+  },
+  {
+    "con": "[CLS] did you go to school today? [SEP] yeah, i went to school today. were you there? [SEP]",
+    "gt": "no, i didn't go, i've been sick.",
+    "dd_cc_ull_20": "drink? what's the interest you up?"
+  },
+  {
+    "con": "[CLS] did you go to school today? [SEP] yeah, i went to school today. were you there? [SEP] no, i didn't go, i've been sick. [SEP]",
+    "gt": "that sucks. did you want the assignments from english class?",
+    "dd_cc_ull_20": "4n's rate."
+  },
+  {
+    "con": "[CLS] did you go to school today? [SEP] yeah, i went to school today. were you there? [SEP] no, i didn't go, i've been sick. [SEP] that sucks. did you want the assignments from english class? [SEP]",
+    "gt": "that would be nice, thank you.",
+    "dd_cc_ull_20": "whether you still are not aware of your campus or skin effect - to think of tube in - law."
+  },
+  {
+    "con": "[CLS] did you go to school today? [SEP] yeah, i went to school today. were you there? [SEP] no, i didn't go, i've been sick. [SEP] that sucks. did you want the assignments from english class? [SEP] that would be nice, thank you. [SEP]",
+    "gt": "no problem, you're welcome.",
+    "dd_cc_ull_20": "out of school. i liked cat, once, the throat husband. for example, please, each hour at the superior journey."
+  },
+  {
+    "con": "[CLS] did you go to school today? [SEP] yeah, i went to school today. were you there? [SEP] no, i didn't go, i've been sick. [SEP] that sucks. did you want the assignments from english class? [SEP] that would be nice, thank you. [SEP] no problem, you're welcome. [SEP]",
+    "gt": "i will be glad to do the same for you when you're sick.",
+    "dd_cc_ull_20": "smaller means wrong. maybe we'll headaches."
+  },
+  {
+    "con": "[CLS] did you go to school today? [SEP] yeah, i went to school today. were you there? [SEP] no, i didn't go, i've been sick. [SEP] that sucks. did you want the assignments from english class? [SEP] that would be nice, thank you. [SEP] no problem, you're welcome. [SEP] i will be glad to do the same for you when you're sick. [SEP]",
+    "gt": "well, thank you. i hope to see you at school tomorrow.",
+    "dd_cc_ull_20": "building the mail foreign countries. and they give them money."
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP]",
+    "gt": "well, i \u2019 ve been meaning to talk to you about the situation in the office.",
+    "dd_cc_ull_20": "wall though the site corporation is a place of a bottom minor.."
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP]",
+    "gt": "i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work.",
+    "dd_cc_ull_20": "boa is 5 sea. can you take a message to coffee to must?"
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP] i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work. [SEP]",
+    "gt": "that \u2019 s exactly what i \u2019 m getting at. we \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? jack constantly has students coming in to get help with his course. a lot people are going in and out.",
+    "dd_cc_ull_20": "of course i am. look, there's been a bit too. look!"
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP] i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work. [SEP] that \u2019 s exactly what i \u2019 m getting at. we \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? jack constantly has students coming in to get help with his course. a lot people are going in and out. [SEP]",
+    "gt": "has anybody spoken to him about it?",
+    "dd_cc_ull_20": "outlook nose? nice to meet you."
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP] i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work. [SEP] that \u2019 s exactly what i \u2019 m getting at. we \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? jack constantly has students coming in to get help with his course. a lot people are going in and out. [SEP] has anybody spoken to him about it? [SEP]",
+    "gt": "no, not yet, but someone \u2019 s going to have to.",
+    "dd_cc_ull_20": "ms! st 555ling."
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP] i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work. [SEP] that \u2019 s exactly what i \u2019 m getting at. we \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? jack constantly has students coming in to get help with his course. a lot people are going in and out. [SEP] has anybody spoken to him about it? [SEP] no, not yet, but someone \u2019 s going to have to. [SEP]",
+    "gt": "we can \u2019 t really ask him to stop having students come in for help, can we?",
+    "dd_cc_ull_20": "meat. i don \u2019 t think i winning."
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP] i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work. [SEP] that \u2019 s exactly what i \u2019 m getting at. we \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? jack constantly has students coming in to get help with his course. a lot people are going in and out. [SEP] has anybody spoken to him about it? [SEP] no, not yet, but someone \u2019 s going to have to. [SEP] we can \u2019 t really ask him to stop having students come in for help, can we? [SEP]",
+    "gt": "no, of course not. but i \u2019 m not able to do my work and neither are you.",
+    "dd_cc_ull_20": "impossible! i \u2019 m sorry. i understand! cut your acting and particulars are compliment or entire!!"
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP] i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work. [SEP] that \u2019 s exactly what i \u2019 m getting at. we \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? jack constantly has students coming in to get help with his course. a lot people are going in and out. [SEP] has anybody spoken to him about it? [SEP] no, not yet, but someone \u2019 s going to have to. [SEP] we can \u2019 t really ask him to stop having students come in for help, can we? [SEP] no, of course not. but i \u2019 m not able to do my work and neither are you. [SEP]",
+    "gt": "how about recommending him to use the storage room down the hall?",
+    "dd_cc_ull_20": "said you knew me the brad. i think we will put on it."
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP] i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work. [SEP] that \u2019 s exactly what i \u2019 m getting at. we \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? jack constantly has students coming in to get help with his course. a lot people are going in and out. [SEP] has anybody spoken to him about it? [SEP] no, not yet, but someone \u2019 s going to have to. [SEP] we can \u2019 t really ask him to stop having students come in for help, can we? [SEP] no, of course not. but i \u2019 m not able to do my work and neither are you. [SEP] how about recommending him to use the storage room down the hall? [SEP]",
+    "gt": "oh, that would be too small.",
+    "dd_cc_ull_20": "works at all. they are too sample. the suiteders are just the best actor falls. what time was wrong! return the survive \" b - \""
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP] i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work. [SEP] that \u2019 s exactly what i \u2019 m getting at. we \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? jack constantly has students coming in to get help with his course. a lot people are going in and out. [SEP] has anybody spoken to him about it? [SEP] no, not yet, but someone \u2019 s going to have to. [SEP] we can \u2019 t really ask him to stop having students come in for help, can we? [SEP] no, of course not. but i \u2019 m not able to do my work and neither are you. [SEP] how about recommending him to use the storage room down the hall? [SEP] oh, that would be too small. [SEP]",
+    "gt": "with the cabinets taken out, it might be bigger than it looks.",
+    "dd_cc_ull_20": "shouldn't be more tuesday."
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP] i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work. [SEP] that \u2019 s exactly what i \u2019 m getting at. we \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? jack constantly has students coming in to get help with his course. a lot people are going in and out. [SEP] has anybody spoken to him about it? [SEP] no, not yet, but someone \u2019 s going to have to. [SEP] we can \u2019 t really ask him to stop having students come in for help, can we? [SEP] no, of course not. but i \u2019 m not able to do my work and neither are you. [SEP] how about recommending him to use the storage room down the hall? [SEP] oh, that would be too small. [SEP] with the cabinets taken out, it might be bigger than it looks. [SEP]",
+    "gt": "come to think of it, you may be on to something. let \u2019 s go have a look.",
+    "dd_cc_ull_20": "waitress, the rich u my lucky yesterday. here is for years."
+  },
+  {
+    "con": "[CLS] john, do you have a minute? [SEP] oh, hi, leo. sure, what \u2019 s up? [SEP] well, i \u2019 ve been meaning to talk to you about the situation in the office. [SEP] i \u2019 m not in there very often. it \u2019 s so noisy that i can \u2019 t work. [SEP] that \u2019 s exactly what i \u2019 m getting at. we \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? jack constantly has students coming in to get help with his course. a lot people are going in and out. [SEP] has anybody spoken to him about it? [SEP] no, not yet, but someone \u2019 s going to have to. [SEP] we can \u2019 t really ask him to stop having students come in for help, can we? [SEP] no, of course not. but i \u2019 m not able to do my work and neither are you. [SEP] how about recommending him to use the storage room down the hall? [SEP] oh, that would be too small. [SEP] with the cabinets taken out, it might be bigger than it looks. [SEP] come to think of it, you may be on to something. let \u2019 s go have a look. [SEP]",
+    "gt": "let \u2019 s rock n \u2019 roll.",
+    "dd_cc_ull_20": "besides, we were mu paperwork, hi there are still so many good magazines that i didn \u2019 t have any worked."
+  },
+  {
+    "con": "[CLS] hello! i'd like to get busy on my computer, but i need some broadband. [SEP] there's an ethernet cable in your room. just plug it into the back of your laptop. [SEP]",
+    "gt": "uh - oh! i can't use ethernet. my computer is wireless only.",
+    "dd_cc_ull_20": "##er, are you interested in contact if you like the customer?"
+  },
+  {
+    "con": "[CLS] hello! i'd like to get busy on my computer, but i need some broadband. [SEP] there's an ethernet cable in your room. just plug it into the back of your laptop. [SEP] uh - oh! i can't use ethernet. my computer is wireless only. [SEP]",
+    "gt": "that's okay. i can tell you about some alternatives we have.",
+    "dd_cc_ull_20": "already. sorry, sir?"
+  }
+]

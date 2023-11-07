@@ -1,0 +1,1507 @@
+[
+    {
+      "con": "<s> IBA, how can I help? </s> Ah, yes, hello. I'm calling to get some info about your PIN services. You see, my friend also has an account with you and also enjoys shopping on the Internet. She recommended I sign up for this service too. </s>",
+      "gt": " That was a wise decision, if I may say so. Our Personal Internet Banking Service offers online shopping transactions, payment of household bills online, account management... ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the PIN Service? I don't know much about it, but I do know that you can get a discount on"
+    },
+    {
+      "con": "<s> IBA, how can I help? </s> Ah, yes, hello. I'm calling to get some info about your PIN services. You see, my friend also has an account with you and also enjoys shopping on the Internet. She recommended I sign up for this service too. </s> That was a wise decision, if I may say so. Our Personal Internet Banking Service offers online shopping transactions, payment of household bills online, account management... </s>",
+      "gt": " I will probably just use it for online shopping. At the moment, I have to meet the seller in person and pay cash, if it's a local seller. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the PIN Services? I'm interested in getting some information about your services.  "
+    },
+    {
+      "con": "<s> IBA, how can I help? </s> Ah, yes, hello. I'm calling to get some info about your PIN services. You see, my friend also has an account with you and also enjoys shopping on the Internet. She recommended I sign up for this service too. </s> That was a wise decision, if I may say so. Our Personal Internet Banking Service offers online shopping transactions, payment of household bills online, account management... </s> I will probably just use it for online shopping. At the moment, I have to meet the seller in person and pay cash, if it's a local seller. </s>",
+      "gt": " This will fix all of that for you. If you use our online payment service, the money will come straight out of your account and go directly into the seller's account, in a secure way. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I see. Well, IBS offers a wide variety of services, including online bookkeeping, personal finance, insurance, and"
+    },
+    {
+      "con": "<s> Did you feed the puppies today? </s> Yes, I have. </s>",
+      "gt": " That's good! Just make sure to bathe them later. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What kind of puppers? They're all rescues, aren't they? I'd like to adopt a few. "
+    },
+    {
+      "con": "<s> Did you feed the puppies today? </s> Yes, I have. </s> That's good! Just make sure to bathe them later. </s>",
+      "gt": " No problem. I can do that for you. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I will.   \u2019 shanghai is a popular cuisine in Thailand. Do you know"
+    },
+    {
+      "con": "<s> Did you feed the puppies today? </s> Yes, I have. </s> That's good! Just make sure to bathe them later. </s> No problem. I can do that for you. </s>",
+      "gt": " Thank you! You know they have to go to the vet on Saturday? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you. I'll take them right now. I don't want them to grow up too fast! "
+    },
+    {
+      "con": "<s> Did you feed the puppies today? </s> Yes, I have. </s> That's good! Just make sure to bathe them later. </s> No problem. I can do that for you. </s> Thank you! You know they have to go to the vet on Saturday? </s>",
+      "gt": " I know. What time do they go? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don't know, but I can tell you that they need to be vaccinated every time they come to the doctor's office. "
+    },
+    {
+      "con": "<s> Did you feed the puppies today? </s> Yes, I have. </s> That's good! Just make sure to bathe them later. </s> No problem. I can do that for you. </s> Thank you! You know they have to go to the vet on Saturday? </s> I know. What time do they go? </s>",
+      "gt": " Their appointment is at eleven o'clock in the morning. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " They go at 7:30 on Saturday. They are going to be so happy to see you! "
+    },
+    {
+      "con": "<s> Did you feed the puppies today? </s> Yes, I have. </s> That's good! Just make sure to bathe them later. </s> No problem. I can do that for you. </s> Thank you! You know they have to go to the vet on Saturday? </s> I know. What time do they go? </s> Their appointment is at eleven o'clock in the morning. </s>",
+      "gt": " Okay, I won't forget. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That's not too bad. I'll see them on Saturday. Thanks for your help! "
+    },
+    {
+      "con": "<s> Nice to meet you here.How come you dropped into this company today? </s> My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? </s>",
+      "gt": " Two years or so. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I've been working here for a few years now. I like this company a lot. "
+    },
+    {
+      "con": "<s> Nice to meet you here.How come you dropped into this company today? </s> My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? </s> Two years or so. </s>",
+      "gt": " That is great.Do you have to work the night shift? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What kind of work do you do here? Are you in charge of any of the office supplies or administrative duties"
+    },
+    {
+      "con": "<s> Nice to meet you here.How come you dropped into this company today? </s> My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? </s> Two years or so. </s> That is great.Do you have to work the night shift? </s>",
+      "gt": " No, in most cases I don't have to unless there is something urgent to deal with. I work five days a week. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I do. I have to get up early in the morning and go to work at 6:30 a.m.. "
+    },
+    {
+      "con": "<s> Nice to meet you here.How come you dropped into this company today? </s> My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? </s> Two years or so. </s> That is great.Do you have to work the night shift? </s> No, in most cases I don't have to unless there is something urgent to deal with. I work five days a week. </s>",
+      "gt": " Do you enjoy work here? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What do you do on the weekends? I like to go out with friends and have a good night's sleep every now and then."
+    },
+    {
+      "con": "<s> Nice to meet you here.How come you dropped into this company today? </s> My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? </s> Two years or so. </s> That is great.Do you have to work the night shift? </s> No, in most cases I don't have to unless there is something urgent to deal with. I work five days a week. </s> Do you enjoy work here? </s>",
+      "gt": " It is hard to say.But I've to start by working as a trainee before I really become an experienced marketing assistant.Sometimes, I am really under great pressure when it gets busy. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I enjoy it very much. I get to work with people from all over the world and get to learn a lot about different cultures."
+    },
+    {
+      "con": "<s> Nice to meet you here.How come you dropped into this company today? </s> My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? </s> Two years or so. </s> That is great.Do you have to work the night shift? </s> No, in most cases I don't have to unless there is something urgent to deal with. I work five days a week. </s> Do you enjoy work here? </s> It is hard to say.But I've to start by working as a trainee before I really become an experienced marketing assistant.Sometimes, I am really under great pressure when it gets busy. </s>",
+      "gt": " Take it easy. I'm sure you will gain enough experience while working as a marketing assistant. I hope you haven't been given much trouble in the job. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What do you do in your free time? I like to go to the gym and play tennis when I have free time. "
+    },
+    {
+      "con": "<s> Nice to meet you here.How come you dropped into this company today? </s> My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? </s> Two years or so. </s> That is great.Do you have to work the night shift? </s> No, in most cases I don't have to unless there is something urgent to deal with. I work five days a week. </s> Do you enjoy work here? </s> It is hard to say.But I've to start by working as a trainee before I really become an experienced marketing assistant.Sometimes, I am really under great pressure when it gets busy. </s> Take it easy. I'm sure you will gain enough experience while working as a marketing assistant. I hope you haven't been given much trouble in the job. </s>",
+      "gt": " Luckily not.The silent I meet are generally very friendly and have a good boss. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I hope so. I've been looking for a new job for a long time. I think this will be a good fit for me."
+    },
+    {
+      "con": "<s> Nice to meet you here.How come you dropped into this company today? </s> My boss sent me here to take some business documents back to his office. I didn't know you were working here.What a surprise.How long have you been doing this? </s> Two years or so. </s> That is great.Do you have to work the night shift? </s> No, in most cases I don't have to unless there is something urgent to deal with. I work five days a week. </s> Do you enjoy work here? </s> It is hard to say.But I've to start by working as a trainee before I really become an experienced marketing assistant.Sometimes, I am really under great pressure when it gets busy. </s> Take it easy. I'm sure you will gain enough experience while working as a marketing assistant. I hope you haven't been given much trouble in the job. </s> Luckily not.The silent I meet are generally very friendly and have a good boss. </s>",
+      "gt": " Glad to hear that. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I hope so. I've been looking for a new job for a long time. I think this one will be perfect for me. "
+    },
+    {
+      "con": "<s> How do you do. I \u2019 m Mark Rancor. </s> Nice to meet you. </s>",
+      "gt": " May I know your name, please? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Nice to met you, too. How \u2019 s your day going? Anything interesting? "
+    },
+    {
+      "con": "<s> How do you do. I \u2019 m Mark Rancor. </s> Nice to meet you. </s> May I know your name, please? </s>",
+      "gt": " I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " My name is Steven. I was born in 1985. How about you, Mrs. Winchell?"
+    },
+    {
+      "con": "<s> How do you do. I \u2019 m Mark Rancor. </s> Nice to meet you. </s> May I know your name, please? </s> I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? </s>",
+      "gt": " Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I have. I have seen you a couple of times. I don \u2019 t remember your last name, but it \u2019"
+    },
+    {
+      "con": "<s> How do you do. I \u2019 m Mark Rancor. </s> Nice to meet you. </s> May I know your name, please? </s> I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? </s> Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? </s>",
+      "gt": " Yes, I was. You work for 3M, right? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, I was not. I didn \u2019 t go out to dinner last month. I was too busy with my studies. "
+    },
+    {
+      "con": "<s> How do you do. I \u2019 m Mark Rancor. </s> Nice to meet you. </s> May I know your name, please? </s> I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? </s> Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? </s> Yes, I was. You work for 3M, right? </s>",
+      "gt": " I did but now I \u2019 m for Microsoft. How are things with you? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes. I work for a 3M company, and I also work part-time as a receptionist in a law office. "
+    },
+    {
+      "con": "<s> How do you do. I \u2019 m Mark Rancor. </s> Nice to meet you. </s> May I know your name, please? </s> I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? </s> Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? </s> Yes, I was. You work for 3M, right? </s> I did but now I \u2019 m for Microsoft. How are things with you? </s>",
+      "gt": " Good. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Things are going well. I just got a promotion at my job last month. I can \u2019 t wait to start working. "
+    },
+    {
+      "con": "<s> How do you do. I \u2019 m Mark Rancor. </s> Nice to meet you. </s> May I know your name, please? </s> I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? </s> Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? </s> Yes, I was. You work for 3M, right? </s> I did but now I \u2019 m for Microsoft. How are things with you? </s> Good. </s>",
+      "gt": " May I know what you do? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How are you doing today? I am doing well, thank you for asking. I hope you are well, too! "
+    },
+    {
+      "con": "<s> How do you do. I \u2019 m Mark Rancor. </s> Nice to meet you. </s> May I know your name, please? </s> I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? </s> Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? </s> Yes, I was. You work for 3M, right? </s> I did but now I \u2019 m for Microsoft. How are things with you? </s> Good. </s> May I know what you do? </s>",
+      "gt": " I \u2019 m a fashion designer. Next month, I have a fashion show. I \u2019 d love it if come. I can get you a couple of tickets. So you can bring a friend if you like. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I work in the IT department. I like it a lot, but it can be stressful at times. How about you, Mr."
+    },
+    {
+      "con": "<s> How do you do. I \u2019 m Mark Rancor. </s> Nice to meet you. </s> May I know your name, please? </s> I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? </s> Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? </s> Yes, I was. You work for 3M, right? </s> I did but now I \u2019 m for Microsoft. How are things with you? </s> Good. </s> May I know what you do? </s> I \u2019 m a fashion designer. Next month, I have a fashion show. I \u2019 d love it if come. I can get you a couple of tickets. So you can bring a friend if you like. </s>",
+      "gt": " Sure. That would be great. Good luck. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, that \u2019 ll be great. Thank you very much for inviting me to your party. I look forward to seeing you"
+    },
+    {
+      "con": "<s> How do you do. I \u2019 m Mark Rancor. </s> Nice to meet you. </s> May I know your name, please? </s> I \u2019 m Rose Teller. I think I \u2019 Ve seen you somewhere before? </s> Ah, yes. I remember now. Were you Mr. John \u2019 s dinner partner last month? </s> Yes, I was. You work for 3M, right? </s> I did but now I \u2019 m for Microsoft. How are things with you? </s> Good. </s> May I know what you do? </s> I \u2019 m a fashion designer. Next month, I have a fashion show. I \u2019 d love it if come. I can get you a couple of tickets. So you can bring a friend if you like. </s> Sure. That would be great. Good luck. </s>",
+      "gt": " Thank you. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you very much. I will bring you a pair of shoes as a thank you. You \u2019 ll be very happy. "
+    },
+    {
+      "con": "<s> Look, Jim. That man just fell down over there. </s> We better see if he \u2019 s o. k. </s>",
+      "gt": " Sir... sir? Are you all right? Sir? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " He is fine. He just fell a little bit, but he didn \u2019 t break anything. He was just a little sore."
+    },
+    {
+      "con": "<s> Look, Jim. That man just fell down over there. </s> We better see if he \u2019 s o. k. </s> Sir... sir? Are you all right? Sir? </s>",
+      "gt": " He \u2019 s not answering. You \u2019 d better check his pulse and breathing. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Sir.   \u2019 ll you please tell me if I \u2019 m going to be able to see him again? "
+    },
+    {
+      "con": "<s> Look, Jim. That man just fell down over there. </s> We better see if he \u2019 s o. k. </s> Sir... sir? Are you all right? Sir? </s> He \u2019 s not answering. You \u2019 d better check his pulse and breathing. </s>",
+      "gt": " Oh, no. He \u2019 s not breathing, and there \u2019 s no pulse. Call 911. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I \u2019 m not sure what to do. I don \u2019 t know how to get him to come up with a way to get"
+    },
+    {
+      "con": "<s> Look, Jim. That man just fell down over there. </s> We better see if he \u2019 s o. k. </s> Sir... sir? Are you all right? Sir? </s> He \u2019 s not answering. You \u2019 d better check his pulse and breathing. </s> Oh, no. He \u2019 s not breathing, and there \u2019 s no pulse. Call 911. </s>",
+      "gt": " Hello? Yes. Someone has passed out at Connecticut Ave. and 1st St. He isn \u2019 t breathing and does not have a pulse. Yes. My friend is performing CPR. OK. Thank you. They \u2019 re sending",
+      "dd_cc_ESIM_72F269F0_e[19]": " Sir, I \u2019 ll call 911 right now. I don \u2019 t know what to do with him. I "
+    },
+    {
+      "con": "<s> I'm going crazy. </s> What's the matter? </s>",
+      "gt": " I've got a dozen things to do and they all have to be done immediately. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don't know what's going on with my wife. She's not in a good mood. I'm afraid she's going to leave"
+    },
+    {
+      "con": "<s> I'm going crazy. </s> What's the matter? </s> I've got a dozen things to do and they all have to be done immediately. </s>",
+      "gt": " Well, if there is anything I can do to help, let me know. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What are you going to do now that you have all your things done? I can't wait to see you! "
+    },
+    {
+      "con": "<s> So how did I do? </s> Not too good, I'm sorry. </s>",
+      "gt": " I lost? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What happened?   \u2019 ll you tell me why you didn \u2019 t do well on the test?"
+    },
+    {
+      "con": "<s> So how did I do? </s> Not too good, I'm sorry. </s> I lost? </s>",
+      "gt": " It was close.To be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date.Acme promised them almost a full month sooner. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I lost. I'm so ashamed of myself. I can't believe I didn't do better than I did. "
+    },
+    {
+      "con": "<s> So how did I do? </s> Not too good, I'm sorry. </s> I lost? </s> It was close.To be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date.Acme promised them almost a full month sooner. </s>",
+      "gt": " So the price was good? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That's too bad. I guess I'll have to wait a month for them to deliver my package. I'm really sorry about that."
+    },
+    {
+      "con": "<s> So how did I do? </s> Not too good, I'm sorry. </s> I lost? </s> It was close.To be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date.Acme promised them almost a full month sooner. </s> So the price was good? </s>",
+      "gt": " Yes, they loved the price, the delivery date was the problem. They just didn't want to cut the delivery date that close.If something went wrong and you didn't deliver, we might not be able to get stock in time for Christmas.If you could have been two or three weeks",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, it was. I'm going to give them a call again tomorrow morning to see if they can give me a full price. "
+    },
+    {
+      "con": "<s> So how did I do? </s> Not too good, I'm sorry. </s> I lost? </s> It was close.To be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date.Acme promised them almost a full month sooner. </s> So the price was good? </s> Yes, they loved the price, the delivery date was the problem. They just didn't want to cut the delivery date that close.If something went wrong and you didn't deliver, we might not be able to get stock in time for Christmas.If you could have been two or three weeks faster on delivery, they might have gone with you. </s>",
+      "gt": " So I didn't miss by much then. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I think I'll just pay for the delivery myself. I don't want them to lose my business over it.Thank you for"
+    },
+    {
+      "con": "<s> So how did I do? </s> Not too good, I'm sorry. </s> I lost? </s> It was close.To be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date.Acme promised them almost a full month sooner. </s> So the price was good? </s> Yes, they loved the price, the delivery date was the problem. They just didn't want to cut the delivery date that close.If something went wrong and you didn't deliver, we might not be able to get stock in time for Christmas.If you could have been two or three weeks faster on delivery, they might have gone with you. </s> So I didn't miss by much then. </s>",
+      "gt": " No.It was very close and they argued over the bid for a long time. Better luck next time. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That's a good point. I'll make sure to keep that in mind next time I order from them.Thank you very much"
+    },
+    {
+      "con": "<s> So how did I do? </s> Not too good, I'm sorry. </s> I lost? </s> It was close.To be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date.Acme promised them almost a full month sooner. </s> So the price was good? </s> Yes, they loved the price, the delivery date was the problem. They just didn't want to cut the delivery date that close.If something went wrong and you didn't deliver, we might not be able to get stock in time for Christmas.If you could have been two or three weeks faster on delivery, they might have gone with you. </s> So I didn't miss by much then. </s> No.It was very close and they argued over the bid for a long time. Better luck next time. </s>",
+      "gt": " I knew the delivery was slow but I figured the price would win it for me. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That's good to know. I'll make sure to do that next time.Thank you very much for your help. I hope"
+    },
+    {
+      "con": "<s> So how did I do? </s> Not too good, I'm sorry. </s> I lost? </s> It was close.To be honest, you had the lowest price by three cents per hint, but they didn't like your delivery date.Acme promised them almost a full month sooner. </s> So the price was good? </s> Yes, they loved the price, the delivery date was the problem. They just didn't want to cut the delivery date that close.If something went wrong and you didn't deliver, we might not be able to get stock in time for Christmas.If you could have been two or three weeks faster on delivery, they might have gone with you. </s> So I didn't miss by much then. </s> No.It was very close and they argued over the bid for a long time. Better luck next time. </s> I knew the delivery was slow but I figured the price would win it for me. </s>",
+      "gt": " That's possible, Bill.But the price would have to have been a lot lower, like around fifty cents per unit. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That's a good idea. I'll try that next time.Thank you very much for your help.By the way,"
+    },
+    {
+      "con": "<s> Hi, can I assist you in any way? </s> Oh, thank you. Yes, please. What I need is to handle some domestic affairs. </s>",
+      "gt": " Oh, I see. In what area? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What kind of domestic issues? I'm sorry, but I can't help you. I'm afraid I'm not qualified. "
+    },
+    {
+      "con": "<s> Hi, can I assist you in any way? </s> Oh, thank you. Yes, please. What I need is to handle some domestic affairs. </s> Oh, I see. In what area? </s>",
+      "gt": " Well, I need a Deposit Certification to handle this. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I need to handle a domestic dispute between my wife and I. I'm afraid I'm not qualified to handle this. "
+    },
+    {
+      "con": "<s> Hi, can I assist you in any way? </s> Oh, thank you. Yes, please. What I need is to handle some domestic affairs. </s> Oh, I see. In what area? </s> Well, I need a Deposit Certification to handle this. </s>",
+      "gt": " Yes, we have this service. Have you got a deposit certificate and your passport? I'm sorry to ask you, but your passport is very important. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Oh, yes, of course. Here you are. What can I do for you now?"
+    },
+    {
+      "con": "<s> Hi, can I assist you in any way? </s> Oh, thank you. Yes, please. What I need is to handle some domestic affairs. </s> Oh, I see. In what area? </s> Well, I need a Deposit Certification to handle this. </s> Yes, we have this service. Have you got a deposit certificate and your passport? I'm sorry to ask you, but your passport is very important. </s>",
+      "gt": " Yes, yes. Here it is. By the way, is there a handling fee? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I have both of those. I need to get my passport and my DCC to be processed by the Depos"
+    },
+    {
+      "con": "<s> Hi, can I assist you in any way? </s> Oh, thank you. Yes, please. What I need is to handle some domestic affairs. </s> Oh, I see. In what area? </s> Well, I need a Deposit Certification to handle this. </s> Yes, we have this service. Have you got a deposit certificate and your passport? I'm sorry to ask you, but your passport is very important. </s> Yes, yes. Here it is. By the way, is there a handling fee? </s>",
+      "gt": " Yes, I'm afraid there is. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, there is a fee. Here you are. Here is your receipt and passport and you will get your deposit."
+    },
+    {
+      "con": "<s> Excuse me. I want to pay for these items. </s> OK. This way, please. </s>",
+      "gt": " How much is it all together? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How much do you want me to pay? I \u2019 m sorry, but I don \u2019 t have the money right now. "
+    },
+    {
+      "con": "<s> Excuse me. I want to pay for these items. </s> OK. This way, please. </s> How much is it all together? </s>",
+      "gt": " Let me see. 100 dollars. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " It's all together.  \u2019 s $ 10.00 for each pair of shoes, shoes, and bracelets. "
+    },
+    {
+      "con": "<s> Excuse me. I want to pay for these items. </s> OK. This way, please. </s> How much is it all together? </s> Let me see. 100 dollars. </s>",
+      "gt": " Can I pay by credit card? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " OK.    Oh, I'm sorry. I can't do it now. I'll have to wait for a moment. "
+    },
+    {
+      "con": "<s> Excuse me. I want to pay for these items. </s> OK. This way, please. </s> How much is it all together? </s> Let me see. 100 dollars. </s> Can I pay by credit card? </s>",
+      "gt": " Sorry. You can only pay in cash. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, you can pay by Card. Here is your receipt. Here you are. Here's your change and change. "
+    },
+    {
+      "con": "<s> Excuse me. I want to pay for these items. </s> OK. This way, please. </s> How much is it all together? </s> Let me see. 100 dollars. </s> Can I pay by credit card? </s> Sorry. You can only pay in cash. </s>",
+      "gt": " OK. Here you are. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " OK. I'll pay by cash. Can I have my credit card, please? I don't want to go to the bank. "
+    },
+    {
+      "con": "<s> Excuse me. I want to pay for these items. </s> OK. This way, please. </s> How much is it all together? </s> Let me see. 100 dollars. </s> Can I pay by credit card? </s> Sorry. You can only pay in cash. </s> OK. Here you are. </s>",
+      "gt": " Thank you. Do you need the invoice? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you.   \u2019 shanghai is the only way I can pay by cash. I \u2019 m sorry."
+    },
+    {
+      "con": "<s> Excuse me. I want to pay for these items. </s> OK. This way, please. </s> How much is it all together? </s> Let me see. 100 dollars. </s> Can I pay by credit card? </s> Sorry. You can only pay in cash. </s> OK. Here you are. </s> Thank you. Do you need the invoice? </s>",
+      "gt": " Yes. And can you pack the things up, please? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I do. Thank you very much. I \u2019 ll be right back with you in a few minutes, thank you."
+    },
+    {
+      "con": "<s> Excuse me. I want to pay for these items. </s> OK. This way, please. </s> How much is it all together? </s> Let me see. 100 dollars. </s> Can I pay by credit card? </s> Sorry. You can only pay in cash. </s> OK. Here you are. </s> Thank you. Do you need the invoice? </s> Yes. And can you pack the things up, please? </s>",
+      "gt": " Sure. I'll get right on it. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " OK. Thank you, here is the receipt and the money in the envelope. Here is $ 100, deposit,"
+    },
+    {
+      "con": "<s> How often do you use the internet? </s> I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? </s>",
+      "gt": " Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I use the Internet a lot.   \u2019 s my favorite thing to do on the internet. "
+    },
+    {
+      "con": "<s> How often do you use the internet? </s> I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? </s> Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. </s>",
+      "gt": " So, you \u2019 re online eight hours a day. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What do you do when the internet is not working? Do you have to check your email? I \u2019 m afraid it \u2019 s"
+    },
+    {
+      "con": "<s> How often do you use the internet? </s> I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? </s> Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. </s> So, you \u2019 re online eight hours a day. </s>",
+      "gt": " Yes, I like the job though. Sometimes, I help other people in the office if they \u2019 re having trouble online. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes. It \u2019 s very convenient. I \u2019 ll use it when I need to check email or check email. "
+    },
+    {
+      "con": "<s> How often do you use the internet? </s> I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? </s> Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. </s> So, you \u2019 re online eight hours a day. </s> Yes, I like the job though. Sometimes, I help other people in the office if they \u2019 re having trouble online. </s>",
+      "gt": " How useful do you think the internet is as a source of information? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What do you do when the internet is out of service? Do you have to go to the office to check out the internet every day?"
+    },
+    {
+      "con": "<s> How often do you use the internet? </s> I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? </s> Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. </s> So, you \u2019 re online eight hours a day. </s> Yes, I like the job though. Sometimes, I help other people in the office if they \u2019 re having trouble online. </s> How useful do you think the internet is as a source of information? </s>",
+      "gt": " I think it \u2019 s fairly useful, but there are two big problems. First, a lot of the information you find online is false. Second, when you buy something online, you don \u2019 t see it until you actually get it. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I think it \u2019 s very useful. I \u2019 m able to find information about products and products that I want to buy. "
+    },
+    {
+      "con": "<s> How often do you use the internet? </s> I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? </s> Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. </s> So, you \u2019 re online eight hours a day. </s> Yes, I like the job though. Sometimes, I help other people in the office if they \u2019 re having trouble online. </s> How useful do you think the internet is as a source of information? </s> I think it \u2019 s fairly useful, but there are two big problems. First, a lot of the information you find online is false. Second, when you buy something online, you don \u2019 t see it until you actually get it. </s>",
+      "gt": " How do you solve the website problems when you \u2019 re buying something online? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I \u2019 m not sure how useful it is. I just use it as a means of accessing information about products and products. "
+    },
+    {
+      "con": "<s> How often do you use the internet? </s> I use it almost every day, but I usually only use it to check my email. I don \u2019 t often surf the net. You use the internet a lot, don \u2019 t you? </s> Yes. I use it to find products and components at the lowest price for my company. It can be frustrating when the connection is poor. </s> So, you \u2019 re online eight hours a day. </s> Yes, I like the job though. Sometimes, I help other people in the office if they \u2019 re having trouble online. </s> How useful do you think the internet is as a source of information? </s> I think it \u2019 s fairly useful, but there are two big problems. First, a lot of the information you find online is false. Second, when you buy something online, you don \u2019 t see it until you actually get it. </s> How do you solve the website problems when you \u2019 re buying something online? </s>",
+      "gt": " What I do is find the website of shops. Then someone from our company visits the shop and buys when they \u2019 re seen that the products are genuine and suitable. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I \u2019 m not sure how useful it is. I just use it for shopping and for entertainment purposes. I can \u2019"
+    },
+    {
+      "con": "<s> You may not remember me.My name is Joe Brown. </s> Yes, of course. I'm Jimmy White. </s>",
+      "gt": " Nice to see you again. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What's your name, Mr. White? I've seen you around the store a few times, but I don't remember your name."
+    },
+    {
+      "con": "<s> You may not remember me.My name is Joe Brown. </s> Yes, of course. I'm Jimmy White. </s> Nice to see you again. </s>",
+      "gt": " Same here. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Nice to meet you, too. I hope we can catch up again sometime soon.How are you? "
+    },
+    {
+      "con": "<s> I called about that ad we saw in the paper. </s> For the bank manager? </s>",
+      "gt": " That \u2019 s the one. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, the ad was for the newspaper. It was an advertisement for the bank. It made a lot of money."
+    },
+    {
+      "con": "<s> I called about that ad we saw in the paper. </s> For the bank manager? </s> That \u2019 s the one. </s>",
+      "gt": " What happened? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I \u2019 m not sure what to say. I don \u2019 t know what to do. I feel bad for the bank. "
+    },
+    {
+      "con": "<s> I called about that ad we saw in the paper. </s> For the bank manager? </s> That \u2019 s the one. </s> What happened? </s>",
+      "gt": " You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I \u2019 m not sure what happened, but I called the bank and they \u2019 re going to investigate it for me. "
+    },
+    {
+      "con": "<s> I called about that ad we saw in the paper. </s> For the bank manager? </s> That \u2019 s the one. </s> What happened? </s> You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. </s>",
+      "gt": " Well, no surprise there. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the ad?  \u2019 d you like it better if you didn \u2019 t have to pay a fee for it? "
+    },
+    {
+      "con": "<s> I called about that ad we saw in the paper. </s> For the bank manager? </s> That \u2019 s the one. </s> What happened? </s> You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. </s> Well, no surprise there. </s>",
+      "gt": " No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don \u2019 t know what to do. I \u2019 m going to call the bank and see if they can help me. "
+    },
+    {
+      "con": "<s> I called about that ad we saw in the paper. </s> For the bank manager? </s> That \u2019 s the one. </s> What happened? </s> You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. </s> Well, no surprise there. </s> No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. </s>",
+      "gt": " Great, so are you going to sign a contract with them? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I \u2019 m glad you were able to find a way to work it out. I hope you \u2019 ll get the job."
+    },
+    {
+      "con": "<s> I called about that ad we saw in the paper. </s> For the bank manager? </s> That \u2019 s the one. </s> What happened? </s> You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. </s> Well, no surprise there. </s> No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. </s> Great, so are you going to sign a contract with them? </s>",
+      "gt": " I \u2019 m going there tomorrow. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I \u2019 m not sure. I don \u2019 t want to have to sign anything. I just want to see if I can get"
+    },
+    {
+      "con": "<s> I called about that ad we saw in the paper. </s> For the bank manager? </s> That \u2019 s the one. </s> What happened? </s> You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. </s> Well, no surprise there. </s> No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. </s> Great, so are you going to sign a contract with them? </s> I \u2019 m going there tomorrow. </s>",
+      "gt": " Great! Good luck. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the contract?  \u2019 d you like it better if you signed the contract with the bank or would you like to change it"
+    },
+    {
+      "con": "<s> I called about that ad we saw in the paper. </s> For the bank manager? </s> That \u2019 s the one. </s> What happened? </s> You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. </s> Well, no surprise there. </s> No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. </s> Great, so are you going to sign a contract with them? </s> I \u2019 m going there tomorrow. </s> Great! Good luck. </s>",
+      "gt": " And I think I'll look in on a few other Employment Agencies while I \u2019 m downtown, to see what they have. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you!   \u2019 d you like to go there with me tomorrow? I think it \u2019 ll be fun. "
+    },
+    {
+      "con": "<s> I called about that ad we saw in the paper. </s> For the bank manager? </s> That \u2019 s the one. </s> What happened? </s> You were right, it was from a headhunter. He wouldn't tell me anything without a signed contract. </s> Well, no surprise there. </s> No! Not at all. But I did find out they have more than one position with different clients, so at least one would probably work out. </s> Great, so are you going to sign a contract with them? </s> I \u2019 m going there tomorrow. </s> Great! Good luck. </s> And I think I'll look in on a few other Employment Agencies while I \u2019 m downtown, to see what they have. </s>",
+      "gt": " Good idea. The more people you ask, the better your chances are. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the agencies? They \u2019 re the only ones I can think of right now! "
+    },
+    {
+      "con": "<s> I am very proud of John. </s> Me too. No one has expected he can really get somewhere with his business. </s>",
+      "gt": " But he has suffered a lot. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I know. He is a very talented man. I am so happy for him. I can't wait to see him again. "
+    },
+    {
+      "con": "<s> Do you mind helping me? </s> What can I help you with? </s>",
+      "gt": " I'm not sure how to find my next class. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'd like to buy a pair of shoes. I've been looking for a pair for a long time. "
+    },
+    {
+      "con": "<s> Do you mind helping me? </s> What can I help you with? </s> I'm not sure how to find my next class. </s>",
+      "gt": " Do you know what building that it's in? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What class?   \u2019 s your name, class number, class name, and class number?"
+    },
+    {
+      "con": "<s> Do you mind helping me? </s> What can I help you with? </s> I'm not sure how to find my next class. </s> Do you know what building that it's in? </s>",
+      "gt": " The C building, I think. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don't know where it's at, but I'm sure it's not too far from the building. "
+    },
+    {
+      "con": "<s> Do you mind helping me? </s> What can I help you with? </s> I'm not sure how to find my next class. </s> Do you know what building that it's in? </s> The C building, I think. </s>",
+      "gt": " Well, that's not far away. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What's the class about? \u007f? , the classroom, the math class, or the history of the class? "
+    },
+    {
+      "con": "<s> Do you mind helping me? </s> What can I help you with? </s> I'm not sure how to find my next class. </s> Do you know what building that it's in? </s> The C building, I think. </s> Well, that's not far away. </s>",
+      "gt": " Could you point me in that direction? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the class?  \u2019 s the class next to the dorm? I think I can find it in the hall. "
+    },
+    {
+      "con": "<s> Do you mind helping me? </s> What can I help you with? </s> I'm not sure how to find my next class. </s> Do you know what building that it's in? </s> The C building, I think. </s> Well, that's not far away. </s> Could you point me in that direction? </s>",
+      "gt": " Do you know what the room number is? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'm sorry, but I can't help you. I'm afraid I don't know where it's located. I'll have to"
+    },
+    {
+      "con": "<s> Do you mind helping me? </s> What can I help you with? </s> I'm not sure how to find my next class. </s> Do you know what building that it's in? </s> The C building, I think. </s> Well, that's not far away. </s> Could you point me in that direction? </s> Do you know what the room number is? </s>",
+      "gt": " It's C261. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'm afraid I don't know the room numbers. I'll have to ask the professor. I hope he can help me. "
+    },
+    {
+      "con": "<s> Do you mind helping me? </s> What can I help you with? </s> I'm not sure how to find my next class. </s> Do you know what building that it's in? </s> The C building, I think. </s> Well, that's not far away. </s> Could you point me in that direction? </s> Do you know what the room number is? </s> It's C261. </s>",
+      "gt": " My next class is around there. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How much is the room? \u007f? 00262658 "
+    },
+    {
+      "con": "<s> Do you mind helping me? </s> What can I help you with? </s> I'm not sure how to find my next class. </s> Do you know what building that it's in? </s> The C building, I think. </s> Well, that's not far away. </s> Could you point me in that direction? </s> Do you know what the room number is? </s> It's C261. </s> My next class is around there. </s>",
+      "gt": " Can you show it to me? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the class?  \u2019 s the class next to the building? It's on the first floor, isn't it? "
+    },
+    {
+      "con": "<s> Do you mind helping me? </s> What can I help you with? </s> I'm not sure how to find my next class. </s> Do you know what building that it's in? </s> The C building, I think. </s> Well, that's not far away. </s> Could you point me in that direction? </s> Do you know what the room number is? </s> It's C261. </s> My next class is around there. </s> Can you show it to me? </s>",
+      "gt": " Sure, let's go. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'll show you it. It's on the right side of the building. It has a great view of the city and the city."
+    },
+    {
+      "con": "<s> That China-gown of Tang-Dynasty style is so beautiful. Would you show it to me, please? </s> Absolutely. Here it is. </s>",
+      "gt": " Could I try it on? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you.   \u2019 shanghai style is the most popular style in China, and it is very popular. "
+    },
+    {
+      "con": "<s> That China-gown of Tang-Dynasty style is so beautiful. Would you show it to me, please? </s> Absolutely. Here it is. </s> Could I try it on? </s>",
+      "gt": " Please do, the fitting-room is over there. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Of course. Here you are. Here is the receipt for the Tang Dynasty"
+    },
+    {
+      "con": "<s> That China-gown of Tang-Dynasty style is so beautiful. Would you show it to me, please? </s> Absolutely. Here it is. </s> Could I try it on? </s> Please do, the fitting-room is over there. </s>",
+      "gt": " It feels a little tight around the waist. Do you have a bigger one? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you.   \u2019 shanghai style is one of the most popular styles in China. It is very popular"
+    },
+    {
+      "con": "<s> That China-gown of Tang-Dynasty style is so beautiful. Would you show it to me, please? </s> Absolutely. Here it is. </s> Could I try it on? </s> Please do, the fitting-room is over there. </s> It feels a little tight around the waist. Do you have a bigger one? </s>",
+      "gt": " I'm sorry. We don't have this color in your size. We have some green ones in your size. Would you please have a look at this green one? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I have a larger one.    edit this one. It \u2019 s a little thicker than the one in China"
+    },
+    {
+      "con": "<s> That China-gown of Tang-Dynasty style is so beautiful. Would you show it to me, please? </s> Absolutely. Here it is. </s> Could I try it on? </s> Please do, the fitting-room is over there. </s> It feels a little tight around the waist. Do you have a bigger one? </s> I'm sorry. We don't have this color in your size. We have some green ones in your size. Would you please have a look at this green one? </s>",
+      "gt": " OK. How much does it cost? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Sure, I'd like to try it. I'm sure it will look great on me! "
+    },
+    {
+      "con": "<s> That China-gown of Tang-Dynasty style is so beautiful. Would you show it to me, please? </s> Absolutely. Here it is. </s> Could I try it on? </s> Please do, the fitting-room is over there. </s> It feels a little tight around the waist. Do you have a bigger one? </s> I'm sorry. We don't have this color in your size. We have some green ones in your size. Would you please have a look at this green one? </s> OK. How much does it cost? </s>",
+      "gt": " It's 486 yuan. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " It's free to try on, but you have to pay for it. It's a little pricey, but it's worth it."
+    },
+    {
+      "con": "<s> Are you OK? </s> Yeah. Why not? </s>",
+      "gt": " Because... I heard John got married yesterday. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'm not feeling well. I think I'm going to have a seizure. "
+    },
+    {
+      "con": "<s> Are you OK? </s> Yeah. Why not? </s> Because... I heard John got married yesterday. </s>",
+      "gt": " Oh, you went to the wedding? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Oh, really? I didn't hear anything about it. What was the news?  "
+    },
+    {
+      "con": "<s> Are you OK? </s> Yeah. Why not? </s> Because... I heard John got married yesterday. </s> Oh, you went to the wedding? </s>",
+      "gt": " No, he didn't tell me about it. Don't feel bad. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yeah. I went. I don \u2019 t know why I didn't go. I just didn't think it would be a good time"
+    },
+    {
+      "con": "<s> Are you OK? </s> Yeah. Why not? </s> Because... I heard John got married yesterday. </s> Oh, you went to the wedding? </s> No, he didn't tell me about it. Don't feel bad. </s>",
+      "gt": " I'm OK. I promise. Maybe you don't know that I have done with him for a long time. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I didn't know he got married. I thought he was married to someone else. I guess he didn \u2019 t tell me. "
+    },
+    {
+      "con": "<s> Kata! You've got a beautiful singing voice. You hit the high notes perfectly. </s> Thank you for your compliment. But you are exaggerating. I think you are destined to be a singer. You have the best voice! </s>",
+      "gt": " Thank you. Maybe we can sing a song together. Would you like to sing with me? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you very much. I don't think I have a good voice, but I think I'm a good singer, too. "
+    },
+    {
+      "con": "<s> Kata! You've got a beautiful singing voice. You hit the high notes perfectly. </s> Thank you for your compliment. But you are exaggerating. I think you are destined to be a singer. You have the best voice! </s> Thank you. Maybe we can sing a song together. Would you like to sing with me? </s>",
+      "gt": " Yes, I'd like to. It's my honor. Let's pick a song. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I'd like to. But I'm not very good at singing. I can't carry a tune in a bucket"
+    },
+    {
+      "con": "<s> Kata! You've got a beautiful singing voice. You hit the high notes perfectly. </s> Thank you for your compliment. But you are exaggerating. I think you are destined to be a singer. You have the best voice! </s> Thank you. Maybe we can sing a song together. Would you like to sing with me? </s> Yes, I'd like to. It's my honor. Let's pick a song. </s>",
+      "gt": " How about this one? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " OK. Let me think. What's the name of the song you want me to sing? I can't think of one right now."
+    },
+    {
+      "con": "<s> Kata! You've got a beautiful singing voice. You hit the high notes perfectly. </s> Thank you for your compliment. But you are exaggerating. I think you are destined to be a singer. You have the best voice! </s> Thank you. Maybe we can sing a song together. Would you like to sing with me? </s> Yes, I'd like to. It's my honor. Let's pick a song. </s> How about this one? </s>",
+      "gt": " Sorry, I can't sing the song. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, this one is my favorite. I'll sing it for you. I'm going to sing it to you in the shower. "
+    },
+    {
+      "con": "<s> Kata! You've got a beautiful singing voice. You hit the high notes perfectly. </s> Thank you for your compliment. But you are exaggerating. I think you are destined to be a singer. You have the best voice! </s> Thank you. Maybe we can sing a song together. Would you like to sing with me? </s> Yes, I'd like to. It's my honor. Let's pick a song. </s> How about this one? </s> Sorry, I can't sing the song. </s>",
+      "gt": " Er... How about this one? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That's OK. I'll sing it for you. I'm sure you are a great singer too. I believe in you. "
+    },
+    {
+      "con": "<s> Kata! You've got a beautiful singing voice. You hit the high notes perfectly. </s> Thank you for your compliment. But you are exaggerating. I think you are destined to be a singer. You have the best voice! </s> Thank you. Maybe we can sing a song together. Would you like to sing with me? </s> Yes, I'd like to. It's my honor. Let's pick a song. </s> How about this one? </s> Sorry, I can't sing the song. </s> Er... How about this one? </s>",
+      "gt": " OK. But I'm not familiar. I don't know the beginning part. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I can sing this one. It has a beautiful melody and beautiful harmony. I'm sure you can sing it. "
+    },
+    {
+      "con": "<s> Kata! You've got a beautiful singing voice. You hit the high notes perfectly. </s> Thank you for your compliment. But you are exaggerating. I think you are destined to be a singer. You have the best voice! </s> Thank you. Maybe we can sing a song together. Would you like to sing with me? </s> Yes, I'd like to. It's my honor. Let's pick a song. </s> How about this one? </s> Sorry, I can't sing the song. </s> Er... How about this one? </s> OK. But I'm not familiar. I don't know the beginning part. </s>",
+      "gt": " Never mind. You can follow me. I'll sing the first part. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you!   \u2019 shanghai music is very popular in China. Do you know where it comes from? "
+    },
+    {
+      "con": "<s> Kata! You've got a beautiful singing voice. You hit the high notes perfectly. </s> Thank you for your compliment. But you are exaggerating. I think you are destined to be a singer. You have the best voice! </s> Thank you. Maybe we can sing a song together. Would you like to sing with me? </s> Yes, I'd like to. It's my honor. Let's pick a song. </s> How about this one? </s> Sorry, I can't sing the song. </s> Er... How about this one? </s> OK. But I'm not familiar. I don't know the beginning part. </s> Never mind. You can follow me. I'll sing the first part. </s>",
+      "gt": " OK. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you!   \u2019 shanghai music is very popular in China. Do you know where it comes from? "
+    },
+    {
+      "con": "<s> The summer vacation is coming. Have you any plans? </s> I haven't made up my mind. Maybe I will go to the US. What about you? </s>",
+      "gt": " I am going on a hiking trip. It's good exercise as well as fun. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I want to go to Hawaii. I have always wanted to see the Pacific Ocean. "
+    },
+    {
+      "con": "<s> The summer vacation is coming. Have you any plans? </s> I haven't made up my mind. Maybe I will go to the US. What about you? </s> I am going on a hiking trip. It's good exercise as well as fun. </s>",
+      "gt": " I think so. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Where are you going to go on the hiking vacation? I have never been on a hike before! "
+    },
+    {
+      "con": "<s> The summer vacation is coming. Have you any plans? </s> I haven't made up my mind. Maybe I will go to the US. What about you? </s> I am going on a hiking trip. It's good exercise as well as fun. </s> I think so. </s>",
+      "gt": " So why not come and join us? Lee will come as well. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What are you going to do on the summer vacation? I have no idea what I want to do. I don't know what to do"
+    },
+    {
+      "con": "<s> The summer vacation is coming. Have you any plans? </s> I haven't made up my mind. Maybe I will go to the US. What about you? </s> I am going on a hiking trip. It's good exercise as well as fun. </s> I think so. </s> So why not come and join us? Lee will come as well. </s>",
+      "gt": " That's great. I will go hiking with you. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don't think I can afford to go on a hike right now. I have a lot of work to do this summer. "
+    },
+    {
+      "con": "<s> Good evening. </s> Good evening. Could you let us have a double room? </s>",
+      "gt": " How long will you be staying? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, of course. I'll let you know when we have a room for you. Have a nice evening! "
+    },
+    {
+      "con": "<s> Good evening. </s> Good evening. Could you let us have a double room? </s> How long will you be staying? </s>",
+      "gt": " A week or ten days. We'd like to have a quiet room, if possible-not too near the street. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " We will be staying for three nights.   \u007f. \u2019 s hotel. is that all right with you, sir?"
+    },
+    {
+      "con": "<s> Good evening. </s> Good evening. Could you let us have a double room? </s> How long will you be staying? </s> A week or ten days. We'd like to have a quiet room, if possible-not too near the street. </s>",
+      "gt": " Let me see. Yes, you can have Room 313. It's at the back. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How about the room? Could you please tell me where the room is located, and how long will it take to get there? "
+    },
+    {
+      "con": "<s> Good evening. </s> Good evening. Could you let us have a double room? </s> How long will you be staying? </s> A week or ten days. We'd like to have a quiet room, if possible-not too near the street. </s> Let me see. Yes, you can have Room 313. It's at the back. </s>",
+      "gt": " What's the price per day '? And are the meals included or extra? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you very much. I'll take a look at the room and see if we can fit it in. I'm sure we'll find"
+    },
+    {
+      "con": "<s> Good evening. </s> Good evening. Could you let us have a double room? </s> How long will you be staying? </s> A week or ten days. We'd like to have a quiet room, if possible-not too near the street. </s> Let me see. Yes, you can have Room 313. It's at the back. </s> What's the price per day '? And are the meals included or extra? </s>",
+      "gt": " 20 pounds per day, including breakfast. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " The price is $ 350 a night. And the extra meals are included, of course! "
+    },
+    {
+      "con": "<s> Good evening. </s> Good evening. Could you let us have a double room? </s> How long will you be staying? </s> A week or ten days. We'd like to have a quiet room, if possible-not too near the street. </s> Let me see. Yes, you can have Room 313. It's at the back. </s> What's the price per day '? And are the meals included or extra? </s> 20 pounds per day, including breakfast. </s>",
+      "gt": " All right, we'll take it. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How much is the room for a single bedroom, and how much does it cost for a two-bedroom room with a bath?"
+    },
+    {
+      "con": "<s> Good evening. </s> Good evening. Could you let us have a double room? </s> How long will you be staying? </s> A week or ten days. We'd like to have a quiet room, if possible-not too near the street. </s> Let me see. Yes, you can have Room 313. It's at the back. </s> What's the price per day '? And are the meals included or extra? </s> 20 pounds per day, including breakfast. </s> All right, we'll take it. </s>",
+      "gt": " Very good, sir. Will you register, please? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " All right. Thank you very much. I'll see you in a couple of days. Bye! "
+    },
+    {
+      "con": "<s> Good evening. </s> Good evening. Could you let us have a double room? </s> How long will you be staying? </s> A week or ten days. We'd like to have a quiet room, if possible-not too near the street. </s> Let me see. Yes, you can have Room 313. It's at the back. </s> What's the price per day '? And are the meals included or extra? </s> 20 pounds per day, including breakfast. </s> All right, we'll take it. </s> Very good, sir. Will you register, please? </s>",
+      "gt": " OK. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I'll register it. By the way, do you have any other rooms for us to stay in, sir? "
+    },
+    {
+      "con": "<s> Good evening. </s> Good evening. Could you let us have a double room? </s> How long will you be staying? </s> A week or ten days. We'd like to have a quiet room, if possible-not too near the street. </s> Let me see. Yes, you can have Room 313. It's at the back. </s> What's the price per day '? And are the meals included or extra? </s> 20 pounds per day, including breakfast. </s> All right, we'll take it. </s> Very good, sir. Will you register, please? </s> OK. </s>",
+      "gt": " Thank you. The porter will show you to your room ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I'll be registered. Thank you very much. I hope we can find a good room for us to stay. "
+    },
+    {
+      "con": "<s> Television is undoubtedly a great invention, but one of the main criticisms of it is that people just aren't selective enough. Lesley, got a television. how do you pick out the sorts ofprogrammes you want to watch? </s> I try and look at the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half-past eleven when the programmes finish. </s>",
+      "gt": " Do you think of television though as a great time-waster? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " what about television programs?  \u2019 s there anything in particular that you would like to see on the televsion? "
+    },
+    {
+      "con": "<s> Television is undoubtedly a great invention, but one of the main criticisms of it is that people just aren't selective enough. Lesley, got a television. how do you pick out the sorts ofprogrammes you want to watch? </s> I try and look at the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half-past eleven when the programmes finish. </s> Do you think of television though as a great time-waster? </s>",
+      "gt": " Un... I think it can be a time-waster and it depends on how particular people are about what they want to see... Mm, it can just be a sort total amusement for someone and totally consuming without reallyconsidering what it is they're watching. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I think television is a great way to entertain people, but I don't think it's a good way to spend time. I think"
+    },
+    {
+      "con": "<s> Television is undoubtedly a great invention, but one of the main criticisms of it is that people just aren't selective enough. Lesley, got a television. how do you pick out the sorts ofprogrammes you want to watch? </s> I try and look at the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half-past eleven when the programmes finish. </s> Do you think of television though as a great time-waster? </s> Un... I think it can be a time-waster and it depends on how particular people are about what they want to see... Mm, it can just be a sort total amusement for someone and totally consuming without reallyconsidering what it is they're watching. </s>",
+      "gt": " Aha, but how do you prevent it coming into your life and taking oversour evenings and at the same time perhaps get... get out of thetelevision some of the sort of best things... best programmes that... that undoubtedly are on tele",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don't think it's a problem. I think that people who don't have time to watch television are just lazy people. "
+    },
+    {
+      "con": "<s> Television is undoubtedly a great invention, but one of the main criticisms of it is that people just aren't selective enough. Lesley, got a television. how do you pick out the sorts ofprogrammes you want to watch? </s> I try and look at the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half-past eleven when the programmes finish. </s> Do you think of television though as a great time-waster? </s> Un... I think it can be a time-waster and it depends on how particular people are about what they want to see... Mm, it can just be a sort total amusement for someone and totally consuming without reallyconsidering what it is they're watching. </s> Aha, but how do you prevent it coming into your life and taking oversour evenings and at the same time perhaps get... get out of thetelevision some of the sort of best things... best programmes that... that undoubtedly are on television? </s>",
+      "gt": " Well, I suppose one of the problems is... will depend on what a person's life style is, and that if he has other outside interests which are equally important to him as television, he will then, you know, hmm. be more careful about which programme she wants to",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don't think that's a bad idea. I think that the best way to watch television is to watch it in person. "
+    },
+    {
+      "con": "<s>ive enough. Lesley, got a television. how do you pick out the sorts ofprogrammes you want to watch? </s> I try and look at the programmes that are on to decide which particular ones interest me, rather than you turning it on a seven o'clock and you leaving it on until half-past eleven when the programmes finish. </s> Do you think of television though as a great time-waster? </s> Un... I think it can be a time-waster and it depends on how particular people are about what they want to see... Mm, it can just be a sort total amusement for someone and totally consuming without reallyconsidering what it is they're watching. </s> Aha, but how do you prevent it coming into your life and taking oversour evenings and at the same time perhaps get... get out of thetelevision some of the sort of best things... best programmes that... that undoubtedly are on television? </s> Well, I suppose one of the problems is... will depend on what a person's life style is, and that if he has other outside interests which are equally important to him as television, he will then, you know, hmm. be more careful about which programme she wants to watch because he has time which he wants to use for other things. </s>",
+      "gt": " Do you think though that... that in... in a sense television skilled people's own er... sort of, creativity or their ability entertain themselves because if they're bored all they do is justturn on the television? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I think you're right. I'll have to talk to him about it. I don't want to make a big deal out of it"
+    },
+    {
+      "con": "<s> than you turning it on a seven o'clock and you leaving it on until half-past eleven when the programmes finish. </s> Do you think of television though as a great time-waster? </s> Un... I think it can be a time-waster and it depends on how particular people are about what they want to see... Mm, it can just be a sort total amusement for someone and totally consuming without reallyconsidering what it is they're watching. </s> Aha, but how do you prevent it coming into your life and taking oversour evenings and at the same time perhaps get... get out of thetelevision some of the sort of best things... best programmes that... that undoubtedly are on television? </s> Well, I suppose one of the problems is... will depend on what a person's life style is, and that if he has other outside interests which are equally important to him as television, he will then, you know, hmm. be more careful about which programme she wants to watch because he has time which he wants to use for other things. </s> Do you think though that... that in... in a sense television skilled people's own er... sort of, creativity or their ability entertain themselves because if they're bored all they do is justturn on the television? </s>",
+      "gt": " Yes, I think that is a danger, and I think that.. in fact is what mishappening to a lot of people who use it as their... their main... um field of amusement and... because they don't have other outside interests and even when people come",
+      "dd_cc_ESIM_72F269F0_e[19]": " I think he'll be able to do that. He's very good at that kind of thing... "
+    },
+    {
+      "con": "<s> Look over there. That is what I am looking for. Let's go! </s> I want to see you play. Be quick! </s>",
+      "gt": " Don \u2019 t chicken out! Come on! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " OK. I will be there in a minute. I am sorry, but I have to go. "
+    },
+    {
+      "con": "<s> Do you take reservations? </s> Of course. Reservations aren't necessary, but we recommend them as our restaurant can get quite busy. </s>",
+      "gt": " I need a table for two for tonight. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the reservation? Do you have to pay for them, or do you get to bring them to the restaurant yourself? "
+    },
+    {
+      "con": "<s> Do you take reservations? </s> Of course. Reservations aren't necessary, but we recommend them as our restaurant can get quite busy. </s> I need a table for two for tonight. </s>",
+      "gt": " What time? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the table?  \u2019 shanghai food is the best in the world. I recommend you try it. "
+    },
+    {
+      "con": "<s> Do you take reservations? </s> Of course. Reservations aren't necessary, but we recommend them as our restaurant can get quite busy. </s> I need a table for two for tonight. </s> What time? </s>",
+      "gt": " We'd like to be seated at 8p m. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " The table is at 10:00 p. m. I'd like to have a glass of wine first, but I don't want to"
+    },
+    {
+      "con": "<s> Do you take reservations? </s> Of course. Reservations aren't necessary, but we recommend them as our restaurant can get quite busy. </s> I need a table for two for tonight. </s> What time? </s> We'd like to be seated at 8p m. </s>",
+      "gt": " Smoking or non? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What time would you like the table to be served? I'll see if I can arrange something for you at 8 pm."
+    },
+    {
+      "con": "<s> Do you take reservations? </s> Of course. Reservations aren't necessary, but we recommend them as our restaurant can get quite busy. </s> I need a table for two for tonight. </s> What time? </s> We'd like to be seated at 8p m. </s> Smoking or non? </s>",
+      "gt": " Non-smoking. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Non-smoking, please. We don't want to have to deal with the smell of cigarettes in the restaurant."
+    },
+    {
+      "con": "<s> Do you take reservations? </s> Of course. Reservations aren't necessary, but we recommend them as our restaurant can get quite busy. </s> I need a table for two for tonight. </s> What time? </s> We'd like to be seated at 8p m. </s> Smoking or non? </s> Non-smoking. </s>",
+      "gt": " What name is the reservation under? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What time would you like the table to be served at?  editorialize "
+    },
+    {
+      "con": "<s> Do you take reservations? </s> Of course. Reservations aren't necessary, but we recommend them as our restaurant can get quite busy. </s> I need a table for two for tonight. </s> What time? </s> We'd like to be seated at 8p m. </s> Smoking or non? </s> Non-smoking. </s> What name is the reservation under? </s>",
+      "gt": " My name is Paul. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " It's under the name of Smoker's Club, and the restaurant is located in the downtown downtown area. "
+    },
+    {
+      "con": "<s> Do you take reservations? </s> Of course. Reservations aren't necessary, but we recommend them as our restaurant can get quite busy. </s> I need a table for two for tonight. </s> What time? </s> We'd like to be seated at 8p m. </s> Smoking or non? </s> Non-smoking. </s> What name is the reservation under? </s> My name is Paul. </s>",
+      "gt": " Ok. Please arrive at seven forty-five. We can only hold the table until 8,15. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What time is the table?  editor-in-called, the table is 8 pm "
+    },
+    {
+      "con": "<s> Quite a few times, I had my back to the wall. </s> Really? Generally they will turn out to be a good thing. </s>",
+      "gt": " That \u2019 s right. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I know, but I was afraid I was going to have to deal with the consequences of having my back slammed on me. "
+    },
+    {
+      "con": "<s> Quite a few times, I had my back to the wall. </s> Really? Generally they will turn out to be a good thing. </s> That \u2019 s right. </s>",
+      "gt": " You \u2019 ll exert all your energy and get out of it. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I \u2019 m glad that you didn \u2019 t let it get to you. I hope you \u2019 ll never have to go"
+    },
+    {
+      "con": "<s> What do you usually have for breakfast? Pancakes or waffles? </s> I usually have cereal for breakfast. </s>",
+      "gt": " But isn't it served with cold milk? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What kind of cereals do you have?   \u2019 shanghai noodles are popular in China. "
+    },
+    {
+      "con": "<s> What do you usually have for breakfast? Pancakes or waffles? </s> I usually have cereal for breakfast. </s> But isn't it served with cold milk? </s>",
+      "gt": " Yeah. Cold milk wakes me up. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, it is served in cold milk, but I usually drink hot milk in the morning. I like to drink hot chocolate in the"
+    },
+    {
+      "con": "<s> What do you usually have for breakfast? Pancakes or waffles? </s> I usually have cereal for breakfast. </s> But isn't it served with cold milk? </s> Yeah. Cold milk wakes me up. </s>",
+      "gt": " Chinese people don't like to eat cold food. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about it wakes you up? It doesn't taste as good as it does to me! "
+    },
+    {
+      "con": "<s> What do you usually have for breakfast? Pancakes or waffles? </s> I usually have cereal for breakfast. </s> But isn't it served with cold milk? </s> Yeah. Cold milk wakes me up. </s> Chinese people don't like to eat cold food. </s>",
+      "gt": " Is that right? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " But it's so good. I don't know what I would do if I didn't have it every morning. I can't live without"
+    },
+    {
+      "con": "<s> What do you usually have for breakfast? Pancakes or waffles? </s> I usually have cereal for breakfast. </s> But isn't it served with cold milk? </s> Yeah. Cold milk wakes me up. </s> Chinese people don't like to eat cold food. </s> Is that right? </s>",
+      "gt": " But I'm open to new things. I'll have a bowl of cereal, too. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yeah. They don't want to eat food that isn't cooked, so they don't eat anything that's not cooked. "
+    },
+    {
+      "con": "<s> What do you usually have for breakfast? Pancakes or waffles? </s> I usually have cereal for breakfast. </s> But isn't it served with cold milk? </s> Yeah. Cold milk wakes me up. </s> Chinese people don't like to eat cold food. </s> Is that right? </s> But I'm open to new things. I'll have a bowl of cereal, too. </s>",
+      "gt": " With cold milk? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about breakfast?  I like pancakes with maple syrup. Do you like to have that with your coffee? "
+    },
+    {
+      "con": "<s> What do you usually have for breakfast? Pancakes or waffles? </s> I usually have cereal for breakfast. </s> But isn't it served with cold milk? </s> Yeah. Cold milk wakes me up. </s> Chinese people don't like to eat cold food. </s> Is that right? </s> But I'm open to new things. I'll have a bowl of cereal, too. </s> With cold milk? </s>",
+      "gt": " With cold milk! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, I'll just have a cup of hot milk with a little bit of ice cream. I don't want to get sick. "
+    },
+    {
+      "con": "<s> I know why Mr. Fro didn't like our ad idea! He doesn't know the first thing about coffee. </s> True. I always see him drinking instant. </s>",
+      "gt": " Let's take him some of Kitty's best and make the pitch again. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " He's not a big coffee drinker. He's more of a tea drinker! "
+    },
+    {
+      "con": "<s> I know why Mr. Fro didn't like our ad idea! He doesn't know the first thing about coffee. </s> True. I always see him drinking instant. </s> Let's take him some of Kitty's best and make the pitch again. </s>",
+      "gt": " Do you think that will be enough to make him have a change of heart? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Let's do it.  \u2019 s we're going to the Starbucks? "
+    },
+    {
+      "con": "<s> I know why Mr. Fro didn't like our ad idea! He doesn't know the first thing about coffee. </s> True. I always see him drinking instant. </s> Let's take him some of Kitty's best and make the pitch again. </s> Do you think that will be enough to make him have a change of heart? </s>",
+      "gt": " It's worth a shot. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I think that's a good idea. Let's make him a cup of coffee, and we'll take him to the coffee shop. "
+    },
+    {
+      "con": "<s> Did you hear about Bob and Mary? </s> No, what happened? </s>",
+      "gt": " They had an argument and split up. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " He was killed in a car accident last year. He was only in his thirties. "
+    },
+    {
+      "con": "<s> Did you hear about Bob and Mary? </s> No, what happened? </s> They had an argument and split up. </s>",
+      "gt": " Really, what's going to happen now? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Did they fight over who won the fight or did they split up because of something else? I don't want to get too personal. "
+    },
+    {
+      "con": "<s> What would you like? </s> We'd like to have western food today. Could you tell us something about it? </s>",
+      "gt": " Sure. The first food you have is appetizer, followed by a soup. Then you will have the main course. The last dishes are desserts. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Sure. It's a traditional dish of beef and potatoes with onions and garlic. "
+    },
+    {
+      "con": "<s> What would you like? </s> We'd like to have western food today. Could you tell us something about it? </s> Sure. The first food you have is appetizer, followed by a soup. Then you will have the main course. The last dishes are desserts. </s>",
+      "gt": " Well, it's quite different from the Chinese food. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the soup? Is it too spicy? I don't like spicy food very much, but I can tolerate it"
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s>",
+      "gt": " When do you open the tender? And where? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the tender? I'm not sure what kind of tender we're going to be. I'll have to see. "
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s>",
+      "gt": " We intend to open the tender at first next month in Beijing. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " The tender will be opened on Tuesday evening. We'll have it delivered to you at the end of the day"
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s> We intend to open the tender at first next month in Beijing. </s>",
+      "gt": " And when is the closing date? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How long will the wait time be? And what kind of tender are you looking for?"
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s> We intend to open the tender at first next month in Beijing. </s> And when is the closing date? </s>",
+      "gt": " The time period is set on June 29th. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " The tender date will be on the 10th of August. We'll have a lot of work to do before then. "
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s> We intend to open the tender at first next month in Beijing. </s> And when is the closing date? </s> The time period is set on June 29th. </s>",
+      "gt": " Could you please tell me something more about the conditions for the tender? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How long will it take you to open your tender, and where do you want it to be made? And how much will it cost"
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s> We intend to open the tender at first next month in Beijing. </s> And when is the closing date? </s> The time period is set on June 29th. </s> Could you please tell me something more about the conditions for the tender? </s>",
+      "gt": " All right. The area of the factory buildings is around 8,000 square meters. You can read the details in the invitations which will be sent tomorrow. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " The tender is supposed to be very tender, but the meat is not. It's too tough. We want to make sure that"
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s> We intend to open the tender at first next month in Beijing. </s> And when is the closing date? </s> The time period is set on June 29th. </s> Could you please tell me something more about the conditions for the tender? </s> All right. The area of the factory buildings is around 8,000 square meters. You can read the details in the invitations which will be sent tomorrow. </s>",
+      "gt": " Thank you for your information. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " The tender is going to be delivered to the factory at 8 o'clock. We'll send you the receipt"
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s> We intend to open the tender at first next month in Beijing. </s> And when is the closing date? </s> The time period is set on June 29th. </s> Could you please tell me something more about the conditions for the tender? </s> All right. The area of the factory buildings is around 8,000 square meters. You can read the details in the invitations which will be sent tomorrow. </s> Thank you for your information. </s>",
+      "gt": " You're welcome. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you very much. We will be glad to help you with any questions you may have about your tender"
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s> We intend to open the tender at first next month in Beijing. </s> And when is the closing date? </s> The time period is set on June 29th. </s> Could you please tell me something more about the conditions for the tender? </s> All right. The area of the factory buildings is around 8,000 square meters. You can read the details in the invitations which will be sent tomorrow. </s> Thank you for your information. </s> You're welcome. </s>",
+      "gt": " I'm sorry to have taken up too much of your time. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you. We'll be glad to do that for you. I'll send you an invitation as soon as we can get to the"
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s> We intend to open the tender at first next month in Beijing. </s> And when is the closing date? </s> The time period is set on June 29th. </s> Could you please tell me something more about the conditions for the tender? </s> All right. The area of the factory buildings is around 8,000 square meters. You can read the details in the invitations which will be sent tomorrow. </s> Thank you for your information. </s> You're welcome. </s> I'm sorry to have taken up too much of your time. </s>",
+      "gt": " It doesn't matter. We'll be in touch. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you.   \u2019 s my pleasure. I hope to see you again in the future."
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s> We intend to open the tender at first next month in Beijing. </s> And when is the closing date? </s> The time period is set on June 29th. </s> Could you please tell me something more about the conditions for the tender? </s> All right. The area of the factory buildings is around 8,000 square meters. You can read the details in the invitations which will be sent tomorrow. </s> Thank you for your information. </s> You're welcome. </s> I'm sorry to have taken up too much of your time. </s> It doesn't matter. We'll be in touch. </s>",
+      "gt": " Okay, bye! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you.   \u2019 shanghai is the capital of Hong Kong and the most populous city in"
+    },
+    {
+      "con": "<s> I've heard that you are going to call for a tender. What kind of goods would you like to buy? </s> Yes, we're ready to start the invitation to tender. You're well informed. We'd like to build new factory. </s> When do you open the tender? And where? </s> We intend to open the tender at first next month in Beijing. </s> And when is the closing date? </s> The time period is set on June 29th. </s> Could you please tell me something more about the conditions for the tender? </s> All right. The area of the factory buildings is around 8,000 square meters. You can read the details in the invitations which will be sent tomorrow. </s> Thank you for your information. </s> You're welcome. </s> I'm sorry to have taken up too much of your time. </s> It doesn't matter. We'll be in touch. </s> Okay, bye! </s>",
+      "gt": " Bye! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you. Bye! I hope to see you again in a few years. By the way, do you have any other questions?"
+    },
+    {
+      "con": "<s> Great! I landed on Classic Movies. </s> I didn't know you liked old movies. </s>",
+      "gt": " I love them, especially the all-time greats like Gone With the Wind. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I like old movies very much.    editor-in-commissioned by the New York Times"
+    },
+    {
+      "con": "<s> Great! I landed on Classic Movies. </s> I didn't know you liked old movies. </s> I love them, especially the all-time greats like Gone With the Wind. </s>",
+      "gt": " You're so right! Today's movies are just too commercial! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Gone with the Wind is one of my all time favorites. I can't believe it was made in 1939! "
+    },
+    {
+      "con": "<s> Great! I landed on Classic Movies. </s> I didn't know you liked old movies. </s> I love them, especially the all-time greats like Gone With the Wind. </s> You're so right! Today's movies are just too commercial! </s>",
+      "gt": " Sometimes I think Oscars are only awarded to movies that make a lot of money. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I know! I can't believe it's been so long since I've seen a movie in theaters. I miss the old days"
+    },
+    {
+      "con": "<s> What are you doing here? How about your resume now? </s> I still have no idea what to do now. </s>",
+      "gt": " Don't act like this. Please have good thoughts in your mind. What's behind you? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What do you want to do? You can apply for a job in your field, and you will have a better chance of getting a job"
+    },
+    {
+      "con": "<s> What are you doing here? How about your resume now? </s> I still have no idea what to do now. </s> Don't act like this. Please have good thoughts in your mind. What's behind you? </s>",
+      "gt": " I could not agree with you more. But I feel worried about what to do next as soon as I begin to write my resume. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'm not sure what I want to do. I don't know what I'm going to do with my life. I just want to"
+    },
+    {
+      "con": "<s> What are you doing here? How about your resume now? </s> I still have no idea what to do now. </s> Don't act like this. Please have good thoughts in your mind. What's behind you? </s> I could not agree with you more. But I feel worried about what to do next as soon as I begin to write my resume. </s>",
+      "gt": " There is no need to do like this. We can surf the net and find some templates for resume. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What's your current resume? I think you should write it down now. You don't have to worry about it any more. "
+    },
+    {
+      "con": "<s> What are you doing here? How about your resume now? </s> I still have no idea what to do now. </s> Don't act like this. Please have good thoughts in your mind. What's behind you? </s> I could not agree with you more. But I feel worried about what to do next as soon as I begin to write my resume. </s> There is no need to do like this. We can surf the net and find some templates for resume. </s>",
+      "gt": " Sounds good. I will do it in a jiffy. OK! Let's put our heads together. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I think that's a good idea. I'll do that right now. Thanks for your help! "
+    },
+    {
+      "con": "<s> What are you doing here? How about your resume now? </s> I still have no idea what to do now. </s> Don't act like this. Please have good thoughts in your mind. What's behind you? </s> I could not agree with you more. But I feel worried about what to do next as soon as I begin to write my resume. </s> There is no need to do like this. We can surf the net and find some templates for resume. </s> Sounds good. I will do it in a jiffy. OK! Let's put our heads together. </s>",
+      "gt": " You said it. We can also find some helpful advice from some experts. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " OK. Let's do it! I will write the resume in a newspaper! "
+    },
+    {
+      "con": "<s> What are you doing here? How about your resume now? </s> I still have no idea what to do now. </s> Don't act like this. Please have good thoughts in your mind. What's behind you? </s> I could not agree with you more. But I feel worried about what to do next as soon as I begin to write my resume. </s> There is no need to do like this. We can surf the net and find some templates for resume. </s> Sounds good. I will do it in a jiffy. OK! Let's put our heads together. </s> You said it. We can also find some helpful advice from some experts. </s>",
+      "gt": " Terrific! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What's the difference between a resume and a job? I don't know anything about the job market in this country! "
+    },
+    {
+      "con": "<s> Hello. Holiday Inn. How can I help you? </s> Yes. I booked a single room in your hotel for this Friday. But I \u2019 m sorry to say that I have to cancel it. My wife is very sick now. I don \u2019 t think she \u2019 ll be able to travel by this Friday. </s>",
+      "gt": " Oh, I \u2019 m sorry to hear that. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That \u2019 s OK. I hope she will be better by Friday. Have a nice trip! "
+    },
+    {
+      "con": "<s> Hello. Holiday Inn. How can I help you? </s> Yes. I booked a single room in your hotel for this Friday. But I \u2019 m sorry to say that I have to cancel it. My wife is very sick now. I don \u2019 t think she \u2019 ll be able to travel by this Friday. </s> Oh, I \u2019 m sorry to hear that. </s>",
+      "gt": " Thank you. Can I cancel my reservation? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " It \u2019 s OK. She will be back on her feet in a few days. I will just have to book another room. "
+    },
+    {
+      "con": "<s> Hello. Holiday Inn. How can I help you? </s> Yes. I booked a single room in your hotel for this Friday. But I \u2019 m sorry to say that I have to cancel it. My wife is very sick now. I don \u2019 t think she \u2019 ll be able to travel by this Friday. </s> Oh, I \u2019 m sorry to hear that. </s> Thank you. Can I cancel my reservation? </s>",
+      "gt": " Certainly. May I have your name, please? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, you \u2019 re welcome. I will book a room for you right now. Please call me when you book your room. "
+    },
+    {
+      "con": "<s> Hello. Holiday Inn. How can I help you? </s> Yes. I booked a single room in your hotel for this Friday. But I \u2019 m sorry to say that I have to cancel it. My wife is very sick now. I don \u2019 t think she \u2019 ll be able to travel by this Friday. </s> Oh, I \u2019 m sorry to hear that. </s> Thank you. Can I cancel my reservation? </s> Certainly. May I have your name, please? </s>",
+      "gt": " My name is Tom Smith. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " My name is Steven. I will be looking forward to seeing you on Friday. Have a good trip! "
+    },
+    {
+      "con": "<s> Hello. Holiday Inn. How can I help you? </s> Yes. I booked a single room in your hotel for this Friday. But I \u2019 m sorry to say that I have to cancel it. My wife is very sick now. I don \u2019 t think she \u2019 ll be able to travel by this Friday. </s> Oh, I \u2019 m sorry to hear that. </s> Thank you. Can I cancel my reservation? </s> Certainly. May I have your name, please? </s> My name is Tom Smith. </s>",
+      "gt": " Okay. I have canceled your reservation, Mr. Smith. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you very much. I will be sure to book your hotel room for next Friday. By the way, how much is the room?"
+    },
+    {
+      "con": "<s> Hello. Holiday Inn. How can I help you? </s> Yes. I booked a single room in your hotel for this Friday. But I \u2019 m sorry to say that I have to cancel it. My wife is very sick now. I don \u2019 t think she \u2019 ll be able to travel by this Friday. </s> Oh, I \u2019 m sorry to hear that. </s> Thank you. Can I cancel my reservation? </s> Certainly. May I have your name, please? </s> My name is Tom Smith. </s> Okay. I have canceled your reservation, Mr. Smith. </s>",
+      "gt": " Thank you very much. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you, Mr Smith. It \u2019 s very kind of you to reserve a room for me. I appreciate it very much."
+    },
+    {
+      "con": "<s> Hello. Holiday Inn. How can I help you? </s> Yes. I booked a single room in your hotel for this Friday. But I \u2019 m sorry to say that I have to cancel it. My wife is very sick now. I don \u2019 t think she \u2019 ll be able to travel by this Friday. </s> Oh, I \u2019 m sorry to hear that. </s> Thank you. Can I cancel my reservation? </s> Certainly. May I have your name, please? </s> My name is Tom Smith. </s> Okay. I have canceled your reservation, Mr. Smith. </s> Thank you very much. </s>",
+      "gt": " You \u2019 re welcome. I hope your wife is feeling better soon. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you, Mr. Smith. I hope you have a good trip. I will be looking forward to seeing you on your next trip."
+    },
+    {
+      "con": "<s> You should save some money on parking here. </s> Yeah, I don \u2019 t have to pay for a space on the street. </s>",
+      "gt": " Really? How long did it take you to find a spot yesterday? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " You \u2019 re right.  \u2019 s a good idea. I \u2019 ll take your word for it."
+    },
+    {
+      "con": "<s> You should save some money on parking here. </s> Yeah, I don \u2019 t have to pay for a space on the street. </s> Really? How long did it take you to find a spot yesterday? </s>",
+      "gt": " Well, last night it took me half an hour to find a spot when I came home from work. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " It \u2019 s been a while. I \u2019 m not sure how long it \u2019 ll take me to find one. "
+    },
+    {
+      "con": "<s> You should save some money on parking here. </s> Yeah, I don \u2019 t have to pay for a space on the street. </s> Really? How long did it take you to find a spot yesterday? </s> Well, last night it took me half an hour to find a spot when I came home from work. </s>",
+      "gt": " You get home late, don \u2019 t you? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the parking spot? Did you have a spot on the right side of the street or on the opposite side of a street? "
+    },
+    {
+      "con": "<s> You should save some money on parking here. </s> Yeah, I don \u2019 t have to pay for a space on the street. </s> Really? How long did it take you to find a spot yesterday? </s> Well, last night it took me half an hour to find a spot when I came home from work. </s> You get home late, don \u2019 t you? </s>",
+      "gt": " Yeah, around seven. Most of the street parking is gone by then. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yeah, but it \u2019 s not so bad. I \u2019 ll just park in the parking lot for a few minutes. "
+    },
+    {
+      "con": "<s> You should save some money on parking here. </s> Yeah, I don \u2019 t have to pay for a space on the street. </s> Really? How long did it take you to find a spot yesterday? </s> Well, last night it took me half an hour to find a spot when I came home from work. </s> You get home late, don \u2019 t you? </s> Yeah, around seven. Most of the street parking is gone by then. </s>",
+      "gt": " Ah, well. You can \u2019 t have everything. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That \u2019 s a good idea. I \u2019 ll have to take a look at the parking lot tomorrow and see if I can"
+    },
+    {
+      "con": "<s> You should save some money on parking here. </s> Yeah, I don \u2019 t have to pay for a space on the street. </s> Really? How long did it take you to find a spot yesterday? </s> Well, last night it took me half an hour to find a spot when I came home from work. </s> You get home late, don \u2019 t you? </s> Yeah, around seven. Most of the street parking is gone by then. </s> Ah, well. You can \u2019 t have everything. </s>",
+      "gt": " Yeah. I can live with it. It \u2019 s great to be living alone. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I \u2019 m not going to be late for work tomorrow. I'll just find a parking spot on the side of the road. "
+    },
+    {
+      "con": "<s> Have you figured out where you want to transfer to? </s> I can \u2019 t think of where to go. </s>",
+      "gt": " Where would you like to go to school? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about your current school? Have you thought about transferring to a different school? Or are you still looking for a new school? "
+    },
+    {
+      "con": "<s> Have you figured out where you want to transfer to? </s> I can \u2019 t think of where to go. </s> Where would you like to go to school? </s>",
+      "gt": " I really don \u2019 t know. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I \u2019 m thinking of going to the University of Pittsburgh. It \u2019 s a very good school. "
+    },
+    {
+      "con": "<s> Have you figured out where you want to transfer to? </s> I can \u2019 t think of where to go. </s> Where would you like to go to school? </s> I really don \u2019 t know. </s>",
+      "gt": " You can \u2019 t think of anything? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Why not?   \u2019 s there anything in particular that you would like to know about the schools you \u2019 Ve applied to"
+    },
+    {
+      "con": "<s> Have you figured out where you want to transfer to? </s> I can \u2019 t think of where to go. </s> Where would you like to go to school? </s> I really don \u2019 t know. </s> You can \u2019 t think of anything? </s>",
+      "gt": " I really like where I \u2019 m at now. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I can't think of any thing. I \u2019 m really not sure where I want to go, "
+    },
+    {
+      "con": "<s> Have you figured out where you want to transfer to? </s> I can \u2019 t think of where to go. </s> Where would you like to go to school? </s> I really don \u2019 t know. </s> You can \u2019 t think of anything? </s> I really like where I \u2019 m at now. </s>",
+      "gt": " So, why don \u2019 t you just stay here? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What do you like about where you \u2019 Ve been to school so far?  "
+    },
+    {
+      "con": "<s> Have you figured out where you want to transfer to? </s> I can \u2019 t think of where to go. </s> Where would you like to go to school? </s> I really don \u2019 t know. </s> You can \u2019 t think of anything? </s> I really like where I \u2019 m at now. </s> So, why don \u2019 t you just stay here? </s>",
+      "gt": " That may be what I \u2019 m going to do. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I can't afford to stay here for more than a year. I need to find a place that is closer to home. I don "
+    },
+    {
+      "con": "<s> Have you figured out where you want to transfer to? </s> I can \u2019 t think of where to go. </s> Where would you like to go to school? </s> I really don \u2019 t know. </s> You can \u2019 t think of anything? </s> I really like where I \u2019 m at now. </s> So, why don \u2019 t you just stay here? </s> That may be what I \u2019 m going to do. </s>",
+      "gt": " It \u2019 s a perfectly good school. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Where do you think you \u2019 ll go to college? I can tell you where I want to go, if you want. "
+    },
+    {
+      "con": "<s> Have you figured out where you want to transfer to? </s> I can \u2019 t think of where to go. </s> Where would you like to go to school? </s> I really don \u2019 t know. </s> You can \u2019 t think of anything? </s> I really like where I \u2019 m at now. </s> So, why don \u2019 t you just stay here? </s> That may be what I \u2019 m going to do. </s> It \u2019 s a perfectly good school. </s>",
+      "gt": " You \u2019 re absolutely right. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What school do you want me to transfer too, if you \u2019 ll just tell me where you would like it to be? "
+    },
+    {
+      "con": "<s> Have you figured out where you want to transfer to? </s> I can \u2019 t think of where to go. </s> Where would you like to go to school? </s> I really don \u2019 t know. </s> You can \u2019 t think of anything? </s> I really like where I \u2019 m at now. </s> So, why don \u2019 t you just stay here? </s> That may be what I \u2019 m going to do. </s> It \u2019 s a perfectly good school. </s> You \u2019 re absolutely right. </s>",
+      "gt": " Do you know what you \u2019 re going to do now? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I really hope you like where you are going to school, too. I hope it \u2019 ll be a good experience for you."
+    },
+    {
+      "con": "<s> Have you figured out where you want to transfer to? </s> I can \u2019 t think of where to go. </s> Where would you like to go to school? </s> I really don \u2019 t know. </s> You can \u2019 t think of anything? </s> I really like where I \u2019 m at now. </s> So, why don \u2019 t you just stay here? </s> That may be what I \u2019 m going to do. </s> It \u2019 s a perfectly good school. </s> You \u2019 re absolutely right. </s> Do you know what you \u2019 re going to do now? </s>",
+      "gt": " I \u2019 m just going to stay at PCC. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don't know what I want to do, but I know where I can go to get a better education. I think that \u2019"
+    },
+    {
+      "con": "<s> You like Titanic? That movie is so cheesy. </s> It's not cheesy! It's romantic. When it first came out, I saw it in the theaters five times in one week. </s>",
+      "gt": " Really? Well the special effects might have been good in 1997, but when you watch it today they make the film seem really cheesy. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don't think I could watch it that many times in a week. That's a lot! "
+    },
+    {
+      "con": "<s> You like Titanic? That movie is so cheesy. </s> It's not cheesy! It's romantic. When it first came out, I saw it in the theaters five times in one week. </s> Really? Well the special effects might have been good in 1997, but when you watch it today they make the film seem really cheesy. </s>",
+      "gt": " Alright, maybe it's a little bit cheesy. But come on, isn't it fun to go to a cheap flick once in a while? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I know what you mean. I don't like romantic movies at all. I'd rather watch a movie about a love story. "
+    },
+    {
+      "con": "<s> You like Titanic? That movie is so cheesy. </s> It's not cheesy! It's romantic. When it first came out, I saw it in the theaters five times in one week. </s> Really? Well the special effects might have been good in 1997, but when you watch it today they make the film seem really cheesy. </s> Alright, maybe it's a little bit cheesy. But come on, isn't it fun to go to a cheap flick once in a while? </s>",
+      "gt": " Actually, I have to admit that you're right. I like some pretty cheesy movies too. I love Arnold Schwarzenegger action flicks, especially \" Terminator. \" ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don't think so. I like going to the theater to see a good movie. I think I'm going to see it again"
+    },
+    {
+      "con": "<s> You like Titanic? That movie is so cheesy. </s> It's not cheesy! It's romantic. When it first came out, I saw it in the theaters five times in one week. </s> Really? Well the special effects might have been good in 1997, but when you watch it today they make the film seem really cheesy. </s> Alright, maybe it's a little bit cheesy. But come on, isn't it fun to go to a cheap flick once in a while? </s> Actually, I have to admit that you're right. I like some pretty cheesy movies too. I love Arnold Schwarzenegger action flicks, especially \" Terminator. \" </s>",
+      "gt": " Haha, that's definitely a cheesy movie too. Did you watch it over and over again? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I like that movie, too. But I don't think I like it as much as I did when it came out in 2007."
+    },
+    {
+      "con": "<s> You like Titanic? That movie is so cheesy. </s> It's not cheesy! It's romantic. When it first came out, I saw it in the theaters five times in one week. </s> Really? Well the special effects might have been good in 1997, but when you watch it today they make the film seem really cheesy. </s> Alright, maybe it's a little bit cheesy. But come on, isn't it fun to go to a cheap flick once in a while? </s> Actually, I have to admit that you're right. I like some pretty cheesy movies too. I love Arnold Schwarzenegger action flicks, especially \" Terminator. \" </s> Haha, that's definitely a cheesy movie too. Did you watch it over and over again? </s>",
+      "gt": " Well... I saw it only once, but for the next two months when I talked to people, I pretended I was the Terminator. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " It's a good movie. But I don't think it's as romantic as Titanic! "
+    },
+    {
+      "con": "<s> Thank you for joining us this evening at Chez Attitude. </s> I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people. </s>",
+      "gt": " Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I am so sorry, but we can't make it. We have to cancel our reservations. I am very sorry. "
+    },
+    {
+      "con": "<s> Thank you for joining us this evening at Chez Attitude. </s> I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people. </s> Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. </s>",
+      "gt": " We are going to have a drink while we are waiting. Please let the hostess know that she can find us there. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank You, Mr. Foster. I am very pleased to meet you. I hope you have a wonderful evening! "
+    },
+    {
+      "con": "<s> Thank you for joining us this evening at Chez Attitude. </s> I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people. </s> Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. </s> We are going to have a drink while we are waiting. Please let the hostess know that she can find us there. </s>",
+      "gt": " She will come and let you know when your table is prepared. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I am sure that she will be able to find us. I will let her know as soon as possible. Thank you very much. "
+    },
+    {
+      "con": "<s> Thank you for joining us this evening at Chez Attitude. </s> I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people. </s> Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. </s> We are going to have a drink while we are waiting. Please let the hostess know that she can find us there. </s> She will come and let you know when your table is prepared. </s>",
+      "gt": " Those patio tables are new, aren't they? Would it be possible to be seated out there? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank You for your consideration. I hope you have a wonderful evening. Bye! "
+    },
+    {
+      "con": "<s> Thank you for joining us this evening at Chez Attitude. </s> I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people. </s> Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. </s> We are going to have a drink while we are waiting. Please let the hostess know that she can find us there. </s> She will come and let you know when your table is prepared. </s> Those patio tables are new, aren't they? Would it be possible to be seated out there? </s>",
+      "gt": " An outside table is available right now if you would like to be seated immediately. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, they will be out. We will have a table ready for you at 7 o'clock, and you will be served"
+    },
+    {
+      "con": "<s> Thank you for joining us this evening at Chez Attitude. </s> I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people. </s> Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. </s> We are going to have a drink while we are waiting. Please let the hostess know that she can find us there. </s> She will come and let you know when your table is prepared. </s> Those patio tables are new, aren't they? Would it be possible to be seated out there? </s> An outside table is available right now if you would like to be seated immediately. </s>",
+      "gt": " We would love to sit outside. Thanks for your help! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, we will be out there in a minute. We will have a table ready for you at 7:30 p. m. "
+    },
+    {
+      "con": "<s> Thank you for joining us this evening at Chez Attitude. </s> I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people. </s> Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. </s> We are going to have a drink while we are waiting. Please let the hostess know that she can find us there. </s> She will come and let you know when your table is prepared. </s> Those patio tables are new, aren't they? Would it be possible to be seated out there? </s> An outside table is available right now if you would like to be seated immediately. </s> We would love to sit outside. Thanks for your help! </s>",
+      "gt": " Here is your table, and now may I take your drink order while you are considering what to have for dinner? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, we will be out there in about twenty minutes. I hope you have a good time, and have a great time. "
+    },
+    {
+      "con": "<s> Thank you for joining us this evening at Chez Attitude. </s> I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people. </s> Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. </s> We are going to have a drink while we are waiting. Please let the hostess know that she can find us there. </s> She will come and let you know when your table is prepared. </s> Those patio tables are new, aren't they? Would it be possible to be seated out there? </s> An outside table is available right now if you would like to be seated immediately. </s> We would love to sit outside. Thanks for your help! </s> Here is your table, and now may I take your drink order while you are considering what to have for dinner? </s>",
+      "gt": " Yes, could you please bring us a pitcher of margaritas and four glasses while we are figuring out our dinner order? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, we will be out there at the moment. Thank you very much for coming to our restaurant. I hope to see you again."
+    },
+    {
+      "con": "<s> Thank you for joining us this evening at Chez Attitude. </s> I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people. </s> Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. </s> We are going to have a drink while we are waiting. Please let the hostess know that she can find us there. </s> She will come and let you know when your table is prepared. </s> Those patio tables are new, aren't they? Would it be possible to be seated out there? </s> An outside table is available right now if you would like to be seated immediately. </s> We would love to sit outside. Thanks for your help! </s> Here is your table, and now may I take your drink order while you are considering what to have for dinner? </s> Yes, could you please bring us a pitcher of margaritas and four glasses while we are figuring out our dinner order? </s>",
+      "gt": " I'll put your drink order in and be right back to get your dinner order. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, we will be waiting for you at the table. Thank you very much for your consideration, and I hope you have a good"
+    },
+    {
+      "con": "<s> Thank you for joining us this evening at Chez Attitude. </s> I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people. </s> Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment. </s> We are going to have a drink while we are waiting. Please let the hostess know that she can find us there. </s> She will come and let you know when your table is prepared. </s> Those patio tables are new, aren't they? Would it be possible to be seated out there? </s> An outside table is available right now if you would like to be seated immediately. </s> We would love to sit outside. Thanks for your help! </s> Here is your table, and now may I take your drink order while you are considering what to have for dinner? </s> Yes, could you please bring us a pitcher of margaritas and four glasses while we are figuring out our dinner order? </s> I'll put your drink order in and be right back to get your dinner order. </s>",
+      "gt": " We'll be ready to order by the time you get back! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, we will be waiting for you at the table, Mr. Foster. Thank you very much for your consideration, and I"
+    },
+    {
+      "con": "<s> My toothache started nearly a month ago. The pain's been keeping me awake. Would you please have a look? </s> Open your mouth, please. Which one? </s>",
+      "gt": " The one right at the back. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " The tootheche. I've been having a lot of pain in my tooth. "
+    },
+    {
+      "con": "<s> My toothache started nearly a month ago. The pain's been keeping me awake. Would you please have a look? </s> Open your mouth, please. Which one? </s> The one right at the back. </s>",
+      "gt": " I'm afraid we can \u2019 t save that one. It will have to come out. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How long have you had the tooth tootheche? Have you had it for a long time, or is it recent? "
+    },
+    {
+      "con": "<s> My toothache started nearly a month ago. The pain's been keeping me awake. Would you please have a look? </s> Open your mouth, please. Which one? </s> The one right at the back. </s> I'm afraid we can \u2019 t save that one. It will have to come out. </s>",
+      "gt": " Will it hurt much? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That \u2019 s all right. I \u2019 ll open it for you right now. I'm sorry, but I have to go"
+    },
+    {
+      "con": "<s> My toothache started nearly a month ago. The pain's been keeping me awake. Would you please have a look? </s> Open your mouth, please. Which one? </s> The one right at the back. </s> I'm afraid we can \u2019 t save that one. It will have to come out. </s> Will it hurt much? </s>",
+      "gt": " I'll give you an injection, then you won't feel pain. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " It \u2019 s going to hurt a little, but it \u2019 ll go away in a couple of days. It won \u2019"
+    },
+    {
+      "con": "<s> My toothache started nearly a month ago. The pain's been keeping me awake. Would you please have a look? </s> Open your mouth, please. Which one? </s> The one right at the back. </s> I'm afraid we can \u2019 t save that one. It will have to come out. </s> Will it hurt much? </s> I'll give you an injection, then you won't feel pain. </s>",
+      "gt": " ( 5 minutes later ) OK, it's all over. Spit there and bite the cotton ball tightly in place for half an hour. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you.   \u2019 s your name, by the way. I \u2019 ll call you when I feel better. "
+    },
+    {
+      "con": "<s> Want to send out for some Chinese? </s> Some what? </s>",
+      "gt": " Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Chinese food is my favorite. I'd like to send some Chinese food to my family. "
+    },
+    {
+      "con": "<s> Want to send out for some Chinese? </s> Some what? </s> Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. </s>",
+      "gt": " No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center?",
+      "dd_cc_ESIM_72F269F0_e[19]": " That \u2019 ll be fine. I don \u2019 t mind watching the news while I eat. What about the Chinese food? "
+    },
+    {
+      "con": "<s> Want to send out for some Chinese? </s> Some what? </s> Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. </s> No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center? </s>",
+      "gt": " Okay. I could go for that. It \u2019 s called Al \u2019 s Steakhouse. They also have great fried fish, and I love their salad bar. You can go back to refill 1 your plate as often as you like. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, the Chinese place is much better than the one we went to last time. I don \u2019 t like the food there. "
+    },
+    {
+      "con": "<s> Want to send out for some Chinese? </s> Some what? </s> Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. </s> No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center? </s> Okay. I could go for that. It \u2019 s called Al \u2019 s Steakhouse. They also have great fried fish, and I love their salad bar. You can go back to refill 1 your plate as often as you like. </s>",
+      "gt": " Is that the place that serves such large portions of meat? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, we \u2019 ll have to go there. I don \u2019 t know what kind of food they serve there, but I"
+    },
+    {
+      "con": "<s> Want to send out for some Chinese? </s> Some what? </s> Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. </s> No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center? </s> Okay. I could go for that. It \u2019 s called Al \u2019 s Steakhouse. They also have great fried fish, and I love their salad bar. You can go back to refill 1 your plate as often as you like. </s> Is that the place that serves such large portions of meat? </s>",
+      "gt": " Yes, their steaks are enormous. Sometimes I can \u2019 t finish what I \u2019 Ve ordered. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, we can go to that restaurant. I think we \u2019 ll have to wait a little longer before we decide to go out"
+    },
+    {
+      "con": "<s> Want to send out for some Chinese? </s> Some what? </s> Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. </s> No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center? </s> Okay. I could go for that. It \u2019 s called Al \u2019 s Steakhouse. They also have great fried fish, and I love their salad bar. You can go back to refill 1 your plate as often as you like. </s> Is that the place that serves such large portions of meat? </s> Yes, their steaks are enormous. Sometimes I can \u2019 t finish what I \u2019 Ve ordered. </s>",
+      "gt": " What if that happens to me? I hate to let food go to waste. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, we \u2019 ll have that, too. We \u2019 re going to the Chinese restaurant to get some steak. "
+    },
+    {
+      "con": "<s> Want to send out for some Chinese? </s> Some what? </s> Some Chinese food. I \u2019 m hungry, and there \u2019 s a take-out restaurant near here. We can have them deliver and then watch the news on TV while we eat. </s> No, I \u2019 d rather go out. The Chinese food here is rather different from what I had at home. Maybe we can try some other food today... What about that all-you-can-eat place we passed the other day, the one over in the shopping center? </s> Okay. I could go for that. It \u2019 s called Al \u2019 s Steakhouse. They also have great fried fish, and I love their salad bar. You can go back to refill 1 your plate as often as you like. </s> Is that the place that serves such large portions of meat? </s> Yes, their steaks are enormous. Sometimes I can \u2019 t finish what I \u2019 Ve ordered. </s> What if that happens to me? I hate to let food go to waste. </s>",
+      "gt": " Don \u2019 t worry. We \u2019 ll just get a doggie bag. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, we \u2019 re not going to Vegetarian restaurants. We \u2019 ll go to a Chinese restaurant. "
+    },
+    {
+      "con": "<s> Excuse me. I have booked one ticket on BN118 for tomorrow.But now I've changed my plan.Can you help me refund the ticket? </s> Sure. </s>",
+      "gt": " Here is the ticket. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How much is the ticket for? Is it possible for me to get it refunded for tomorrow? I have to change my plan. "
+    },
+    {
+      "con": "<s> Excuse me. I have booked one ticket on BN118 for tomorrow.But now I've changed my plan.Can you help me refund the ticket? </s> Sure. </s> Here is the ticket. </s>",
+      "gt": " OK.madam. I have refunded it.You have to pay $ 15 for it. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you.   \u2019 shanghai Airline BNB118.Thank you very much. "
+    },
+    {
+      "con": "<s> What's up? You look depressed. </s> I just had a quarrel with him. </s>",
+      "gt": " Would you rather I taught him a lesson for you? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What happened?   \u2019 s the quarrerel is about your relationship with him? "
+    },
+    {
+      "con": "<s> What's up? You look depressed. </s> I just had a quarrel with him. </s> Would you rather I taught him a lesson for you? </s>",
+      "gt": " No, thanks. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, I don't want to teach him anything. I just want him to be happy. I can't help but feel sad. "
+    },
+    {
+      "con": "<s> What courses did you take in college? </s> I took a lot of courses, such as Philosophy, Logic, Ethics, Aesthetics, etc. </s>",
+      "gt": " Which course did you like best? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What was your major in college, if you don \u2019 t mind me asking?  "
+    },
+    {
+      "con": "<s> What courses did you take in college? </s> I took a lot of courses, such as Philosophy, Logic, Ethics, Aesthetics, etc. </s> Which course did you like best? </s>",
+      "gt": " I liked Aesthetics best. It is very impressive. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I liked Logophy the best, because it was one of the hardest courses I took in college, but it was also the"
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s>",
+      "gt": " Well, she's got a beautiful face and long curly red hair. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " She's a tall blonde girl with brown eyes. She's very nice, too. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s>",
+      "gt": " How tall is she? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Well, I'm afraid she's too short for me. I'm a guy with short brown hair. I can't date her. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s>",
+      "gt": " She's fairly tall, maybe 2 inches taller than me. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " She's about five feet tall. She's also taller than me, but not as tall as her boyfriend. He's taller."
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s>",
+      "gt": " Is she chubby? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That's not too bad. I think she's a good match. I'd like to go on a date with you, too. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s>",
+      "gt": " Not at all. She's actually very athletic. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " She's very thin. She's also very attractive. I think I'm going to ask her on a date this Friday evening. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s>",
+      "gt": " It sounds like she's pretty good-looking. Does she wear glasses? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about her?  \u2019 s name, age, race, hair color, or anything else?"
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s>",
+      "gt": " No, but she does wear contact lenses. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " She wears glasses. She weears prescription sunglasses, but she also wears contact lenses sometimes. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s>",
+      "gt": " How's her skin? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Does she have curly hair? She looks like she would make a good blonde friend! "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s> How's her skin? </s>",
+      "gt": " She's got a gorgeous complexion with a few freckles on her nose. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " She wears contacts, too. She says they help her see better, but I don't think they do much for her. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s> How's her skin? </s> She's got a gorgeous complexion with a few freckles on her nose. </s>",
+      "gt": " Does she have any piercings or tattoos? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " She wears contacts, too. She also wears glasses, and she wears a lot of jewelry. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s> How's her skin? </s> She's got a gorgeous complexion with a few freckles on her nose. </s> Does she have any piercings or tattoos? </s>",
+      "gt": " I think she has her ears pierced and she definitely has a few tattoos ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, she doesn't. iguanas are her favorite animal, and she's allergic to most insects"
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s> How's her skin? </s> She's got a gorgeous complexion with a few freckles on her nose. </s> Does she have any piercings or tattoos? </s> I think she has her ears pierced and she definitely has a few tattoos </s>",
+      "gt": " What's the tattoo on her foot like? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " She has no piercing. She just wears glasses all the time. She wears a lot of jewelry."
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s> How's her skin? </s> She's got a gorgeous complexion with a few freckles on her nose. </s> Does she have any piercings or tattoos? </s> I think she has her ears pierced and she definitely has a few tattoos </s> What's the tattoo on her foot like? </s>",
+      "gt": " It's a butterfly - everyone in her family has one. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " She has a piercing on her eyebrow, and she wears glasses. She wears contacts, too. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s> How's her skin? </s> She's got a gorgeous complexion with a few freckles on her nose. </s> Does she have any piercings or tattoos? </s> I think she has her ears pierced and she definitely has a few tattoos </s> What's the tattoo on her foot like? </s> It's a butterfly - everyone in her family has one. </s>",
+      "gt": " Even her mom? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " She has a piercing in her nose, but it's not very noticeable. She doesn't have any tattoos either. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s> How's her skin? </s> She's got a gorgeous complexion with a few freckles on her nose. </s> Does she have any piercings or tattoos? </s> I think she has her ears pierced and she definitely has a few tattoos </s> What's the tattoo on her foot like? </s> It's a butterfly - everyone in her family has one. </s> Even her mom? </s>",
+      "gt": " Yes, even her mom. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, she doesn't. She wears glasses, but I don't think she wears any eye-producing. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s> How's her skin? </s> She's got a gorgeous complexion with a few freckles on her nose. </s> Does she have any piercings or tattoos? </s> I think she has her ears pierced and she definitely has a few tattoos </s> What's the tattoo on her foot like? </s> It's a butterfly - everyone in her family has one. </s> Even her mom? </s> Yes, even her mom. </s>",
+      "gt": " What's her personality like? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, she doesn't. She wears glasses, but doesn't wear her piercing eyebrows or anything like that."
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s> How's her skin? </s> She's got a gorgeous complexion with a few freckles on her nose. </s> Does she have any piercings or tattoos? </s> I think she has her ears pierced and she definitely has a few tattoos </s> What's the tattoo on her foot like? </s> It's a butterfly - everyone in her family has one. </s> Even her mom? </s> Yes, even her mom. </s> What's her personality like? </s>",
+      "gt": " She's a lot like me. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, I don't think so. She doesn't have any tattoos either. She just wears glasses all the time. "
+    },
+    {
+      "con": "<s> Jacob, are you interested in helping me out and going on a blind date with a friend of mine? </s> That depends. What does she look like? </s> Well, she's got a beautiful face and long curly red hair. </s> How tall is she? </s> She's fairly tall, maybe 2 inches taller than me. </s> Is she chubby? </s> Not at all. She's actually very athletic. </s> It sounds like she's pretty good-looking. Does she wear glasses? </s> No, but she does wear contact lenses. </s> How's her skin? </s> She's got a gorgeous complexion with a few freckles on her nose. </s> Does she have any piercings or tattoos? </s> I think she has her ears pierced and she definitely has a few tattoos </s> What's the tattoo on her foot like? </s> It's a butterfly - everyone in her family has one. </s> Even her mom? </s> Yes, even her mom. </s> What's her personality like? </s> She's a lot like me. </s>",
+      "gt": " So there is something wrong with her! It was beginning to sound like she was too good to be true! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " She has a piercing eyebrow on her left eye, and she wears glasses. She also has a necklace"
+    },
+    {
+      "con": "<s> Our house is too small. We had better have a big one. </s> How could we ever manage to buy a big house when we are always living beyond our means? </s>",
+      "gt": " Shut up. You should think how to make fortunes, not look for a squabble. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " We could buy a bigger house, but we don't have enough money to do so. We have to live in a smaller house. "
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s>",
+      "gt": " don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " what about the store? It \u2019 ll cost you a lot, but you can \u2019 t go wrong with this one. "
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s>",
+      "gt": " really? I thought you hated shopping? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " what about the dress?  \u2019 ll you take me to the mall? "
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s> really? I thought you hated shopping? </s>",
+      "gt": " I do, that \u2019 s why you should appreciate this gift! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I love shopping.  \u2019 ll take you to the mall to get you a dress for your b-day."
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s> really? I thought you hated shopping? </s> I do, that \u2019 s why you should appreciate this gift! </s>",
+      "gt": " sure. That \u2019 s really nice of you. Let \u2019 s go in and try some things on. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " what about this gift? I really want to buy a new sweater for my birthday. I can't wait to wear this one. "
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s> really? I thought you hated shopping? </s> I do, that \u2019 s why you should appreciate this gift! </s> sure. That \u2019 s really nice of you. Let \u2019 s go in and try some things on. </s>",
+      "gt": " how about this red dress? I think it would really suit you. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " what about this new dress? I really want to try it on. I think you \u2019 ll really like it. I will take"
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s> really? I thought you hated shopping? </s> I do, that \u2019 s why you should appreciate this gift! </s> sure. That \u2019 s really nice of you. Let \u2019 s go in and try some things on. </s> how about this red dress? I think it would really suit you. </s>",
+      "gt": " that \u2019 s gorgeous! Do they have it in a size 8? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " what about this dress?  \u2019 d you like this one? It \u2019 ll look great on you. I think you "
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s> really? I thought you hated shopping? </s> I do, that \u2019 s why you should appreciate this gift! </s> sure. That \u2019 s really nice of you. Let \u2019 s go in and try some things on. </s> how about this red dress? I think it would really suit you. </s> that \u2019 s gorgeous! Do they have it in a size 8? </s>",
+      "gt": " here you go.On any other day, it would cost me a fortune, but it \u2019 s on special offer today. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " what about the dress? It \u2019 ll look great on you. You \u2019 re going to look great in that red dress."
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s> really? I thought you hated shopping? </s> I do, that \u2019 s why you should appreciate this gift! </s> sure. That \u2019 s really nice of you. Let \u2019 s go in and try some things on. </s> how about this red dress? I think it would really suit you. </s> that \u2019 s gorgeous! Do they have it in a size 8? </s> here you go.On any other day, it would cost me a fortune, but it \u2019 s on special offer today. </s>",
+      "gt": " I think this color isn \u2019 t quite right for me. Do they have the same dress in white? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " what about the dress? It \u2019 ll look great on you. I think you \u2019 d look great in a red dress."
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s> really? I thought you hated shopping? </s> I do, that \u2019 s why you should appreciate this gift! </s> sure. That \u2019 s really nice of you. Let \u2019 s go in and try some things on. </s> how about this red dress? I think it would really suit you. </s> that \u2019 s gorgeous! Do they have it in a size 8? </s> here you go.On any other day, it would cost me a fortune, but it \u2019 s on special offer today. </s> I think this color isn \u2019 t quite right for me. Do they have the same dress in white? </s>",
+      "gt": " let me look. Let \u2019 s see... they \u2019 Ve got one in blue, green, pink, black... and white. Here you are. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I think you \u2019 re right. It \u2019 ll be a good day to go to the store and try on some dresses"
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s> really? I thought you hated shopping? </s> I do, that \u2019 s why you should appreciate this gift! </s> sure. That \u2019 s really nice of you. Let \u2019 s go in and try some things on. </s> how about this red dress? I think it would really suit you. </s> that \u2019 s gorgeous! Do they have it in a size 8? </s> here you go.On any other day, it would cost me a fortune, but it \u2019 s on special offer today. </s> I think this color isn \u2019 t quite right for me. Do they have the same dress in white? </s> let me look. Let \u2019 s see... they \u2019 Ve got one in blue, green, pink, black... and white. Here you are. </s>",
+      "gt": " this is perfect! What do you think? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I think you \u2019 re right. I will take a look at this dress. Thank you very much. I really appreciate it. "
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s> really? I thought you hated shopping? </s> I do, that \u2019 s why you should appreciate this gift! </s> sure. That \u2019 s really nice of you. Let \u2019 s go in and try some things on. </s> how about this red dress? I think it would really suit you. </s> that \u2019 s gorgeous! Do they have it in a size 8? </s> here you go.On any other day, it would cost me a fortune, but it \u2019 s on special offer today. </s> I think this color isn \u2019 t quite right for me. Do they have the same dress in white? </s> let me look. Let \u2019 s see... they \u2019 Ve got one in blue, green, pink, black... and white. Here you are. </s> this is perfect! What do you think? </s>",
+      "gt": " I think you look fantastic. Happy Birthday! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " what about this one? It \u2019 ll look great on you. I think you \u2019 re going to love it! I "
+    },
+    {
+      "con": "<s> what do you think about this store? I heard it \u2019 s a posh store that \u2019 s only got branches in big cities. </s> I love this store. The only problem is that it \u2019 s extremely expensive. </s> don \u2019 t worry. I \u2019 Ve decided that for your birthday I \u2019 m going to take you shopping for a new dress. </s> really? I thought you hated shopping? </s> I do, that \u2019 s why you should appreciate this gift! </s> sure. That \u2019 s really nice of you. Let \u2019 s go in and try some things on. </s> how about this red dress? I think it would really suit you. </s> that \u2019 s gorgeous! Do they have it in a size 8? </s> here you go.On any other day, it would cost me a fortune, but it \u2019 s on special offer today. </s> I think this color isn \u2019 t quite right for me. Do they have the same dress in white? </s> let me look. Let \u2019 s see... they \u2019 Ve got one in blue, green, pink, black... and white. Here you are. </s> this is perfect! What do you think? </s> I think you look fantastic. Happy Birthday! </s>",
+      "gt": " I \u2019 m so lucky. You only get a chance like this once in a blue moon! Thanks honey! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " thank you very much. I really appreciate that. I hope you have a great day!  "
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s>",
+      "gt": " Of course, you can. Please put your articles in this bag and seal it. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I'd like to deposit a small amount of cash and a small check. "
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s> Of course, you can. Please put your articles in this bag and seal it. </s>",
+      "gt": " OK. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you very much. I will put them in the bag now. May i have your name, please? I \u2019 d like to"
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s> Of course, you can. Please put your articles in this bag and seal it. </s> OK. </s>",
+      "gt": " Thank you. Here is your tag. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How much do you want to deposit here, Ma'am? I don't want to overcharge you. I'll do it"
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s> Of course, you can. Please put your articles in this bag and seal it. </s> OK. </s> Thank you. Here is your tag. </s>",
+      "gt": " Would you tell me the rate per day for depositing my bag? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you very much. May you have a look at the newspaper? It \u2019 s a very good magazine. "
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s> Of course, you can. Please put your articles in this bag and seal it. </s> OK. </s> Thank you. Here is your tag. </s> Would you tell me the rate per day for depositing my bag? </s>",
+      "gt": " Sure, madam. Only one dollar. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " The rate is $ 5.50 per day. Here are your receipt, and your credit card number. Here you are. "
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s> Of course, you can. Please put your articles in this bag and seal it. </s> OK. </s> Thank you. Here is your tag. </s> Would you tell me the rate per day for depositing my bag? </s> Sure, madam. Only one dollar. </s>",
+      "gt": " When does the cloakroom close? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " OK. Thank you very much. I \u2019 ll put it in the bag and bring it to the post office tomorrow morning. "
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s> Of course, you can. Please put your articles in this bag and seal it. </s> OK. </s> Thank you. Here is your tag. </s> Would you tell me the rate per day for depositing my bag? </s> Sure, madam. Only one dollar. </s> When does the cloakroom close? </s>",
+      "gt": " This cloakroom is open until 10 p. m. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " The cloak room closes at 8:00 p. m. and it is on the first floor, so it is very close to"
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s> Of course, you can. Please put your articles in this bag and seal it. </s> OK. </s> Thank you. Here is your tag. </s> Would you tell me the rate per day for depositing my bag? </s> Sure, madam. Only one dollar. </s> When does the cloakroom close? </s> This cloakroom is open until 10 p. m. </s>",
+      "gt": " Oh, dear! I won't be back until about 11:30 tonight. Where can I pick up my bag? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " OK. Here you are. Thank you very much for your help. I \u2019 ll be back in a couple of minutes. "
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s> Of course, you can. Please put your articles in this bag and seal it. </s> OK. </s> Thank you. Here is your tag. </s> Would you tell me the rate per day for depositing my bag? </s> Sure, madam. Only one dollar. </s> When does the cloakroom close? </s> This cloakroom is open until 10 p. m. </s> Oh, dear! I won't be back until about 11:30 tonight. Where can I pick up my bag? </s>",
+      "gt": " We will transfer your bag to the Lobby Floor Cloakroom. You may collect it there, madam. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " OK. Here you are. Thank you for your help. I hope you have a good night. Bye! "
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s> Of course, you can. Please put your articles in this bag and seal it. </s> OK. </s> Thank you. Here is your tag. </s> Would you tell me the rate per day for depositing my bag? </s> Sure, madam. Only one dollar. </s> When does the cloakroom close? </s> This cloakroom is open until 10 p. m. </s> Oh, dear! I won't be back until about 11:30 tonight. Where can I pick up my bag? </s> We will transfer your bag to the Lobby Floor Cloakroom. You may collect it there, madam. </s>",
+      "gt": " I see. Thanks a lot. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Goodbye, Madam.Thank you for your help. Bye! "
+    },
+    {
+      "con": "<s> Good afternoon, ma'am. May I help you? </s> Yes. Can I deposit valuables here? </s> Of course, you can. Please put your articles in this bag and seal it. </s> OK. </s> Thank you. Here is your tag. </s> Would you tell me the rate per day for depositing my bag? </s> Sure, madam. Only one dollar. </s> When does the cloakroom close? </s> This cloakroom is open until 10 p. m. </s> Oh, dear! I won't be back until about 11:30 tonight. Where can I pick up my bag? </s> We will transfer your bag to the Lobby Floor Cloakroom. You may collect it there, madam. </s> I see. Thanks a lot. </s>",
+      "gt": " You're welcome. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Goodbye, Madam.Thank you for your help. See you later! "
+    },
+    {
+      "con": "<s> How can I help you this afternoon? </s> I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter. </s>",
+      "gt": " Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What's the money for? iguanas are in need of food and water, so I'll give you some money. "
+    },
+    {
+      "con": "<s> How can I help you this afternoon? </s> I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter. </s> Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up. </s>",
+      "gt": " Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What's the hold-up? The ATM has been out for a few days now, but it's still not refilled. "
+    },
+    {
+      "con": "<s> How can I help you this afternoon? </s> I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter. </s> Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up. </s> Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon. </s>",
+      "gt": " You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " That's true, but it's hard to find a good time to go to the bank during the daytime. I'll have to wait"
+    },
+    {
+      "con": "<s> How can I help you this afternoon? </s> I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter. </s> Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up. </s> Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon. </s> You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please? </s>",
+      "gt": " I did that already, while I was waiting. Also, here's my card. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'm sorry, but I can't do that right now. I'll have to wait until after lunchtime. I'm afraid I can"
+    },
+    {
+      "con": "<s> How can I help you this afternoon? </s> I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter. </s> Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up. </s> Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon. </s> You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please? </s> I did that already, while I was waiting. Also, here's my card. </s>",
+      "gt": " Thank you. And you require... ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'm sorry, but I can't do that right now. I'm trying to make a reservation for a tablet. "
+    },
+    {
+      "con": "<s> How can I help you this afternoon? </s> I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter. </s> Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up. </s> Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon. </s> You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please? </s> I did that already, while I was waiting. Also, here's my card. </s> Thank you. And you require... </s>",
+      "gt": " 800 RIB, please. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'm sorry, but I can't do that right now. I've got to go to the bank to get my money back. "
+    },
+    {
+      "con": "<s> How can I help you this afternoon? </s> I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter. </s> Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up. </s> Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon. </s> You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please? </s> I did that already, while I was waiting. Also, here's my card. </s> Thank you. And you require... </s> 800 RIB, please. </s>",
+      "gt": " Please enter your personal code right here, on the key pad. And sign here, please. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'm sorry, but I can't do that right now. I've got to go to the bank to get my money back. "
+    },
+    {
+      "con": "<s> How can I help you this afternoon? </s> I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter. </s> Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up. </s> Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon. </s> You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please? </s> I did that already, while I was waiting. Also, here's my card. </s> Thank you. And you require... </s> 800 RIB, please. </s> Please enter your personal code right here, on the key pad. And sign here, please. </s>",
+      "gt": " OK... ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'm sorry, but I can't do that right now. I've got to get back to work. I'll see you later."
+    },
+    {
+      "con": "<s> How can I help you this afternoon? </s> I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter. </s> Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up. </s> Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon. </s> You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please? </s> I did that already, while I was waiting. Also, here's my card. </s> Thank you. And you require... </s> 800 RIB, please. </s> Please enter your personal code right here, on the key pad. And sign here, please. </s> OK... </s>",
+      "gt": " Thank you. Here's your card back and your money. Please double check it for me. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you very much. I'll fill out the form right now and I'll be back in a minute. Thank you for your help."
+    },
+    {
+      "con": "<s> How can I help you this afternoon? </s> I want to take out some money, but there's a massive queue for the ATM so I thought I'd do it over the counter. </s> Unfortunately, an ATM is being refilled because it ran out of money. That's what's causing the hold up. </s> Oh, I see. I thought maybe it was just the time of the day, although it isn't usually busy at 2:30 in the afternoon. </s> You are right, you've just missed the lunchtime rush. Could you fill out a withdrawal slip, please? </s> I did that already, while I was waiting. Also, here's my card. </s> Thank you. And you require... </s> 800 RIB, please. </s> Please enter your personal code right here, on the key pad. And sign here, please. </s> OK... </s> Thank you. Here's your card back and your money. Please double check it for me. </s>",
+      "gt": " Yes, that's great. Thanks. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you, and goodbye. I hope you have a good day. Bye! "
+    },
+    {
+      "con": "<s> What are you doing, Steven? </s> I'm going to Beijing tomorrow. I'm packing my luggage. </s>",
+      "gt": " What will you bring along when traveling? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How long are you going to be there for? Are you going for a business or pleasure?"
+    },
+    {
+      "con": "<s> What are you doing, Steven? </s> I'm going to Beijing tomorrow. I'm packing my luggage. </s> What will you bring along when traveling? </s>",
+      "gt": " I will take some clothes to change and cleaning items. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I'll bring my luxury bag with me. I want to have everything I need in one place at a time. I don't"
+    },
+    {
+      "con": "<s> What are you doing, Steven? </s> I'm going to Beijing tomorrow. I'm packing my luggage. </s> What will you bring along when traveling? </s> I will take some clothes to change and cleaning items. </s>",
+      "gt": " Have you packed the camera yet? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about your luggages? Are you going to bring anything else with you on the trip, or will it be all your own?"
+    },
+    {
+      "con": "<s> What are you doing, Steven? </s> I'm going to Beijing tomorrow. I'm packing my luggage. </s> What will you bring along when traveling? </s> I will take some clothes to change and cleaning items. </s> Have you packed the camera yet? </s>",
+      "gt": " Yes. I've already put it in my suitcase. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, I have. I'll take the camera with me on my next trip. I want to take some pictures of the city. "
+    },
+    {
+      "con": "<s> What are you doing, Steven? </s> I'm going to Beijing tomorrow. I'm packing my luggage. </s> What will you bring along when traveling? </s> I will take some clothes to change and cleaning items. </s> Have you packed the camera yet? </s> Yes. I've already put it in my suitcase. </s>",
+      "gt": " Pack some necessary medicine in your carry-on. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What about the camera?  \u2019 s the key to the traveler's destination?"
+    },
+    {
+      "con": "<s> What are you doing, Steven? </s> I'm going to Beijing tomorrow. I'm packing my luggage. </s> What will you bring along when traveling? </s> I will take some clothes to change and cleaning items. </s> Have you packed the camera yet? </s> Yes. I've already put it in my suitcase. </s> Pack some necessary medicine in your carry-on. </s>",
+      "gt": " I almost forget it. Thank you! ",
+      "dd_cc_ESIM_72F269F0_e[19]": " What kind of medicine do I need to take when I go to beijing? I've never heard of such a thing. "
+    },
+    {
+      "con": "<s> Did you go to school today? </s> Yeah, I went to school today. Were you there? </s>",
+      "gt": " No, I didn't go, I've been sick. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I was there.  \u2019 shanghai is a very popular school. "
+    },
+    {
+      "con": "<s> Did you go to school today? </s> Yeah, I went to school today. Were you there? </s> No, I didn't go, I've been sick. </s>",
+      "gt": " That sucks. Did you want the assignments from English class? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Oh, I'm sorry to hear that. I hope you feel better. What were you sick with, if you don't mind me asking"
+    },
+    {
+      "con": "<s> Did you go to school today? </s> Yeah, I went to school today. Were you there? </s> No, I didn't go, I've been sick. </s> That sucks. Did you want the assignments from English class? </s>",
+      "gt": " That would be nice, thank you. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, thank you. I'm not feeling well, so I don't want to do the homework. I want to study. "
+    },
+    {
+      "con": "<s> Did you go to school today? </s> Yeah, I went to school today. Were you there? </s> No, I didn't go, I've been sick. </s> That sucks. Did you want the assignments from English class? </s> That would be nice, thank you. </s>",
+      "gt": " No problem, you're welcome. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " You're welcome. I hope you feel better soon. I'll see you next week. Take care! "
+    },
+    {
+      "con": "<s> Did you go to school today? </s> Yeah, I went to school today. Were you there? </s> No, I didn't go, I've been sick. </s> That sucks. Did you want the assignments from English class? </s> That would be nice, thank you. </s> No problem, you're welcome. </s>",
+      "gt": " I will be glad to do the same for you when you're sick. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " How much did you want to pay for the English class, if you don't mind me asking?"
+    },
+    {
+      "con": "<s> Did you go to school today? </s> Yeah, I went to school today. Were you there? </s> No, I didn't go, I've been sick. </s> That sucks. Did you want the assignments from English class? </s> That would be nice, thank you. </s> No problem, you're welcome. </s> I will be glad to do the same for you when you're sick. </s>",
+      "gt": " Well, thank you. I hope to see you at school tomorrow. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Thank you, that would be very kind of you. Do you want to come to school with me next week? I'd like to see"
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s>",
+      "gt": " Well, I \u2019 Ve been meaning to talk to you about the situation in the office. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Oh, nothing. I \u2019 m just looking for a place to go to dinner. "
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s>",
+      "gt": " I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Oh, I see. Well, it \u2019 ll take me a while to get to you, but I think you \u2019 re"
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s> I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. </s>",
+      "gt": " That \u2019 s exactly what I \u2019 m getting at. We \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? Jack constantly has students coming in to get help with his course. A lot people are going in and",
+      "dd_cc_ESIM_72F269F0_e[19]": " Oh, I see. Well, you \u2019 re right. You \u2019 ll never be able to work in an office like that"
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s> I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. </s> That \u2019 s exactly what I \u2019 m getting at. We \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? Jack constantly has students coming in to get help with his course. A lot people are going in and out. </s>",
+      "gt": " Has anybody spoken to him about it? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Oh, I see. Well, it \u2019 ll be a while before I can do anything about it. I have to go to"
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s> I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. </s> That \u2019 s exactly what I \u2019 m getting at. We \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? Jack constantly has students coming in to get help with his course. A lot people are going in and out. </s> Has anybody spoken to him about it? </s>",
+      "gt": " No, not yet, but someone \u2019 s going to have to. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, he \u2019 ll be gone for a few days. I think he will be back in a couple of weeks. I "
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s> I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. </s> That \u2019 s exactly what I \u2019 m getting at. We \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? Jack constantly has students coming in to get help with his course. A lot people are going in and out. </s> Has anybody spoken to him about it? </s> No, not yet, but someone \u2019 s going to have to. </s>",
+      "gt": " We can \u2019 t really ask him to stop having students come in for help, can we? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, he \u2019 ll be gone in a few minutes. I will call him right now and see if he can help. "
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s> I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. </s> That \u2019 s exactly what I \u2019 m getting at. We \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? Jack constantly has students coming in to get help with his course. A lot people are going in and out. </s> Has anybody spoken to him about it? </s> No, not yet, but someone \u2019 s going to have to. </s> We can \u2019 t really ask him to stop having students come in for help, can we? </s>",
+      "gt": " No, of course not. But I \u2019 m not able to do my work and neither are you. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " Yes, we have. He \u2019 ll be back in a couple of days. I think he \u2019 d like to have a"
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s> I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. </s> That \u2019 s exactly what I \u2019 m getting at. We \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? Jack constantly has students coming in to get help with his course. A lot people are going in and out. </s> Has anybody spoken to him about it? </s> No, not yet, but someone \u2019 s going to have to. </s> We can \u2019 t really ask him to stop having students come in for help, can we? </s> No, of course not. But I \u2019 m not able to do my work and neither are you. </s>",
+      "gt": " How about recommending him to use the storage room down the hall? ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, we \u2019 ll just have to wait for him to get back to work. He will be back in a few days."
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s> I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. </s> That \u2019 s exactly what I \u2019 m getting at. We \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? Jack constantly has students coming in to get help with his course. A lot people are going in and out. </s> Has anybody spoken to him about it? </s> No, not yet, but someone \u2019 s going to have to. </s> We can \u2019 t really ask him to stop having students come in for help, can we? </s> No, of course not. But I \u2019 m not able to do my work and neither are you. </s> How about recommending him to use the storage room down the hall? </s>",
+      "gt": " Oh, that would be too small. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " He \u2019 ll be back in a couple of days. I think he \u2019 d like to go to the office with you."
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s> I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. </s> That \u2019 s exactly what I \u2019 m getting at. We \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? Jack constantly has students coming in to get help with his course. A lot people are going in and out. </s> Has anybody spoken to him about it? </s> No, not yet, but someone \u2019 s going to have to. </s> We can \u2019 t really ask him to stop having students come in for help, can we? </s> No, of course not. But I \u2019 m not able to do my work and neither are you. </s> How about recommending him to use the storage room down the hall? </s> Oh, that would be too small. </s>",
+      "gt": " With the cabinets taken out, it might be bigger than it looks. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, he \u2019 ll be back in a few minutes.    editor-in-commission. "
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s> I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. </s> That \u2019 s exactly what I \u2019 m getting at. We \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? Jack constantly has students coming in to get help with his course. A lot people are going in and out. </s> Has anybody spoken to him about it? </s> No, not yet, but someone \u2019 s going to have to. </s> We can \u2019 t really ask him to stop having students come in for help, can we? </s> No, of course not. But I \u2019 m not able to do my work and neither are you. </s> How about recommending him to use the storage room down the hall? </s> Oh, that would be too small. </s> With the cabinets taken out, it might be bigger than it looks. </s>",
+      "gt": " Come to think of it, you may be on to something. Let \u2019 s go have a look. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, we \u2019 ll just have to wait for him to get back. I hope he \u2019 d be back soon. "
+    },
+    {
+      "con": "<s> John, do you have a minute? </s> Oh, hi, Leo. Sure, what \u2019 s up? </s> Well, I \u2019 Ve been meaning to talk to you about the situation in the office. </s> I \u2019 m not in there very often. It \u2019 s so noisy that I can \u2019 t work. </s> That \u2019 s exactly what I \u2019 m getting at. We \u2019 re supposed to be able to do our preparation and marking in that office, but have you noticed? Jack constantly has students coming in to get help with his course. A lot people are going in and out. </s> Has anybody spoken to him about it? </s> No, not yet, but someone \u2019 s going to have to. </s> We can \u2019 t really ask him to stop having students come in for help, can we? </s> No, of course not. But I \u2019 m not able to do my work and neither are you. </s> How about recommending him to use the storage room down the hall? </s> Oh, that would be too small. </s> With the cabinets taken out, it might be bigger than it looks. </s> Come to think of it, you may be on to something. Let \u2019 s go have a look. </s>",
+      "gt": " Let \u2019 s rock n \u2019 roll. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " No, I think he \u2019 ll be back in a little while. I will let you know if you \u2019 d like to"
+    },
+    {
+      "con": "<s> Hello! I'd like to get busy on my computer, but I need some broadband. </s> There's an Ethernet cable in your room. Just plug it into the back of your laptop. </s>",
+      "gt": " Uh-oh! I can't use Ethernet. My computer is wireless only. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " I don't have a laptop. I need a broadband to get around my computer! "
+    },
+    {
+      "con": "<s> Hello! I'd like to get busy on my computer, but I need some broadband. </s> There's an Ethernet cable in your room. Just plug it into the back of your laptop. </s> Uh-oh! I can't use Ethernet. My computer is wireless only. </s>",
+      "gt": " That's okay. I can tell you about some alternatives we have. ",
+      "dd_cc_ESIM_72F269F0_e[19]": " You can use wireless, but you'll have to plug it in to your computer. It's the only way to use it. "
+    }
+]

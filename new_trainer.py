@@ -205,6 +205,10 @@ def _count_n_grams(token_lst, n):
   return n_grams
 
 def sequence_loss(model, batch, iteration, epoch):
+  if True:
+    total_loss = token_loss(model, batch, iteration)
+    return total_loss
+  
   if (epoch==0 and iteration<=1000) or torch.rand(1).item() >= 0.5:
     total_loss = token_loss(model, batch, iteration)
     return total_loss
@@ -363,11 +367,11 @@ def train(epoch, tokenizer, model, device, loader, optimizer):
 
 ## TRAIN LOOP
 print("TRAINING STARTED")
-for epoch in range(20):
+for epoch in range(10):
     print("EPOCH: ", epoch)
     train(epoch, tokenizer, seq_model, device, training_loader, optimizer)
     
 ## SAVING MODEL
-torch.save(seq_model.state_dict(), "./models/ull_dialogue_model_20.pth")
+torch.save(seq_model.state_dict(), "./models/mle_dialogue_model_20.pth")
 
 wandb.finish()

@@ -1,0 +1,2 @@
+alias eval_ddcc='python eval_gen.py -eckpt "/home/bishals/BTP_ULL/models/ull_dialogue_model_20.pth" -bckpt "/home/bishals/BTP_ULL/models/ull_dialogue_model_20.pth" -ds dd_cc -rjp /home/bishals/BTP_ULL/ablation_set1/dd_cc_300.json'
+eval_ddcc -pjp /home/bishals/BTP_ULL/results/dd_cc_mle_20.json -csv hf_decoder
